@@ -1,7 +1,7 @@
 # ITT 2026 joint outcome analysis
 
-This package supports the English manuscript **Ranking Prompt Injection
-Defenses for AI Agents Using Joint Outcome Bounds**. It is a completed secondary
+This package supports the English manuscript **Ranking Prompt Injection Defense 
+Configurations for AI Agents Using Joint Outcome Bounds**. It is a completed secondary
 analysis of published tables and archived execution logs. No new model executions,
 GPU access, model subscription, or API key are required to reproduce its numerical
 results. The final document uses the user-supplied IEEE A4 conference template
