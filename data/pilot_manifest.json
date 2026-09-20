@@ -1,0 +1,2949 @@
+{
+  "source_repository": "https://github.com/SaFo-Lab/AgentDyn",
+  "commit": "5353cf7615b135cace8d07c8f12dac53a16b6db3",
+  "repository_tree_truncated": true,
+  "sampling_seed": 20260915,
+  "tasks_per_suite": 4,
+  "attacks_per_task": 2,
+  "sampling_frame": "user_task_0 through user_task_19 in each suite",
+  "sampling_time_utc": "2026-09-15T13:45:02.814628+00:00",
+  "selection": {
+    "shopping": {
+      "3": [
+        0,
+        5
+      ],
+      "6": [
+        4,
+        6
+      ],
+      "18": [
+        2,
+        7
+      ],
+      "19": [
+        0,
+        2
+      ]
+    },
+    "github": {
+      "1": [
+        0,
+        4
+      ],
+      "3": [
+        4,
+        7
+      ],
+      "4": [
+        2,
+        7
+      ],
+      "6": [
+        1,
+        7
+      ]
+    },
+    "dailylife": {
+      "6": [
+        4,
+        8
+      ],
+      "9": [
+        2,
+        4
+      ],
+      "10": [
+        1,
+        4
+      ],
+      "13": [
+        2,
+        7
+      ]
+    }
+  },
+  "expected_files": 288,
+  "jobs": [
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "shopping",
+      "task_id": "user_task_3",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06/shopping/user_task_3/none/none.json",
+      "git_blob_sha1": "f5489b8b7a6cd358281ac194a2ed3dc1ac6d83bc",
+      "bytes_expected": 11229
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "shopping",
+      "task_id": "user_task_3",
+      "attack_id": 0,
+      "path": "runs/gpt-4o-2024-08-06/shopping/user_task_3/important_instructions/injection_task_0.json",
+      "git_blob_sha1": "1d3ef1ebbfb7b4714b715a2fe86e88e7839abdfb",
+      "bytes_expected": 12908
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "shopping",
+      "task_id": "user_task_3",
+      "attack_id": 5,
+      "path": "runs/gpt-4o-2024-08-06/shopping/user_task_3/important_instructions/injection_task_5.json",
+      "git_blob_sha1": "ee941904a84ef3509568269b8810821852bc4bc2",
+      "bytes_expected": 18589
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "shopping",
+      "task_id": "user_task_6",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06/shopping/user_task_6/none/none.json",
+      "git_blob_sha1": "b571556065cc56698c373daabdf839f49c87349a",
+      "bytes_expected": 7950
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "shopping",
+      "task_id": "user_task_6",
+      "attack_id": 4,
+      "path": "runs/gpt-4o-2024-08-06/shopping/user_task_6/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "5467aec3d5710a7b377d89147463d12771e96036",
+      "bytes_expected": 14194
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "shopping",
+      "task_id": "user_task_6",
+      "attack_id": 6,
+      "path": "runs/gpt-4o-2024-08-06/shopping/user_task_6/important_instructions/injection_task_6.json",
+      "git_blob_sha1": "4b3535ee1dea0c291af887fe8a562da6666794bb",
+      "bytes_expected": 19190
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "shopping",
+      "task_id": "user_task_18",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06/shopping/user_task_18/none/none.json",
+      "git_blob_sha1": "616951de36ea016942bcbe789105c49cf86b2c22",
+      "bytes_expected": 18395
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "shopping",
+      "task_id": "user_task_18",
+      "attack_id": 2,
+      "path": "runs/gpt-4o-2024-08-06/shopping/user_task_18/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "461e5d0195d95caf7e37c6c34599a71f48f90327",
+      "bytes_expected": 26846
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "shopping",
+      "task_id": "user_task_18",
+      "attack_id": 7,
+      "path": "runs/gpt-4o-2024-08-06/shopping/user_task_18/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "7d165e6ff92a87ed02a14e19ee6b83a729de61e7",
+      "bytes_expected": 23887
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "shopping",
+      "task_id": "user_task_19",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06/shopping/user_task_19/none/none.json",
+      "git_blob_sha1": "d1803f40e3ff2ab41d7268050aad90b940c2302b",
+      "bytes_expected": 9353
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "shopping",
+      "task_id": "user_task_19",
+      "attack_id": 0,
+      "path": "runs/gpt-4o-2024-08-06/shopping/user_task_19/important_instructions/injection_task_0.json",
+      "git_blob_sha1": "65c82fba0b49f611459c6a91316b737f50ff7b58",
+      "bytes_expected": 10263
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "shopping",
+      "task_id": "user_task_19",
+      "attack_id": 2,
+      "path": "runs/gpt-4o-2024-08-06/shopping/user_task_19/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "6a0aa24eb411c5e8d4113da582ea990d37900834",
+      "bytes_expected": 10237
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "github",
+      "task_id": "user_task_1",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06/github/user_task_1/none/none.json",
+      "git_blob_sha1": "8f68d4e7ba3e5675cd13e640fa9ab27b2f74db40",
+      "bytes_expected": 15296
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "github",
+      "task_id": "user_task_1",
+      "attack_id": 0,
+      "path": "runs/gpt-4o-2024-08-06/github/user_task_1/important_instructions/injection_task_0.json",
+      "git_blob_sha1": "35fc215a58094d8c16c3f9343a55cae71e5e8df2",
+      "bytes_expected": 18091
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "github",
+      "task_id": "user_task_1",
+      "attack_id": 4,
+      "path": "runs/gpt-4o-2024-08-06/github/user_task_1/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "40ea6d49c715adea5ec7328b8edcfe44477e1d39",
+      "bytes_expected": 22466
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "github",
+      "task_id": "user_task_3",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06/github/user_task_3/none/none.json",
+      "git_blob_sha1": "7e40c80633b0535b9646ff828d14d60bdee830fd",
+      "bytes_expected": 19262
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "github",
+      "task_id": "user_task_3",
+      "attack_id": 4,
+      "path": "runs/gpt-4o-2024-08-06/github/user_task_3/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "6edeab1f46cc6a1978dd2a1111043c1c7d19b4e5",
+      "bytes_expected": 24201
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "github",
+      "task_id": "user_task_3",
+      "attack_id": 7,
+      "path": "runs/gpt-4o-2024-08-06/github/user_task_3/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "a043e165a4f620c32e7e202941acf6db3128e2f7",
+      "bytes_expected": 24705
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "github",
+      "task_id": "user_task_4",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06/github/user_task_4/none/none.json",
+      "git_blob_sha1": "c35935b3a01a47d00218c7619de2183baef10a14",
+      "bytes_expected": 11886
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "github",
+      "task_id": "user_task_4",
+      "attack_id": 2,
+      "path": "runs/gpt-4o-2024-08-06/github/user_task_4/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "5a132637c609c2fa1c94c8e0b0c53c9af9a6346f",
+      "bytes_expected": 15828
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "github",
+      "task_id": "user_task_4",
+      "attack_id": 7,
+      "path": "runs/gpt-4o-2024-08-06/github/user_task_4/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "16de29609b4d8a0b8acaa4cd18bd7fbd0e474b7c",
+      "bytes_expected": 16770
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "github",
+      "task_id": "user_task_6",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06/github/user_task_6/none/none.json",
+      "git_blob_sha1": "9a05d8bce26db914531e7e59ffb7e332ab06e0ea",
+      "bytes_expected": 7577
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "github",
+      "task_id": "user_task_6",
+      "attack_id": 1,
+      "path": "runs/gpt-4o-2024-08-06/github/user_task_6/important_instructions/injection_task_1.json",
+      "git_blob_sha1": "79bd52c2dd36dfbdb1f3a7b291bb9e14f50c3a07",
+      "bytes_expected": 9136
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "github",
+      "task_id": "user_task_6",
+      "attack_id": 7,
+      "path": "runs/gpt-4o-2024-08-06/github/user_task_6/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "3933e6770db5d03922c4c2a7a332e890a044ff42",
+      "bytes_expected": 9460
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "dailylife",
+      "task_id": "user_task_6",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06/dailylife/user_task_6/none/none.json",
+      "git_blob_sha1": "445f3de8b732d5ec2bd026707838f1c5015e48b7",
+      "bytes_expected": 18465
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "dailylife",
+      "task_id": "user_task_6",
+      "attack_id": 4,
+      "path": "runs/gpt-4o-2024-08-06/dailylife/user_task_6/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "3d189e4d2dc67a7530fa79ed6e2aec6b5992cf55",
+      "bytes_expected": 23687
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "dailylife",
+      "task_id": "user_task_6",
+      "attack_id": 8,
+      "path": "runs/gpt-4o-2024-08-06/dailylife/user_task_6/important_instructions/injection_task_8.json",
+      "git_blob_sha1": "a60e574d395fcfe159d71e99bd2510f7cbfd85ea",
+      "bytes_expected": 25680
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "dailylife",
+      "task_id": "user_task_9",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06/dailylife/user_task_9/none/none.json",
+      "git_blob_sha1": "7eb84afd8cd08300a20486bedb1b86d7b0e20f5b",
+      "bytes_expected": 8084
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "dailylife",
+      "task_id": "user_task_9",
+      "attack_id": 2,
+      "path": "runs/gpt-4o-2024-08-06/dailylife/user_task_9/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "00d8d734f7d950def2f9a8a1a5f9c5cb21825dc0",
+      "bytes_expected": 5490
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "dailylife",
+      "task_id": "user_task_9",
+      "attack_id": 4,
+      "path": "runs/gpt-4o-2024-08-06/dailylife/user_task_9/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "fbc08d5a71ad0a1d7fdf81a40b07162b2272ca4a",
+      "bytes_expected": 9789
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "dailylife",
+      "task_id": "user_task_10",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06/dailylife/user_task_10/none/none.json",
+      "git_blob_sha1": "62bc0957fcded17c1f20585b3494b3feaf0d4e10",
+      "bytes_expected": 17251
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "dailylife",
+      "task_id": "user_task_10",
+      "attack_id": 1,
+      "path": "runs/gpt-4o-2024-08-06/dailylife/user_task_10/important_instructions/injection_task_1.json",
+      "git_blob_sha1": "ec3b331bdd1179d469b208624d33598c3883e466",
+      "bytes_expected": 20832
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "dailylife",
+      "task_id": "user_task_10",
+      "attack_id": 4,
+      "path": "runs/gpt-4o-2024-08-06/dailylife/user_task_10/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "71ba5c35d77cf9151cea0771d5c646ce3ac288b1",
+      "bytes_expected": 17770
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "dailylife",
+      "task_id": "user_task_13",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06/dailylife/user_task_13/none/none.json",
+      "git_blob_sha1": "73801c7efddbb698d2ca617fcad8dda9d7a3d273",
+      "bytes_expected": 17660
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "dailylife",
+      "task_id": "user_task_13",
+      "attack_id": 2,
+      "path": "runs/gpt-4o-2024-08-06/dailylife/user_task_13/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "3d55bbf7f58c7007cf9c7d723900c772a36adf61",
+      "bytes_expected": 20140
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "none",
+      "suite": "dailylife",
+      "task_id": "user_task_13",
+      "attack_id": 7,
+      "path": "runs/gpt-4o-2024-08-06/dailylife/user_task_13/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "6a81694f6b7f86501ea504f3a28f52a4b448da96",
+      "bytes_expected": 19985
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "shopping",
+      "task_id": "user_task_3",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/shopping/user_task_3/none/none.json",
+      "git_blob_sha1": "a65e12210483b18de49dfb5d0e650288919539fa",
+      "bytes_expected": 11458
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "shopping",
+      "task_id": "user_task_3",
+      "attack_id": 0,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/shopping/user_task_3/important_instructions/injection_task_0.json",
+      "git_blob_sha1": "031052a4df74186179549d391fdb83088e6c597a",
+      "bytes_expected": 12290
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "shopping",
+      "task_id": "user_task_3",
+      "attack_id": 5,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/shopping/user_task_3/important_instructions/injection_task_5.json",
+      "git_blob_sha1": "316f9b06fb2bdaa8f48974b984af908714d5cc48",
+      "bytes_expected": 17648
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "shopping",
+      "task_id": "user_task_6",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/shopping/user_task_6/none/none.json",
+      "git_blob_sha1": "f10f7f6a24aa9fcffc0d9aee94de9b4370197f8d",
+      "bytes_expected": 12787
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "shopping",
+      "task_id": "user_task_6",
+      "attack_id": 4,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/shopping/user_task_6/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "bd54626ac8c80236424c46cf44d732a4e596884c",
+      "bytes_expected": 7970
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "shopping",
+      "task_id": "user_task_6",
+      "attack_id": 6,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/shopping/user_task_6/important_instructions/injection_task_6.json",
+      "git_blob_sha1": "197e9bdf5c8f1b300e200bff6552bb967aff7947",
+      "bytes_expected": 16956
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "shopping",
+      "task_id": "user_task_18",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/shopping/user_task_18/none/none.json",
+      "git_blob_sha1": "bab6c694a4e836339ae22d59608b53c37c92851b",
+      "bytes_expected": 19741
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "shopping",
+      "task_id": "user_task_18",
+      "attack_id": 2,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/shopping/user_task_18/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "9df40b772655f8dc7b983f727bf73ad945cd0492",
+      "bytes_expected": 26797
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "shopping",
+      "task_id": "user_task_18",
+      "attack_id": 7,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/shopping/user_task_18/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "e002138d6d56673b0cdc85dd1e68cae0c8925105",
+      "bytes_expected": 35507
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "shopping",
+      "task_id": "user_task_19",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/shopping/user_task_19/none/none.json",
+      "git_blob_sha1": "3e3edfcbb61c5ef70eb2cce21ba956b1e43af361",
+      "bytes_expected": 8255
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "shopping",
+      "task_id": "user_task_19",
+      "attack_id": 0,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/shopping/user_task_19/important_instructions/injection_task_0.json",
+      "git_blob_sha1": "1a5ccfdd36c1bf4149018588bfac75d814d2b78c",
+      "bytes_expected": 9109
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "shopping",
+      "task_id": "user_task_19",
+      "attack_id": 2,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/shopping/user_task_19/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "b47401d3b566d5c9b39347938655ab0a9c5ed93a",
+      "bytes_expected": 9120
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "github",
+      "task_id": "user_task_1",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/github/user_task_1/none/none.json",
+      "git_blob_sha1": "d31223ab1b224901afe2435e1dae4ce5eb3d96a0",
+      "bytes_expected": 16762
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "github",
+      "task_id": "user_task_1",
+      "attack_id": 0,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/github/user_task_1/important_instructions/injection_task_0.json",
+      "git_blob_sha1": "56c2378db1d286f826aec42492d93e0d2735aa2c",
+      "bytes_expected": 28547
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "github",
+      "task_id": "user_task_1",
+      "attack_id": 4,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/github/user_task_1/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "fe080a918d29731b5206fc40a40886971dd9247e",
+      "bytes_expected": 18087
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "github",
+      "task_id": "user_task_3",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/github/user_task_3/none/none.json",
+      "git_blob_sha1": "713c4c1b53766984e29133f2c96963bc47f7b4cb",
+      "bytes_expected": 19465
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "github",
+      "task_id": "user_task_3",
+      "attack_id": 4,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/github/user_task_3/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "42a89d70a71853db75fea08dd1ffbd608fc90ffa",
+      "bytes_expected": 24789
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "github",
+      "task_id": "user_task_3",
+      "attack_id": 7,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/github/user_task_3/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "2365c3ed8980489605d3df36ad14004e1c9d0b49",
+      "bytes_expected": 25383
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "github",
+      "task_id": "user_task_4",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/github/user_task_4/none/none.json",
+      "git_blob_sha1": "8bfa6e734306d38363e0778aceeab32e57cc2e68",
+      "bytes_expected": 13145
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "github",
+      "task_id": "user_task_4",
+      "attack_id": 2,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/github/user_task_4/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "08c9e9f3dd068e268dbbdece221e84ca8c42f740",
+      "bytes_expected": 14962
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "github",
+      "task_id": "user_task_4",
+      "attack_id": 7,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/github/user_task_4/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "99818344f617da03059f95032b4537e38f411c72",
+      "bytes_expected": 17668
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "github",
+      "task_id": "user_task_6",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/github/user_task_6/none/none.json",
+      "git_blob_sha1": "09beab70fac42ecce941cd05b1791b2821e120b2",
+      "bytes_expected": 7795
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "github",
+      "task_id": "user_task_6",
+      "attack_id": 1,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/github/user_task_6/important_instructions/injection_task_1.json",
+      "git_blob_sha1": "1aa9c9f856bcfa5ca843145361ef3b33630c70e5",
+      "bytes_expected": 9356
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "github",
+      "task_id": "user_task_6",
+      "attack_id": 7,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/github/user_task_6/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "a7b1c3ab1899b45639e8cbcf5270d413f52f8f36",
+      "bytes_expected": 9660
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "dailylife",
+      "task_id": "user_task_6",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/dailylife/user_task_6/none/none.json",
+      "git_blob_sha1": "c215158480bb6c1cb326f36f25a9e79e48509ee9",
+      "bytes_expected": 19337
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "dailylife",
+      "task_id": "user_task_6",
+      "attack_id": 4,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/dailylife/user_task_6/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "83f251a91095f1c055b736f543cf391f568334c3",
+      "bytes_expected": 22238
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "dailylife",
+      "task_id": "user_task_6",
+      "attack_id": 8,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/dailylife/user_task_6/important_instructions/injection_task_8.json",
+      "git_blob_sha1": "86dbde25cab8730d33f9723ff0ffaebcc9b0f259",
+      "bytes_expected": 26678
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "dailylife",
+      "task_id": "user_task_9",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/dailylife/user_task_9/none/none.json",
+      "git_blob_sha1": "771d81dce993d3f98647c0e67f7a54a70cc40820",
+      "bytes_expected": 12349
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "dailylife",
+      "task_id": "user_task_9",
+      "attack_id": 2,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/dailylife/user_task_9/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "8089b013219a4275d3e5d30358c6769abdcf28fc",
+      "bytes_expected": 12751
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "dailylife",
+      "task_id": "user_task_9",
+      "attack_id": 4,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/dailylife/user_task_9/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "16d462728cc279c790ae0915433e51744cb243a2",
+      "bytes_expected": 11078
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "dailylife",
+      "task_id": "user_task_10",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/dailylife/user_task_10/none/none.json",
+      "git_blob_sha1": "ee21b486986ae9090ea6d3ae2735c99b94f0b1d5",
+      "bytes_expected": 15876
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "dailylife",
+      "task_id": "user_task_10",
+      "attack_id": 1,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/dailylife/user_task_10/important_instructions/injection_task_1.json",
+      "git_blob_sha1": "6a773d76956efd87d0ca91439db613703c7d5201",
+      "bytes_expected": 18318
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "dailylife",
+      "task_id": "user_task_10",
+      "attack_id": 4,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/dailylife/user_task_10/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "4ba2364d0db1c8612792e28339b7d50be43ed440",
+      "bytes_expected": 6370
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "dailylife",
+      "task_id": "user_task_13",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/dailylife/user_task_13/none/none.json",
+      "git_blob_sha1": "fc2bcaf1634bf9ab423cb9faea94bfae520c2f64",
+      "bytes_expected": 17815
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "dailylife",
+      "task_id": "user_task_13",
+      "attack_id": 2,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/dailylife/user_task_13/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "e120b3b89324d4c8c6828354a0e619403c838c44",
+      "bytes_expected": 19715
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "spotlighting",
+      "suite": "dailylife",
+      "task_id": "user_task_13",
+      "attack_id": 7,
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/dailylife/user_task_13/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "ac1656124fb68e16e52aea1877026484703ffb7d",
+      "bytes_expected": 19243
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "shopping",
+      "task_id": "user_task_3",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/shopping/user_task_3/none/none.json",
+      "git_blob_sha1": "f096884ea51ad4ca2094cf9011c86e57ae18f8cc",
+      "bytes_expected": 7973
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "shopping",
+      "task_id": "user_task_3",
+      "attack_id": 0,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/shopping/user_task_3/important_instructions/injection_task_0.json",
+      "git_blob_sha1": "fb40a21c712586cb31eec5bae2a6bf73154757fa",
+      "bytes_expected": 7026
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "shopping",
+      "task_id": "user_task_3",
+      "attack_id": 5,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/shopping/user_task_3/important_instructions/injection_task_5.json",
+      "git_blob_sha1": "5be417ef4ff7b155eaeaeee26be518334be42ea1",
+      "bytes_expected": 7046
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "shopping",
+      "task_id": "user_task_6",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/shopping/user_task_6/none/none.json",
+      "git_blob_sha1": "d8a1f40f0ce1a91f1c87c8a3962697a2337fee6e",
+      "bytes_expected": 6991
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "shopping",
+      "task_id": "user_task_6",
+      "attack_id": 4,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/shopping/user_task_6/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "260281414fb0cd4d2e091c00836f66cf5819d538",
+      "bytes_expected": 7329
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "shopping",
+      "task_id": "user_task_6",
+      "attack_id": 6,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/shopping/user_task_6/important_instructions/injection_task_6.json",
+      "git_blob_sha1": "f1c0ed068c0ab55ee8cb253d35ba4ee4f9f63546",
+      "bytes_expected": 5641
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "shopping",
+      "task_id": "user_task_18",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/shopping/user_task_18/none/none.json",
+      "git_blob_sha1": "871a2e571fdac6672bc87fb668023bbb76e5a9ca",
+      "bytes_expected": 10659
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "shopping",
+      "task_id": "user_task_18",
+      "attack_id": 2,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/shopping/user_task_18/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "f63d8ead38477f2a136977585ad38deea8527b19",
+      "bytes_expected": 15553
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "shopping",
+      "task_id": "user_task_18",
+      "attack_id": 7,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/shopping/user_task_18/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "2ed59d71a81128e15a55ccd9c8bda1ef2ad4f0f4",
+      "bytes_expected": 13597
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "shopping",
+      "task_id": "user_task_19",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/shopping/user_task_19/none/none.json",
+      "git_blob_sha1": "ce8aed42e83f215c34cda1a75acbfd83ae23837d",
+      "bytes_expected": 6477
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "shopping",
+      "task_id": "user_task_19",
+      "attack_id": 0,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/shopping/user_task_19/important_instructions/injection_task_0.json",
+      "git_blob_sha1": "e5f415eb4a0bc7d1c86d64f59613f0e676ef60e9",
+      "bytes_expected": 6977
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "shopping",
+      "task_id": "user_task_19",
+      "attack_id": 2,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/shopping/user_task_19/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "c2b4d842ec19298fa20cd2fc9d2e2ad94d922240",
+      "bytes_expected": 6537
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "github",
+      "task_id": "user_task_1",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/github/user_task_1/none/none.json",
+      "git_blob_sha1": "79a9d4a0ab99c1283d499911dd1cfded8f8f0b9a",
+      "bytes_expected": 8234
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "github",
+      "task_id": "user_task_1",
+      "attack_id": 0,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/github/user_task_1/important_instructions/injection_task_0.json",
+      "git_blob_sha1": "147f6ff693ada8406134f733def8732ff7549f2b",
+      "bytes_expected": 9823
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "github",
+      "task_id": "user_task_1",
+      "attack_id": 4,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/github/user_task_1/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "dcc5c20418bd7bdaa5af0e6c65158de3e6eb1ca9",
+      "bytes_expected": 11140
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "github",
+      "task_id": "user_task_3",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/github/user_task_3/none/none.json",
+      "git_blob_sha1": "21e7d80c8286feed932fa1e02dbcce0a4d01298b",
+      "bytes_expected": 9453
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "github",
+      "task_id": "user_task_3",
+      "attack_id": 4,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/github/user_task_3/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "d06ec7c78da96b342b779e2d94a3d92269e4c08c",
+      "bytes_expected": 19258
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "github",
+      "task_id": "user_task_3",
+      "attack_id": 7,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/github/user_task_3/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "226d092583ae16da5cba432b7d244a764c311b33",
+      "bytes_expected": 20002
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "github",
+      "task_id": "user_task_4",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/github/user_task_4/none/none.json",
+      "git_blob_sha1": "7ed29abb5aec639f0be6be7722ddc767a44a236b",
+      "bytes_expected": 6696
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "github",
+      "task_id": "user_task_4",
+      "attack_id": 2,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/github/user_task_4/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "a721cb60cdd10e61389ce65cc92bccfa19d6910e",
+      "bytes_expected": 8777
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "github",
+      "task_id": "user_task_4",
+      "attack_id": 7,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/github/user_task_4/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "ca48f0ed7b6e15950804a0cacc56b0d61135d757",
+      "bytes_expected": 9021
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "github",
+      "task_id": "user_task_6",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/github/user_task_6/none/none.json",
+      "git_blob_sha1": "38f7132bc344a7d036ae58bb87515086cbba20c1",
+      "bytes_expected": 7316
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "github",
+      "task_id": "user_task_6",
+      "attack_id": 1,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/github/user_task_6/important_instructions/injection_task_1.json",
+      "git_blob_sha1": "673553c66cc28c310b1a00a09a49fa61b03cb971",
+      "bytes_expected": 8771
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "github",
+      "task_id": "user_task_6",
+      "attack_id": 7,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/github/user_task_6/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "9921cb235ec8919c6a7b22485cdfb00ea1907821",
+      "bytes_expected": 9065
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "dailylife",
+      "task_id": "user_task_6",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/dailylife/user_task_6/none/none.json",
+      "git_blob_sha1": "0dba2d7bcc0b58935185ff12b121c9ceb64c4858",
+      "bytes_expected": 4248
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "dailylife",
+      "task_id": "user_task_6",
+      "attack_id": 4,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/dailylife/user_task_6/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "2e718f3e336b16863488608400bc7db276de0dfd",
+      "bytes_expected": 10001
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "dailylife",
+      "task_id": "user_task_6",
+      "attack_id": 8,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/dailylife/user_task_6/important_instructions/injection_task_8.json",
+      "git_blob_sha1": "f2d5a2ef19a0470f2f9c06efca4d9cd787b8e884",
+      "bytes_expected": 12744
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "dailylife",
+      "task_id": "user_task_9",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/dailylife/user_task_9/none/none.json",
+      "git_blob_sha1": "327c0d034d00f87528122f78fc711e8ade9b0858",
+      "bytes_expected": 8947
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "dailylife",
+      "task_id": "user_task_9",
+      "attack_id": 2,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/dailylife/user_task_9/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "e23cbe60756548977e3d179fb7c8dc793aa8ecdb",
+      "bytes_expected": 9673
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "dailylife",
+      "task_id": "user_task_9",
+      "attack_id": 4,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/dailylife/user_task_9/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "951e7844c6976d36ebed73b2bfd36276d8380265",
+      "bytes_expected": 9772
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "dailylife",
+      "task_id": "user_task_10",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/dailylife/user_task_10/none/none.json",
+      "git_blob_sha1": "0c3202f0e6ec683db976d8ccd1d3f47be80d5fca",
+      "bytes_expected": 8883
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "dailylife",
+      "task_id": "user_task_10",
+      "attack_id": 1,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/dailylife/user_task_10/important_instructions/injection_task_1.json",
+      "git_blob_sha1": "5f2a78ad10692d026d5ffad17919b6914d1704da",
+      "bytes_expected": 9794
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "dailylife",
+      "task_id": "user_task_10",
+      "attack_id": 4,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/dailylife/user_task_10/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "114537cc5598e5dba145441cfeb2f17400f0216c",
+      "bytes_expected": 11981
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "dailylife",
+      "task_id": "user_task_13",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/dailylife/user_task_13/none/none.json",
+      "git_blob_sha1": "528907d949b069d28f1ef0676dbe1b59255c663e",
+      "bytes_expected": 10965
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "dailylife",
+      "task_id": "user_task_13",
+      "attack_id": 2,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/dailylife/user_task_13/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "07cf3b327305b688e55c08f6b168974403c9f21d",
+      "bytes_expected": 11216
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "tool_filter",
+      "suite": "dailylife",
+      "task_id": "user_task_13",
+      "attack_id": 7,
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/dailylife/user_task_13/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "c7692dc334064f5c4ca10021f7356dbd4e273270",
+      "bytes_expected": 12360
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "shopping",
+      "task_id": "user_task_3",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-progent/shopping/user_task_3/none/none.json",
+      "git_blob_sha1": "f9f88af0686f005a0839941dc4f134f1e309cff2",
+      "bytes_expected": 8484
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "shopping",
+      "task_id": "user_task_3",
+      "attack_id": 0,
+      "path": "runs/gpt-4o-2024-08-06-progent/shopping/user_task_3/important_instructions/injection_task_0.json",
+      "git_blob_sha1": "cebde4b9cd8976c96beeb8801fc6a7c00bf554fc",
+      "bytes_expected": 9948
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "shopping",
+      "task_id": "user_task_3",
+      "attack_id": 5,
+      "path": "runs/gpt-4o-2024-08-06-progent/shopping/user_task_3/important_instructions/injection_task_5.json",
+      "git_blob_sha1": "4b212cc703029bdb8c2e1ebb468e613d2eaed4b9",
+      "bytes_expected": 10247
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "shopping",
+      "task_id": "user_task_6",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-progent/shopping/user_task_6/none/none.json",
+      "git_blob_sha1": "2f2caf0b6f50e303b0efbd85024ecf7918a0fb6e",
+      "bytes_expected": 5993
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "shopping",
+      "task_id": "user_task_6",
+      "attack_id": 4,
+      "path": "runs/gpt-4o-2024-08-06-progent/shopping/user_task_6/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "9b9247f09e707ac8a339b316ea31d7d6951196b2",
+      "bytes_expected": 12409
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "shopping",
+      "task_id": "user_task_6",
+      "attack_id": 6,
+      "path": "runs/gpt-4o-2024-08-06-progent/shopping/user_task_6/important_instructions/injection_task_6.json",
+      "git_blob_sha1": "1c348f6472ed7eec8ecccbf9277bd0a3bc7003c5",
+      "bytes_expected": 5048
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "shopping",
+      "task_id": "user_task_18",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-progent/shopping/user_task_18/none/none.json",
+      "git_blob_sha1": "7d4f59f0b27c83ac2d0bda2a8c1d35960f525b68",
+      "bytes_expected": 10460
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "shopping",
+      "task_id": "user_task_18",
+      "attack_id": 2,
+      "path": "runs/gpt-4o-2024-08-06-progent/shopping/user_task_18/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "fd407773eccbaf40ba707d505b1b579d58a6756b",
+      "bytes_expected": 18932
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "shopping",
+      "task_id": "user_task_18",
+      "attack_id": 7,
+      "path": "runs/gpt-4o-2024-08-06-progent/shopping/user_task_18/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "0a1d827f59748a7eae98b3d1e3aab4dc51792213",
+      "bytes_expected": 13467
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "shopping",
+      "task_id": "user_task_19",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-progent/shopping/user_task_19/none/none.json",
+      "git_blob_sha1": "cf6b6921bf6e24517d0082eeb2f60d0377e62da0",
+      "bytes_expected": 8612
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "shopping",
+      "task_id": "user_task_19",
+      "attack_id": 0,
+      "path": "runs/gpt-4o-2024-08-06-progent/shopping/user_task_19/important_instructions/injection_task_0.json",
+      "git_blob_sha1": "13e11e2fa9f52d9aaf9ce466e21ecabab3d17154",
+      "bytes_expected": 8347
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "shopping",
+      "task_id": "user_task_19",
+      "attack_id": 2,
+      "path": "runs/gpt-4o-2024-08-06-progent/shopping/user_task_19/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "76f4907a7abe1e0a56fc4adbfef1527849acd2da",
+      "bytes_expected": 9077
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "github",
+      "task_id": "user_task_1",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-progent/github/user_task_1/none/none.json",
+      "git_blob_sha1": "ea9a72e9680b47c744f99336f9e743dd0570f595",
+      "bytes_expected": 17328
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "github",
+      "task_id": "user_task_1",
+      "attack_id": 0,
+      "path": "runs/gpt-4o-2024-08-06-progent/github/user_task_1/important_instructions/injection_task_0.json",
+      "git_blob_sha1": "146573770706728156c93abf286764c9ceeb4eed",
+      "bytes_expected": 20038
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "github",
+      "task_id": "user_task_1",
+      "attack_id": 4,
+      "path": "runs/gpt-4o-2024-08-06-progent/github/user_task_1/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "09c885f16b43bbd427ef04614a02c8c9dfe6f9e2",
+      "bytes_expected": 14331
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "github",
+      "task_id": "user_task_3",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-progent/github/user_task_3/none/none.json",
+      "git_blob_sha1": "ce2bacd7c7ef7a7b723ee4723798fe04c745a3c7",
+      "bytes_expected": 16146
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "github",
+      "task_id": "user_task_3",
+      "attack_id": 4,
+      "path": "runs/gpt-4o-2024-08-06-progent/github/user_task_3/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "9c3eb047a2838082b206d6c8fc3fe7f945ed47e3",
+      "bytes_expected": 19586
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "github",
+      "task_id": "user_task_3",
+      "attack_id": 7,
+      "path": "runs/gpt-4o-2024-08-06-progent/github/user_task_3/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "f5e1e638589e061ef028ee61c67d5b90984b2b73",
+      "bytes_expected": 20126
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "github",
+      "task_id": "user_task_4",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-progent/github/user_task_4/none/none.json",
+      "git_blob_sha1": "3985130f6bd34a0b8bee99e8facb2569aedb2a19",
+      "bytes_expected": 10904
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "github",
+      "task_id": "user_task_4",
+      "attack_id": 2,
+      "path": "runs/gpt-4o-2024-08-06-progent/github/user_task_4/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "38a04ff9ef21bdf67fb54ccdcb98ee7a6037acb2",
+      "bytes_expected": 13819
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "github",
+      "task_id": "user_task_4",
+      "attack_id": 7,
+      "path": "runs/gpt-4o-2024-08-06-progent/github/user_task_4/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "3610802d9061dfb24481601123540575630ca50c",
+      "bytes_expected": 15862
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "github",
+      "task_id": "user_task_6",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-progent/github/user_task_6/none/none.json",
+      "git_blob_sha1": "cc762f17a84fab56642bea56a241ca95b54aab66",
+      "bytes_expected": 7134
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "github",
+      "task_id": "user_task_6",
+      "attack_id": 1,
+      "path": "runs/gpt-4o-2024-08-06-progent/github/user_task_6/important_instructions/injection_task_1.json",
+      "git_blob_sha1": "b55212f805552548da268ca1ddab533eea9344a5",
+      "bytes_expected": 8803
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "github",
+      "task_id": "user_task_6",
+      "attack_id": 7,
+      "path": "runs/gpt-4o-2024-08-06-progent/github/user_task_6/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "c93ccb9a42fc6de28c05969c8ceea07d6f261c23",
+      "bytes_expected": 9123
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "dailylife",
+      "task_id": "user_task_6",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-progent/dailylife/user_task_6/none/none.json",
+      "git_blob_sha1": "f6a192c477c054318ed2a7f29b429f4c6c3567c0",
+      "bytes_expected": 10902
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "dailylife",
+      "task_id": "user_task_6",
+      "attack_id": 4,
+      "path": "runs/gpt-4o-2024-08-06-progent/dailylife/user_task_6/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "18a2ed0e316340eb74c4982fa4cdddbb685c48b0",
+      "bytes_expected": 4743
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "dailylife",
+      "task_id": "user_task_6",
+      "attack_id": 8,
+      "path": "runs/gpt-4o-2024-08-06-progent/dailylife/user_task_6/important_instructions/injection_task_8.json",
+      "git_blob_sha1": "0d15099a0bbfafc455c225669e32a1ea87d30c67",
+      "bytes_expected": 7841
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "dailylife",
+      "task_id": "user_task_9",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-progent/dailylife/user_task_9/none/none.json",
+      "git_blob_sha1": "e186db4fe86d4a8b88349f47b1521d79eb1d5367",
+      "bytes_expected": 7280
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "dailylife",
+      "task_id": "user_task_9",
+      "attack_id": 2,
+      "path": "runs/gpt-4o-2024-08-06-progent/dailylife/user_task_9/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "21e968857ea8d92eb3f213a4f481fc7f16192834",
+      "bytes_expected": 4309
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "dailylife",
+      "task_id": "user_task_9",
+      "attack_id": 4,
+      "path": "runs/gpt-4o-2024-08-06-progent/dailylife/user_task_9/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "b87bff444de92b33e7be75fbfbaf8cb6c26047eb",
+      "bytes_expected": 6467
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "dailylife",
+      "task_id": "user_task_10",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-progent/dailylife/user_task_10/none/none.json",
+      "git_blob_sha1": "ae866b0ecac8d626e5313a459613379b95747463",
+      "bytes_expected": 7756
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "dailylife",
+      "task_id": "user_task_10",
+      "attack_id": 1,
+      "path": "runs/gpt-4o-2024-08-06-progent/dailylife/user_task_10/important_instructions/injection_task_1.json",
+      "git_blob_sha1": "31b188f727b189d5e5f34b2c189a2eed514534a7",
+      "bytes_expected": 3561
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "dailylife",
+      "task_id": "user_task_10",
+      "attack_id": 4,
+      "path": "runs/gpt-4o-2024-08-06-progent/dailylife/user_task_10/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "2bf380f17f0308e176900e454f532da92fdded1b",
+      "bytes_expected": 6385
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "dailylife",
+      "task_id": "user_task_13",
+      "attack_id": null,
+      "path": "runs/gpt-4o-2024-08-06-progent/dailylife/user_task_13/none/none.json",
+      "git_blob_sha1": "9ec2bad9c32cf14725f198e99e21ff8318192825",
+      "bytes_expected": 11833
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "dailylife",
+      "task_id": "user_task_13",
+      "attack_id": 2,
+      "path": "runs/gpt-4o-2024-08-06-progent/dailylife/user_task_13/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "763fc2e8e55d9dc3cb604abba5abd1dff5db3c9e",
+      "bytes_expected": 11040
+    },
+    {
+      "model": "gpt-4o-2024-08-06",
+      "defense": "progent",
+      "suite": "dailylife",
+      "task_id": "user_task_13",
+      "attack_id": 7,
+      "path": "runs/gpt-4o-2024-08-06-progent/dailylife/user_task_13/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "93b66072848c461e519b7810ee42b72100353301",
+      "bytes_expected": 11259
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "shopping",
+      "task_id": "user_task_3",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro/shopping/user_task_3/none/none.json",
+      "git_blob_sha1": "a66aab1050730e6a98bd45725bbb0fd6cbb1e66d",
+      "bytes_expected": 4786
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "shopping",
+      "task_id": "user_task_3",
+      "attack_id": 0,
+      "path": "runs/google_gemini-2.5-pro/shopping/user_task_3/important_instructions/injection_task_0.json",
+      "git_blob_sha1": "85db5b4bf819ac8363c3ea9ae59feb6463a382a5",
+      "bytes_expected": 5273
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "shopping",
+      "task_id": "user_task_3",
+      "attack_id": 5,
+      "path": "runs/google_gemini-2.5-pro/shopping/user_task_3/important_instructions/injection_task_5.json",
+      "git_blob_sha1": "aaccfa65e2547be06e7efd0caa693db7bed4d43f",
+      "bytes_expected": 5258
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "shopping",
+      "task_id": "user_task_6",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro/shopping/user_task_6/none/none.json",
+      "git_blob_sha1": "0825eeb2abcc64c39c53d807d6f4ed9ed5b3628c",
+      "bytes_expected": 14123
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "shopping",
+      "task_id": "user_task_6",
+      "attack_id": 4,
+      "path": "runs/google_gemini-2.5-pro/shopping/user_task_6/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "b63a173ce3b110a677c82758be18a07c3164e54f",
+      "bytes_expected": 14391
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "shopping",
+      "task_id": "user_task_6",
+      "attack_id": 6,
+      "path": "runs/google_gemini-2.5-pro/shopping/user_task_6/important_instructions/injection_task_6.json",
+      "git_blob_sha1": "6a6de8ccd10b0e6141887607ad9a029c3c58cac4",
+      "bytes_expected": 15202
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "shopping",
+      "task_id": "user_task_18",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro/shopping/user_task_18/none/none.json",
+      "git_blob_sha1": "dcb5b0e51ac21b33e07cbe4a20e97ad593710052",
+      "bytes_expected": 25263
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "shopping",
+      "task_id": "user_task_18",
+      "attack_id": 2,
+      "path": "runs/google_gemini-2.5-pro/shopping/user_task_18/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "8e7047e8a71cc7a2acc4334d1b81aa324dd5e639",
+      "bytes_expected": 29618
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "shopping",
+      "task_id": "user_task_18",
+      "attack_id": 7,
+      "path": "runs/google_gemini-2.5-pro/shopping/user_task_18/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "b43d6d47c7081ad37c16d8313cb4b920c0eb7f0c",
+      "bytes_expected": 27270
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "shopping",
+      "task_id": "user_task_19",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro/shopping/user_task_19/none/none.json",
+      "git_blob_sha1": "d3c5e38d95f2632ee0ea63d68a9ed15fb8efb17c",
+      "bytes_expected": 8662
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "shopping",
+      "task_id": "user_task_19",
+      "attack_id": 0,
+      "path": "runs/google_gemini-2.5-pro/shopping/user_task_19/important_instructions/injection_task_0.json",
+      "git_blob_sha1": "ed8142d38c8906689796773615779f11eaa5f8f0",
+      "bytes_expected": 9668
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "shopping",
+      "task_id": "user_task_19",
+      "attack_id": 2,
+      "path": "runs/google_gemini-2.5-pro/shopping/user_task_19/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "ad68f74215caca92878f76db19045db50eb711c1",
+      "bytes_expected": 6550
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "github",
+      "task_id": "user_task_1",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro/github/user_task_1/none/none.json",
+      "git_blob_sha1": "9f18c09192a828a540216778f8e87ecdf48b8475",
+      "bytes_expected": 27979
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "github",
+      "task_id": "user_task_1",
+      "attack_id": 0,
+      "path": "runs/google_gemini-2.5-pro/github/user_task_1/important_instructions/injection_task_0.json",
+      "git_blob_sha1": "ff5294100ae0d9c67403f1bcd8eb83980c6f7729",
+      "bytes_expected": 26097
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "github",
+      "task_id": "user_task_1",
+      "attack_id": 4,
+      "path": "runs/google_gemini-2.5-pro/github/user_task_1/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "26766f0d8011bf3e6e23bc2d2ac59f456566de2f",
+      "bytes_expected": 18932
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "github",
+      "task_id": "user_task_3",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro/github/user_task_3/none/none.json",
+      "git_blob_sha1": "f3c812938f9032d0f99caea0fbec394c2c5ee00d",
+      "bytes_expected": 20383
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "github",
+      "task_id": "user_task_3",
+      "attack_id": 4,
+      "path": "runs/google_gemini-2.5-pro/github/user_task_3/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "7529728bc3599846c0e65537c9ca4a8039a94701",
+      "bytes_expected": 25849
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "github",
+      "task_id": "user_task_3",
+      "attack_id": 7,
+      "path": "runs/google_gemini-2.5-pro/github/user_task_3/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "85d85cb8e5a8eafc7473c8980b75242d66970585",
+      "bytes_expected": 19762
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "github",
+      "task_id": "user_task_4",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro/github/user_task_4/none/none.json",
+      "git_blob_sha1": "8837878542b604980148f80b7e2e96578ebb0c0b",
+      "bytes_expected": 13870
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "github",
+      "task_id": "user_task_4",
+      "attack_id": 2,
+      "path": "runs/google_gemini-2.5-pro/github/user_task_4/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "a8d782339bafb573e9bdcec5bbcca9865c809d84",
+      "bytes_expected": 22449
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "github",
+      "task_id": "user_task_4",
+      "attack_id": 7,
+      "path": "runs/google_gemini-2.5-pro/github/user_task_4/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "8022e5f97e3c6887928033b0738d11e6cee6ad4c",
+      "bytes_expected": 18665
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "github",
+      "task_id": "user_task_6",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro/github/user_task_6/none/none.json",
+      "git_blob_sha1": "8f8d1c2936ee0e73306bd4e80d3fb749f351525a",
+      "bytes_expected": 7917
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "github",
+      "task_id": "user_task_6",
+      "attack_id": 1,
+      "path": "runs/google_gemini-2.5-pro/github/user_task_6/important_instructions/injection_task_1.json",
+      "git_blob_sha1": "83d4cd816f82843ec343f9306c33002ebf2e1635",
+      "bytes_expected": 9587
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "github",
+      "task_id": "user_task_6",
+      "attack_id": 7,
+      "path": "runs/google_gemini-2.5-pro/github/user_task_6/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "370614958d0ebba06b5e17f8a83c3b08ef314b1b",
+      "bytes_expected": 9902
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "dailylife",
+      "task_id": "user_task_6",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro/dailylife/user_task_6/none/none.json",
+      "git_blob_sha1": "1390cc1332f2200c9c03f0fba80fc70be3ab322f",
+      "bytes_expected": 18234
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "dailylife",
+      "task_id": "user_task_6",
+      "attack_id": 4,
+      "path": "runs/google_gemini-2.5-pro/dailylife/user_task_6/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "8147b19159b7bb25d0697636ca608a5dfbd2eb11",
+      "bytes_expected": 25574
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "dailylife",
+      "task_id": "user_task_6",
+      "attack_id": 8,
+      "path": "runs/google_gemini-2.5-pro/dailylife/user_task_6/important_instructions/injection_task_8.json",
+      "git_blob_sha1": "15f9fa4dd8051cd7881bb2e3c2ccf088e4c42110",
+      "bytes_expected": 22854
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "dailylife",
+      "task_id": "user_task_9",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro/dailylife/user_task_9/none/none.json",
+      "git_blob_sha1": "569ee7560e2a20af900cbd246d797b9282de0201",
+      "bytes_expected": 10089
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "dailylife",
+      "task_id": "user_task_9",
+      "attack_id": 2,
+      "path": "runs/google_gemini-2.5-pro/dailylife/user_task_9/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "75960b2e5d92535ae2b105378ebc6d65ff4f6b1b",
+      "bytes_expected": 11912
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "dailylife",
+      "task_id": "user_task_9",
+      "attack_id": 4,
+      "path": "runs/google_gemini-2.5-pro/dailylife/user_task_9/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "c31e284c211bd0ec54580c2432450722dd65e458",
+      "bytes_expected": 23286
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "dailylife",
+      "task_id": "user_task_10",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro/dailylife/user_task_10/none/none.json",
+      "git_blob_sha1": "7fca69021082c7488301e98588d1b9b95af3319c",
+      "bytes_expected": 19562
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "dailylife",
+      "task_id": "user_task_10",
+      "attack_id": 1,
+      "path": "runs/google_gemini-2.5-pro/dailylife/user_task_10/important_instructions/injection_task_1.json",
+      "git_blob_sha1": "fc0977b46fc2323b16736969f3ec1526226c73a4",
+      "bytes_expected": 6978
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "dailylife",
+      "task_id": "user_task_10",
+      "attack_id": 4,
+      "path": "runs/google_gemini-2.5-pro/dailylife/user_task_10/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "68c37049e16eedbed672513b2a257b6817bc86e6",
+      "bytes_expected": 45198
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "dailylife",
+      "task_id": "user_task_13",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro/dailylife/user_task_13/none/none.json",
+      "git_blob_sha1": "335fc1e5f137ae9a7b6c8c05679138451af4cd62",
+      "bytes_expected": 18399
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "dailylife",
+      "task_id": "user_task_13",
+      "attack_id": 2,
+      "path": "runs/google_gemini-2.5-pro/dailylife/user_task_13/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "329b26df51e74191f1a507c73d433ed0f702505f",
+      "bytes_expected": 30709
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "none",
+      "suite": "dailylife",
+      "task_id": "user_task_13",
+      "attack_id": 7,
+      "path": "runs/google_gemini-2.5-pro/dailylife/user_task_13/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "4f99150f946301006f3de58953a04d1537f15f93",
+      "bytes_expected": 29639
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "shopping",
+      "task_id": "user_task_3",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/shopping/user_task_3/none/none.json",
+      "git_blob_sha1": "423344b148540df0317c5d4d39f51c41f856fe9c",
+      "bytes_expected": 6329
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "shopping",
+      "task_id": "user_task_3",
+      "attack_id": 0,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/shopping/user_task_3/important_instructions/injection_task_0.json",
+      "git_blob_sha1": "5be4f0e064aca732771dd2ae648a97d3c8341077",
+      "bytes_expected": 11230
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "shopping",
+      "task_id": "user_task_3",
+      "attack_id": 5,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/shopping/user_task_3/important_instructions/injection_task_5.json",
+      "git_blob_sha1": "ba5d10cee76085da017304ade334bdb666ea0ed2",
+      "bytes_expected": 5472
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "shopping",
+      "task_id": "user_task_6",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/shopping/user_task_6/none/none.json",
+      "git_blob_sha1": "286a0c005902cdf81ae02cdf31e18808d8f15b90",
+      "bytes_expected": 9027
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "shopping",
+      "task_id": "user_task_6",
+      "attack_id": 4,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/shopping/user_task_6/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "1a55d11c8df58d5194fff85b4f17dd70e5d5b26b",
+      "bytes_expected": 15630
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "shopping",
+      "task_id": "user_task_6",
+      "attack_id": 6,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/shopping/user_task_6/important_instructions/injection_task_6.json",
+      "git_blob_sha1": "c7ba13eda5697142c5506873296a11c647ecfe68",
+      "bytes_expected": 15570
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "shopping",
+      "task_id": "user_task_18",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/shopping/user_task_18/none/none.json",
+      "git_blob_sha1": "507ff48aa5ffd08d52cbe97affb1762a36c7c3b6",
+      "bytes_expected": 27059
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "shopping",
+      "task_id": "user_task_18",
+      "attack_id": 2,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/shopping/user_task_18/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "e582a004050e17ade773ca8021d84f99c7437609",
+      "bytes_expected": 26264
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "shopping",
+      "task_id": "user_task_18",
+      "attack_id": 7,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/shopping/user_task_18/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "4a0cbe4cbaa2d3d739101fcbf308db0570f96f03",
+      "bytes_expected": 30836
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "shopping",
+      "task_id": "user_task_19",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/shopping/user_task_19/none/none.json",
+      "git_blob_sha1": "e351041447e66eecb4bddd591508dc72187aa576",
+      "bytes_expected": 8906
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "shopping",
+      "task_id": "user_task_19",
+      "attack_id": 0,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/shopping/user_task_19/important_instructions/injection_task_0.json",
+      "git_blob_sha1": "4e161286bbe6caed94b7f6543886c047584e2671",
+      "bytes_expected": 10376
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "shopping",
+      "task_id": "user_task_19",
+      "attack_id": 2,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/shopping/user_task_19/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "20402f3eb38d6fa211bbcbc52738cc6ccff4fec9",
+      "bytes_expected": 9777
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "github",
+      "task_id": "user_task_1",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/github/user_task_1/none/none.json",
+      "git_blob_sha1": "2afe4d577bf55df57843b8ea6dd3553e240b1ae7",
+      "bytes_expected": 23727
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "github",
+      "task_id": "user_task_1",
+      "attack_id": 0,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/github/user_task_1/important_instructions/injection_task_0.json",
+      "git_blob_sha1": "370146531f783b9feba2db4829d2c1fc6ce73a15",
+      "bytes_expected": 19822
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "github",
+      "task_id": "user_task_1",
+      "attack_id": 4,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/github/user_task_1/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "04f273ae987102d72d4f1fa92fabcc81415b3298",
+      "bytes_expected": 22087
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "github",
+      "task_id": "user_task_3",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/github/user_task_3/none/none.json",
+      "git_blob_sha1": "6425cb277f47d1af5ae7b990fb80bf6bcd2b4419",
+      "bytes_expected": 21377
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "github",
+      "task_id": "user_task_3",
+      "attack_id": 4,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/github/user_task_3/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "775d566a088727b0d0e6ff04ce3845c0fb671856",
+      "bytes_expected": 26565
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "github",
+      "task_id": "user_task_3",
+      "attack_id": 7,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/github/user_task_3/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "b673ec3f483d10ce9570ed561ce08743762a9207",
+      "bytes_expected": 27098
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "github",
+      "task_id": "user_task_4",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/github/user_task_4/none/none.json",
+      "git_blob_sha1": "505c5df3909e10104276e7a3bfab08cce5dfa930",
+      "bytes_expected": 14389
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "github",
+      "task_id": "user_task_4",
+      "attack_id": 2,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/github/user_task_4/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "3fa12de8d7d2c75e00aa58e82995bab89aec93be",
+      "bytes_expected": 20258
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "github",
+      "task_id": "user_task_4",
+      "attack_id": 7,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/github/user_task_4/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "7a14bf2ea806e2c0fc3934b9ffc2f000d7161f8a",
+      "bytes_expected": 19052
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "github",
+      "task_id": "user_task_6",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/github/user_task_6/none/none.json",
+      "git_blob_sha1": "cbc0118f4171f628f3d5c0948fe9a17487d5f85f",
+      "bytes_expected": 8135
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "github",
+      "task_id": "user_task_6",
+      "attack_id": 1,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/github/user_task_6/important_instructions/injection_task_1.json",
+      "git_blob_sha1": "b2f1d5390d57eebb83f8981d31b34bfba84bdb3a",
+      "bytes_expected": 9791
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "github",
+      "task_id": "user_task_6",
+      "attack_id": 7,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/github/user_task_6/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "788855c5fed2bf475b260ce0f9ce1db0cbdd42ee",
+      "bytes_expected": 10123
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "dailylife",
+      "task_id": "user_task_6",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/dailylife/user_task_6/none/none.json",
+      "git_blob_sha1": "1530060b25e6e98352ceb8a1320241508f5a791c",
+      "bytes_expected": 19319
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "dailylife",
+      "task_id": "user_task_6",
+      "attack_id": 4,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/dailylife/user_task_6/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "28135ec448b4a86c576692549b431d5a09a42e3a",
+      "bytes_expected": 22426
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "dailylife",
+      "task_id": "user_task_6",
+      "attack_id": 8,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/dailylife/user_task_6/important_instructions/injection_task_8.json",
+      "git_blob_sha1": "dfa91ff8e2947604b6269b3932ee0307f1ec2f44",
+      "bytes_expected": 26271
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "dailylife",
+      "task_id": "user_task_9",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/dailylife/user_task_9/none/none.json",
+      "git_blob_sha1": "24ce009823ff53f1a1c9da6fb3b5e441d9e9ea23",
+      "bytes_expected": 21567
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "dailylife",
+      "task_id": "user_task_9",
+      "attack_id": 2,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/dailylife/user_task_9/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "efab992922201cccc9e23dab32447b3505e02188",
+      "bytes_expected": 21977
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "dailylife",
+      "task_id": "user_task_9",
+      "attack_id": 4,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/dailylife/user_task_9/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "4a993ea5a3d0b79f09292ac55cf80954df85f0a1",
+      "bytes_expected": 12862
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "dailylife",
+      "task_id": "user_task_10",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/dailylife/user_task_10/none/none.json",
+      "git_blob_sha1": "5c39faed3c87ce3c94f94e92e77c1cca8f9386fe",
+      "bytes_expected": 18752
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "dailylife",
+      "task_id": "user_task_10",
+      "attack_id": 1,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/dailylife/user_task_10/important_instructions/injection_task_1.json",
+      "git_blob_sha1": "460dfd444ccddd2530cb53e524751e50f8202d42",
+      "bytes_expected": 24818
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "dailylife",
+      "task_id": "user_task_10",
+      "attack_id": 4,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/dailylife/user_task_10/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "9b74c3c02b470538d1da3093a3af2e6861a7179e",
+      "bytes_expected": 26645
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "dailylife",
+      "task_id": "user_task_13",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/dailylife/user_task_13/none/none.json",
+      "git_blob_sha1": "dd0df5c21264a200c413a72f3dc5c6624774ad6a",
+      "bytes_expected": 23233
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "dailylife",
+      "task_id": "user_task_13",
+      "attack_id": 2,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/dailylife/user_task_13/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "50d3a47189c473bfde12ad8386d68ab2d16444ba",
+      "bytes_expected": 28466
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "spotlighting",
+      "suite": "dailylife",
+      "task_id": "user_task_13",
+      "attack_id": 7,
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/dailylife/user_task_13/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "2d21fd35d42ac29686b12b278af79c4a2620eff0",
+      "bytes_expected": 23983
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "shopping",
+      "task_id": "user_task_3",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/shopping/user_task_3/none/none.json",
+      "git_blob_sha1": "902fb0e3b08b7a22868395c0dd26e85bd82d4bab",
+      "bytes_expected": 20729
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "shopping",
+      "task_id": "user_task_3",
+      "attack_id": 0,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/shopping/user_task_3/important_instructions/injection_task_0.json",
+      "git_blob_sha1": "4074fb95b2103070e9b61df207ca0384b9f2ea09",
+      "bytes_expected": 3062
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "shopping",
+      "task_id": "user_task_3",
+      "attack_id": 5,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/shopping/user_task_3/important_instructions/injection_task_5.json",
+      "git_blob_sha1": "5b013171fed21891a23c49f161d7db8b2fd50daf",
+      "bytes_expected": 2895
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "shopping",
+      "task_id": "user_task_6",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/shopping/user_task_6/none/none.json",
+      "git_blob_sha1": "181673f32621bad43dd939b0f035cc0b278b0ce2",
+      "bytes_expected": 2538
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "shopping",
+      "task_id": "user_task_6",
+      "attack_id": 4,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/shopping/user_task_6/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "6574ca738920c6df4d424eb37faa4e43759af931",
+      "bytes_expected": 3570
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "shopping",
+      "task_id": "user_task_6",
+      "attack_id": 6,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/shopping/user_task_6/important_instructions/injection_task_6.json",
+      "git_blob_sha1": "5f70c7a319a44be0943406d88ccf278d87ea2f71",
+      "bytes_expected": 10642
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "shopping",
+      "task_id": "user_task_18",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/shopping/user_task_18/none/none.json",
+      "git_blob_sha1": "773a0017dbc1633cb97507697d5d9ca721ab6aa4",
+      "bytes_expected": 2837
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "shopping",
+      "task_id": "user_task_18",
+      "attack_id": 2,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/shopping/user_task_18/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "e9d6f39da43bc4aa98919c398e4f71eb80407dae",
+      "bytes_expected": 4179
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "shopping",
+      "task_id": "user_task_18",
+      "attack_id": 7,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/shopping/user_task_18/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "59ebe92f1e7169b15803786152dca66437f166df",
+      "bytes_expected": 5660
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "shopping",
+      "task_id": "user_task_19",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/shopping/user_task_19/none/none.json",
+      "git_blob_sha1": "1185fda57abe6dd768ee31e1242b3308172a698c",
+      "bytes_expected": 2492
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "shopping",
+      "task_id": "user_task_19",
+      "attack_id": 0,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/shopping/user_task_19/important_instructions/injection_task_0.json",
+      "git_blob_sha1": "e5683b6ac4acd156e74168692fae3da198a296a6",
+      "bytes_expected": 2910
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "shopping",
+      "task_id": "user_task_19",
+      "attack_id": 2,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/shopping/user_task_19/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "0dce1365a5d34a4b9f35c94421c8172b5caaab5f",
+      "bytes_expected": 5310
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "github",
+      "task_id": "user_task_1",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/github/user_task_1/none/none.json",
+      "git_blob_sha1": "2d01a346906b323a27af686290637fbc1cc55555",
+      "bytes_expected": 2418
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "github",
+      "task_id": "user_task_1",
+      "attack_id": 0,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/github/user_task_1/important_instructions/injection_task_0.json",
+      "git_blob_sha1": "def3c6c1327fd2faba10d5da926585f5e723a7ae",
+      "bytes_expected": 8426
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "github",
+      "task_id": "user_task_1",
+      "attack_id": 4,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/github/user_task_1/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "8768958e7f86b0910993c22964f22a98b8797924",
+      "bytes_expected": 3327
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "github",
+      "task_id": "user_task_3",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/github/user_task_3/none/none.json",
+      "git_blob_sha1": "0a00b604bd2cca2cde77eae06d1d3d17038b811d",
+      "bytes_expected": 2479
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "github",
+      "task_id": "user_task_3",
+      "attack_id": 4,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/github/user_task_3/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "38d5640cdaec341465b02c004ad446f240e1dc7c",
+      "bytes_expected": 4796
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "github",
+      "task_id": "user_task_3",
+      "attack_id": 7,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/github/user_task_3/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "e1bc6e93d6324190209f962e4f4837661e1cf374",
+      "bytes_expected": 4992
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "github",
+      "task_id": "user_task_4",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/github/user_task_4/none/none.json",
+      "git_blob_sha1": "71e7acd255f012c0c3c255b67e45cabf305415c9",
+      "bytes_expected": 2471
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "github",
+      "task_id": "user_task_4",
+      "attack_id": 2,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/github/user_task_4/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "97344b01ea32795569c1f6b58536174b921b3a83",
+      "bytes_expected": 4252
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "github",
+      "task_id": "user_task_4",
+      "attack_id": 7,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/github/user_task_4/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "4f28432933dda43460bf4e8b1b9bcc966087f379",
+      "bytes_expected": 4616
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "github",
+      "task_id": "user_task_6",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/github/user_task_6/none/none.json",
+      "git_blob_sha1": "ce5548491acb08761bf46c0ea5413100a62d88d7",
+      "bytes_expected": 2469
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "github",
+      "task_id": "user_task_6",
+      "attack_id": 1,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/github/user_task_6/important_instructions/injection_task_1.json",
+      "git_blob_sha1": "6d09335c3586b77d49dee8b322defdc509b9accd",
+      "bytes_expected": 3415
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "github",
+      "task_id": "user_task_6",
+      "attack_id": 7,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/github/user_task_6/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "3e6ac85152a1c5d985eb2480bee2ced9643a54f4",
+      "bytes_expected": 3438
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "dailylife",
+      "task_id": "user_task_6",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/dailylife/user_task_6/none/none.json",
+      "git_blob_sha1": "878f6b2963cd62a581ab18129fb5c52509942f0b",
+      "bytes_expected": 2547
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "dailylife",
+      "task_id": "user_task_6",
+      "attack_id": 4,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/dailylife/user_task_6/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "f31d660b759991045261be6117df69b6300a3d10",
+      "bytes_expected": 4295
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "dailylife",
+      "task_id": "user_task_6",
+      "attack_id": 8,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/dailylife/user_task_6/important_instructions/injection_task_8.json",
+      "git_blob_sha1": "b9de3dddf520671532e511e1c2f58b973d50afab",
+      "bytes_expected": 4866
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "dailylife",
+      "task_id": "user_task_9",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/dailylife/user_task_9/none/none.json",
+      "git_blob_sha1": "b9ccf7adb21cd625c7ee18d8c57af7ed4141fdfb",
+      "bytes_expected": 2539
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "dailylife",
+      "task_id": "user_task_9",
+      "attack_id": 2,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/dailylife/user_task_9/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "1730774d68350b059f382e8667f2c927b0e407c9",
+      "bytes_expected": 8317
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "dailylife",
+      "task_id": "user_task_9",
+      "attack_id": 4,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/dailylife/user_task_9/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "d0821713876e933c9ccda40bcbbea4088a3df654",
+      "bytes_expected": 3238
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "dailylife",
+      "task_id": "user_task_10",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/dailylife/user_task_10/none/none.json",
+      "git_blob_sha1": "d0cfde77862ee8dca636af8399d5137cb0907826",
+      "bytes_expected": 2532
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "dailylife",
+      "task_id": "user_task_10",
+      "attack_id": 1,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/dailylife/user_task_10/important_instructions/injection_task_1.json",
+      "git_blob_sha1": "85579e91da7de78c2edb592820d245c52e38f332",
+      "bytes_expected": 5974
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "dailylife",
+      "task_id": "user_task_10",
+      "attack_id": 4,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/dailylife/user_task_10/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "de3ef58a2e787fdfe28df1208e73fa93edea0cd8",
+      "bytes_expected": 7416
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "dailylife",
+      "task_id": "user_task_13",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/dailylife/user_task_13/none/none.json",
+      "git_blob_sha1": "e6cfe02487c09866bf47e39f3a4519237ce28f80",
+      "bytes_expected": 4185
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "dailylife",
+      "task_id": "user_task_13",
+      "attack_id": 2,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/dailylife/user_task_13/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "a536bdc2f80c5e74f657c9094e8df5ba48ac6aa4",
+      "bytes_expected": 4030
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "tool_filter",
+      "suite": "dailylife",
+      "task_id": "user_task_13",
+      "attack_id": 7,
+      "path": "runs/google_gemini-2.5-pro-tool_filter/dailylife/user_task_13/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "93e76663704c59009cbf1dbf68803f66775c3f38",
+      "bytes_expected": 7453
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "shopping",
+      "task_id": "user_task_3",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-progent/shopping/user_task_3/none/none.json",
+      "git_blob_sha1": "0df38b32e90a91a6be8500367e86b3f4a1469066",
+      "bytes_expected": 4113
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "shopping",
+      "task_id": "user_task_3",
+      "attack_id": 0,
+      "path": "runs/google_gemini-2.5-pro-progent/shopping/user_task_3/important_instructions/injection_task_0.json",
+      "git_blob_sha1": "6f2fab66be29a8c218c483262f651382128e2ee8",
+      "bytes_expected": 3231
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "shopping",
+      "task_id": "user_task_3",
+      "attack_id": 5,
+      "path": "runs/google_gemini-2.5-pro-progent/shopping/user_task_3/important_instructions/injection_task_5.json",
+      "git_blob_sha1": "54e6297445242912a75e61423b35af2f38384844",
+      "bytes_expected": 3213
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "shopping",
+      "task_id": "user_task_6",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-progent/shopping/user_task_6/none/none.json",
+      "git_blob_sha1": "d6596c7c879f80a343fab9c5d536d8151ce4ffbb",
+      "bytes_expected": 11477
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "shopping",
+      "task_id": "user_task_6",
+      "attack_id": 4,
+      "path": "runs/google_gemini-2.5-pro-progent/shopping/user_task_6/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "6a677610121ef7f880645569738dd00cba318278",
+      "bytes_expected": 2507
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "shopping",
+      "task_id": "user_task_6",
+      "attack_id": 6,
+      "path": "runs/google_gemini-2.5-pro-progent/shopping/user_task_6/important_instructions/injection_task_6.json",
+      "git_blob_sha1": "283beaeef77145c9c28325f8badf6697f4b13abb",
+      "bytes_expected": 9676
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "shopping",
+      "task_id": "user_task_18",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-progent/shopping/user_task_18/none/none.json",
+      "git_blob_sha1": "6458a302514924a8a0b27eb6185c92b8cc13f1cd",
+      "bytes_expected": 50642
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "shopping",
+      "task_id": "user_task_18",
+      "attack_id": 2,
+      "path": "runs/google_gemini-2.5-pro-progent/shopping/user_task_18/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "1756b79bd188a40149143e56e63a60239fc02342",
+      "bytes_expected": 42399
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "shopping",
+      "task_id": "user_task_18",
+      "attack_id": 7,
+      "path": "runs/google_gemini-2.5-pro-progent/shopping/user_task_18/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "490643cd7736a656f8c75c86868b0d6b96ecfd39",
+      "bytes_expected": 26816
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "shopping",
+      "task_id": "user_task_19",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-progent/shopping/user_task_19/none/none.json",
+      "git_blob_sha1": "cb17528a992d580bdaa7e71d21ede588730a94ee",
+      "bytes_expected": 7152
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "shopping",
+      "task_id": "user_task_19",
+      "attack_id": 0,
+      "path": "runs/google_gemini-2.5-pro-progent/shopping/user_task_19/important_instructions/injection_task_0.json",
+      "git_blob_sha1": "6dbcfebbcbc0c1a417f0ecdebadaf3839509ee46",
+      "bytes_expected": 8543
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "shopping",
+      "task_id": "user_task_19",
+      "attack_id": 2,
+      "path": "runs/google_gemini-2.5-pro-progent/shopping/user_task_19/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "119a72f035928b0c232fe0f6d3c3c57fe88ec127",
+      "bytes_expected": 8127
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "github",
+      "task_id": "user_task_1",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-progent/github/user_task_1/none/none.json",
+      "git_blob_sha1": "b76da310ab48940cb76a2e109007a5430482074c",
+      "bytes_expected": 24377
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "github",
+      "task_id": "user_task_1",
+      "attack_id": 0,
+      "path": "runs/google_gemini-2.5-pro-progent/github/user_task_1/important_instructions/injection_task_0.json",
+      "git_blob_sha1": "1f46f08d0aa802c14652c478385af29ec042d239",
+      "bytes_expected": 17630
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "github",
+      "task_id": "user_task_1",
+      "attack_id": 4,
+      "path": "runs/google_gemini-2.5-pro-progent/github/user_task_1/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "d3effac5897a743e6fa5d83dff87ab58543ddb8c",
+      "bytes_expected": 16248
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "github",
+      "task_id": "user_task_3",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-progent/github/user_task_3/none/none.json",
+      "git_blob_sha1": "e5b678a53308a8ff8df07bd30bdac9825e9b5c54",
+      "bytes_expected": 12761
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "github",
+      "task_id": "user_task_3",
+      "attack_id": 4,
+      "path": "runs/google_gemini-2.5-pro-progent/github/user_task_3/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "745f12590a52765dc7baf9001bc409315856b7fe",
+      "bytes_expected": 17134
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "github",
+      "task_id": "user_task_3",
+      "attack_id": 7,
+      "path": "runs/google_gemini-2.5-pro-progent/github/user_task_3/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "5d0f62ad3d9cda4698d26ba88e8ba98dd86a3a6e",
+      "bytes_expected": 17993
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "github",
+      "task_id": "user_task_4",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-progent/github/user_task_4/none/none.json",
+      "git_blob_sha1": "9b2bf3cae4489511d4074d2b289b1b9c4eb4408e",
+      "bytes_expected": 6061
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "github",
+      "task_id": "user_task_4",
+      "attack_id": 2,
+      "path": "runs/google_gemini-2.5-pro-progent/github/user_task_4/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "bbb3e5c5ee2541e0ea3e05d7168b1132e37a8597",
+      "bytes_expected": 15195
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "github",
+      "task_id": "user_task_4",
+      "attack_id": 7,
+      "path": "runs/google_gemini-2.5-pro-progent/github/user_task_4/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "5e6638802d463797b671f542e1569bdfce6e5a6d",
+      "bytes_expected": 17772
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "github",
+      "task_id": "user_task_6",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-progent/github/user_task_6/none/none.json",
+      "git_blob_sha1": "e58c7c260e58fa032bb836a34d810f043e2cff41",
+      "bytes_expected": 6893
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "github",
+      "task_id": "user_task_6",
+      "attack_id": 1,
+      "path": "runs/google_gemini-2.5-pro-progent/github/user_task_6/important_instructions/injection_task_1.json",
+      "git_blob_sha1": "961126fe63d42e3f495c5aafdb50239987eafa3b",
+      "bytes_expected": 9230
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "github",
+      "task_id": "user_task_6",
+      "attack_id": 7,
+      "path": "runs/google_gemini-2.5-pro-progent/github/user_task_6/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "866abc69205c9dd13afe732dd614934c41ab737d",
+      "bytes_expected": 8777
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "dailylife",
+      "task_id": "user_task_6",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-progent/dailylife/user_task_6/none/none.json",
+      "git_blob_sha1": "78cf4b73358a190f06a9c5db33de6540c36b1505",
+      "bytes_expected": 16779
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "dailylife",
+      "task_id": "user_task_6",
+      "attack_id": 4,
+      "path": "runs/google_gemini-2.5-pro-progent/dailylife/user_task_6/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "076971b1401db0baec276634d8766d9ea49cbec2",
+      "bytes_expected": 6615
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "dailylife",
+      "task_id": "user_task_6",
+      "attack_id": 8,
+      "path": "runs/google_gemini-2.5-pro-progent/dailylife/user_task_6/important_instructions/injection_task_8.json",
+      "git_blob_sha1": "d73e5dbd339f390cf2ded61bafee44332934b3b8",
+      "bytes_expected": 20227
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "dailylife",
+      "task_id": "user_task_9",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-progent/dailylife/user_task_9/none/none.json",
+      "git_blob_sha1": "cac0c2421201f9b088f9c8d2bc6a4fc98cf45ea3",
+      "bytes_expected": 8706
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "dailylife",
+      "task_id": "user_task_9",
+      "attack_id": 2,
+      "path": "runs/google_gemini-2.5-pro-progent/dailylife/user_task_9/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "5a8ee0207edb08217d374af063f400843476f73a",
+      "bytes_expected": 14440
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "dailylife",
+      "task_id": "user_task_9",
+      "attack_id": 4,
+      "path": "runs/google_gemini-2.5-pro-progent/dailylife/user_task_9/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "cfcbbdab4565a059fdac65825ca08aadf70c5bf9",
+      "bytes_expected": 10628
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "dailylife",
+      "task_id": "user_task_10",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-progent/dailylife/user_task_10/none/none.json",
+      "git_blob_sha1": "5af5df456ebbbedd15a202ddf45b60d912550201",
+      "bytes_expected": 11932
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "dailylife",
+      "task_id": "user_task_10",
+      "attack_id": 1,
+      "path": "runs/google_gemini-2.5-pro-progent/dailylife/user_task_10/important_instructions/injection_task_1.json",
+      "git_blob_sha1": "e3b6cbafbdbd9a5e374ebcadc4f6384beda9bef0",
+      "bytes_expected": 17311
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "dailylife",
+      "task_id": "user_task_10",
+      "attack_id": 4,
+      "path": "runs/google_gemini-2.5-pro-progent/dailylife/user_task_10/important_instructions/injection_task_4.json",
+      "git_blob_sha1": "a30d44aeb0eb831bc1b29761d825e4db82d23804",
+      "bytes_expected": 19769
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "dailylife",
+      "task_id": "user_task_13",
+      "attack_id": null,
+      "path": "runs/google_gemini-2.5-pro-progent/dailylife/user_task_13/none/none.json",
+      "git_blob_sha1": "0e98bbe80819dceb05e7fea1fe946dd6bc823643",
+      "bytes_expected": 5076
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "dailylife",
+      "task_id": "user_task_13",
+      "attack_id": 2,
+      "path": "runs/google_gemini-2.5-pro-progent/dailylife/user_task_13/important_instructions/injection_task_2.json",
+      "git_blob_sha1": "05decb1d65536d231528483b14bc4c67b1c3a3c3",
+      "bytes_expected": 12352
+    },
+    {
+      "model": "google_gemini-2.5-pro",
+      "defense": "progent",
+      "suite": "dailylife",
+      "task_id": "user_task_13",
+      "attack_id": 7,
+      "path": "runs/google_gemini-2.5-pro-progent/dailylife/user_task_13/important_instructions/injection_task_7.json",
+      "git_blob_sha1": "a994c82a293dc2e1f1372d60538b10f42f1ba53f",
+      "bytes_expected": 14634
+    }
+  ]
+}

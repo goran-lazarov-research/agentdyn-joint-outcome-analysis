@@ -1,0 +1,2312 @@
+{
+  "sha": "5353cf7615b135cace8d07c8f12dac53a16b6db3",
+  "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/trees/5353cf7615b135cace8d07c8f12dac53a16b6db3",
+  "truncated": true,
+  "tree": [
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/dailylife/user_task_10/important_instructions/injection_task_1.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e3b6cbafbdbd9a5e374ebcadc4f6384beda9bef0",
+      "size": 17311,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/e3b6cbafbdbd9a5e374ebcadc4f6384beda9bef0"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/dailylife/user_task_10/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a30d44aeb0eb831bc1b29761d825e4db82d23804",
+      "size": 19769,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/a30d44aeb0eb831bc1b29761d825e4db82d23804"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/dailylife/user_task_10/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5af5df456ebbbedd15a202ddf45b60d912550201",
+      "size": 11932,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/5af5df456ebbbedd15a202ddf45b60d912550201"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/dailylife/user_task_13/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "05decb1d65536d231528483b14bc4c67b1c3a3c3",
+      "size": 12352,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/05decb1d65536d231528483b14bc4c67b1c3a3c3"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/dailylife/user_task_13/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a994c82a293dc2e1f1372d60538b10f42f1ba53f",
+      "size": 14634,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/a994c82a293dc2e1f1372d60538b10f42f1ba53f"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/dailylife/user_task_13/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0e98bbe80819dceb05e7fea1fe946dd6bc823643",
+      "size": 5076,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/0e98bbe80819dceb05e7fea1fe946dd6bc823643"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/dailylife/user_task_6/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "076971b1401db0baec276634d8766d9ea49cbec2",
+      "size": 6615,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/076971b1401db0baec276634d8766d9ea49cbec2"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/dailylife/user_task_6/important_instructions/injection_task_8.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d73e5dbd339f390cf2ded61bafee44332934b3b8",
+      "size": 20227,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/d73e5dbd339f390cf2ded61bafee44332934b3b8"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/dailylife/user_task_6/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "78cf4b73358a190f06a9c5db33de6540c36b1505",
+      "size": 16779,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/78cf4b73358a190f06a9c5db33de6540c36b1505"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/dailylife/user_task_9/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5a8ee0207edb08217d374af063f400843476f73a",
+      "size": 14440,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/5a8ee0207edb08217d374af063f400843476f73a"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/dailylife/user_task_9/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cfcbbdab4565a059fdac65825ca08aadf70c5bf9",
+      "size": 10628,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/cfcbbdab4565a059fdac65825ca08aadf70c5bf9"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/dailylife/user_task_9/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cac0c2421201f9b088f9c8d2bc6a4fc98cf45ea3",
+      "size": 8706,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/cac0c2421201f9b088f9c8d2bc6a4fc98cf45ea3"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/github/user_task_1/important_instructions/injection_task_0.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f46f08d0aa802c14652c478385af29ec042d239",
+      "size": 17630,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/1f46f08d0aa802c14652c478385af29ec042d239"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/github/user_task_1/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3effac5897a743e6fa5d83dff87ab58543ddb8c",
+      "size": 16248,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/d3effac5897a743e6fa5d83dff87ab58543ddb8c"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/github/user_task_1/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b76da310ab48940cb76a2e109007a5430482074c",
+      "size": 24377,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/b76da310ab48940cb76a2e109007a5430482074c"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/github/user_task_3/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "745f12590a52765dc7baf9001bc409315856b7fe",
+      "size": 17134,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/745f12590a52765dc7baf9001bc409315856b7fe"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/github/user_task_3/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5d0f62ad3d9cda4698d26ba88e8ba98dd86a3a6e",
+      "size": 17993,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/5d0f62ad3d9cda4698d26ba88e8ba98dd86a3a6e"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/github/user_task_3/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e5b678a53308a8ff8df07bd30bdac9825e9b5c54",
+      "size": 12761,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/e5b678a53308a8ff8df07bd30bdac9825e9b5c54"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/github/user_task_4/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bbb3e5c5ee2541e0ea3e05d7168b1132e37a8597",
+      "size": 15195,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/bbb3e5c5ee2541e0ea3e05d7168b1132e37a8597"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/github/user_task_4/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5e6638802d463797b671f542e1569bdfce6e5a6d",
+      "size": 17772,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/5e6638802d463797b671f542e1569bdfce6e5a6d"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/github/user_task_4/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9b2bf3cae4489511d4074d2b289b1b9c4eb4408e",
+      "size": 6061,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/9b2bf3cae4489511d4074d2b289b1b9c4eb4408e"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/github/user_task_6/important_instructions/injection_task_1.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "961126fe63d42e3f495c5aafdb50239987eafa3b",
+      "size": 9230,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/961126fe63d42e3f495c5aafdb50239987eafa3b"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/github/user_task_6/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "866abc69205c9dd13afe732dd614934c41ab737d",
+      "size": 8777,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/866abc69205c9dd13afe732dd614934c41ab737d"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/github/user_task_6/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e58c7c260e58fa032bb836a34d810f043e2cff41",
+      "size": 6893,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/e58c7c260e58fa032bb836a34d810f043e2cff41"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/shopping/user_task_18/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1756b79bd188a40149143e56e63a60239fc02342",
+      "size": 42399,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/1756b79bd188a40149143e56e63a60239fc02342"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/shopping/user_task_18/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "490643cd7736a656f8c75c86868b0d6b96ecfd39",
+      "size": 26816,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/490643cd7736a656f8c75c86868b0d6b96ecfd39"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/shopping/user_task_18/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6458a302514924a8a0b27eb6185c92b8cc13f1cd",
+      "size": 50642,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/6458a302514924a8a0b27eb6185c92b8cc13f1cd"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/shopping/user_task_19/important_instructions/injection_task_0.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6dbcfebbcbc0c1a417f0ecdebadaf3839509ee46",
+      "size": 8543,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/6dbcfebbcbc0c1a417f0ecdebadaf3839509ee46"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/shopping/user_task_19/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "119a72f035928b0c232fe0f6d3c3c57fe88ec127",
+      "size": 8127,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/119a72f035928b0c232fe0f6d3c3c57fe88ec127"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/shopping/user_task_19/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cb17528a992d580bdaa7e71d21ede588730a94ee",
+      "size": 7152,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/cb17528a992d580bdaa7e71d21ede588730a94ee"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/shopping/user_task_3/important_instructions/injection_task_0.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6f2fab66be29a8c218c483262f651382128e2ee8",
+      "size": 3231,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/6f2fab66be29a8c218c483262f651382128e2ee8"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/shopping/user_task_3/important_instructions/injection_task_5.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54e6297445242912a75e61423b35af2f38384844",
+      "size": 3213,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/54e6297445242912a75e61423b35af2f38384844"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/shopping/user_task_3/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0df38b32e90a91a6be8500367e86b3f4a1469066",
+      "size": 4113,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/0df38b32e90a91a6be8500367e86b3f4a1469066"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/shopping/user_task_6/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a677610121ef7f880645569738dd00cba318278",
+      "size": 2507,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/6a677610121ef7f880645569738dd00cba318278"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/shopping/user_task_6/important_instructions/injection_task_6.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "283beaeef77145c9c28325f8badf6697f4b13abb",
+      "size": 9676,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/283beaeef77145c9c28325f8badf6697f4b13abb"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-progent/shopping/user_task_6/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d6596c7c879f80a343fab9c5d536d8151ce4ffbb",
+      "size": 11477,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/d6596c7c879f80a343fab9c5d536d8151ce4ffbb"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/dailylife/user_task_10/important_instructions/injection_task_1.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "460dfd444ccddd2530cb53e524751e50f8202d42",
+      "size": 24818,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/460dfd444ccddd2530cb53e524751e50f8202d42"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/dailylife/user_task_10/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9b74c3c02b470538d1da3093a3af2e6861a7179e",
+      "size": 26645,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/9b74c3c02b470538d1da3093a3af2e6861a7179e"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/dailylife/user_task_10/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5c39faed3c87ce3c94f94e92e77c1cca8f9386fe",
+      "size": 18752,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/5c39faed3c87ce3c94f94e92e77c1cca8f9386fe"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/dailylife/user_task_13/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "50d3a47189c473bfde12ad8386d68ab2d16444ba",
+      "size": 28466,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/50d3a47189c473bfde12ad8386d68ab2d16444ba"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/dailylife/user_task_13/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d21fd35d42ac29686b12b278af79c4a2620eff0",
+      "size": 23983,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/2d21fd35d42ac29686b12b278af79c4a2620eff0"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/dailylife/user_task_13/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dd0df5c21264a200c413a72f3dc5c6624774ad6a",
+      "size": 23233,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/dd0df5c21264a200c413a72f3dc5c6624774ad6a"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/dailylife/user_task_6/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "28135ec448b4a86c576692549b431d5a09a42e3a",
+      "size": 22426,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/28135ec448b4a86c576692549b431d5a09a42e3a"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/dailylife/user_task_6/important_instructions/injection_task_8.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dfa91ff8e2947604b6269b3932ee0307f1ec2f44",
+      "size": 26271,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/dfa91ff8e2947604b6269b3932ee0307f1ec2f44"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/dailylife/user_task_6/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1530060b25e6e98352ceb8a1320241508f5a791c",
+      "size": 19319,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/1530060b25e6e98352ceb8a1320241508f5a791c"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/dailylife/user_task_9/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "efab992922201cccc9e23dab32447b3505e02188",
+      "size": 21977,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/efab992922201cccc9e23dab32447b3505e02188"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/dailylife/user_task_9/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4a993ea5a3d0b79f09292ac55cf80954df85f0a1",
+      "size": 12862,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/4a993ea5a3d0b79f09292ac55cf80954df85f0a1"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/dailylife/user_task_9/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "24ce009823ff53f1a1c9da6fb3b5e441d9e9ea23",
+      "size": 21567,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/24ce009823ff53f1a1c9da6fb3b5e441d9e9ea23"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/github/user_task_1/important_instructions/injection_task_0.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "370146531f783b9feba2db4829d2c1fc6ce73a15",
+      "size": 19822,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/370146531f783b9feba2db4829d2c1fc6ce73a15"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/github/user_task_1/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "04f273ae987102d72d4f1fa92fabcc81415b3298",
+      "size": 22087,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/04f273ae987102d72d4f1fa92fabcc81415b3298"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/github/user_task_1/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2afe4d577bf55df57843b8ea6dd3553e240b1ae7",
+      "size": 23727,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/2afe4d577bf55df57843b8ea6dd3553e240b1ae7"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/github/user_task_3/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "775d566a088727b0d0e6ff04ce3845c0fb671856",
+      "size": 26565,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/775d566a088727b0d0e6ff04ce3845c0fb671856"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/github/user_task_3/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b673ec3f483d10ce9570ed561ce08743762a9207",
+      "size": 27098,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/b673ec3f483d10ce9570ed561ce08743762a9207"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/github/user_task_3/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6425cb277f47d1af5ae7b990fb80bf6bcd2b4419",
+      "size": 21377,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/6425cb277f47d1af5ae7b990fb80bf6bcd2b4419"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/github/user_task_4/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3fa12de8d7d2c75e00aa58e82995bab89aec93be",
+      "size": 20258,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/3fa12de8d7d2c75e00aa58e82995bab89aec93be"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/github/user_task_4/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a14bf2ea806e2c0fc3934b9ffc2f000d7161f8a",
+      "size": 19052,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/7a14bf2ea806e2c0fc3934b9ffc2f000d7161f8a"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/github/user_task_4/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "505c5df3909e10104276e7a3bfab08cce5dfa930",
+      "size": 14389,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/505c5df3909e10104276e7a3bfab08cce5dfa930"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/github/user_task_6/important_instructions/injection_task_1.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b2f1d5390d57eebb83f8981d31b34bfba84bdb3a",
+      "size": 9791,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/b2f1d5390d57eebb83f8981d31b34bfba84bdb3a"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/github/user_task_6/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "788855c5fed2bf475b260ce0f9ce1db0cbdd42ee",
+      "size": 10123,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/788855c5fed2bf475b260ce0f9ce1db0cbdd42ee"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/github/user_task_6/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cbc0118f4171f628f3d5c0948fe9a17487d5f85f",
+      "size": 8135,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/cbc0118f4171f628f3d5c0948fe9a17487d5f85f"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/shopping/user_task_18/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e582a004050e17ade773ca8021d84f99c7437609",
+      "size": 26264,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/e582a004050e17ade773ca8021d84f99c7437609"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/shopping/user_task_18/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4a0cbe4cbaa2d3d739101fcbf308db0570f96f03",
+      "size": 30836,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/4a0cbe4cbaa2d3d739101fcbf308db0570f96f03"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/shopping/user_task_18/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "507ff48aa5ffd08d52cbe97affb1762a36c7c3b6",
+      "size": 27059,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/507ff48aa5ffd08d52cbe97affb1762a36c7c3b6"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/shopping/user_task_19/important_instructions/injection_task_0.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4e161286bbe6caed94b7f6543886c047584e2671",
+      "size": 10376,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/4e161286bbe6caed94b7f6543886c047584e2671"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/shopping/user_task_19/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "20402f3eb38d6fa211bbcbc52738cc6ccff4fec9",
+      "size": 9777,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/20402f3eb38d6fa211bbcbc52738cc6ccff4fec9"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/shopping/user_task_19/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e351041447e66eecb4bddd591508dc72187aa576",
+      "size": 8906,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/e351041447e66eecb4bddd591508dc72187aa576"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/shopping/user_task_3/important_instructions/injection_task_0.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5be4f0e064aca732771dd2ae648a97d3c8341077",
+      "size": 11230,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/5be4f0e064aca732771dd2ae648a97d3c8341077"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/shopping/user_task_3/important_instructions/injection_task_5.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba5d10cee76085da017304ade334bdb666ea0ed2",
+      "size": 5472,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/ba5d10cee76085da017304ade334bdb666ea0ed2"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/shopping/user_task_3/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "423344b148540df0317c5d4d39f51c41f856fe9c",
+      "size": 6329,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/423344b148540df0317c5d4d39f51c41f856fe9c"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/shopping/user_task_6/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a55d11c8df58d5194fff85b4f17dd70e5d5b26b",
+      "size": 15630,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/1a55d11c8df58d5194fff85b4f17dd70e5d5b26b"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/shopping/user_task_6/important_instructions/injection_task_6.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c7ba13eda5697142c5506873296a11c647ecfe68",
+      "size": 15570,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/c7ba13eda5697142c5506873296a11c647ecfe68"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-spotlighting_with_delimiting/shopping/user_task_6/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "286a0c005902cdf81ae02cdf31e18808d8f15b90",
+      "size": 9027,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/286a0c005902cdf81ae02cdf31e18808d8f15b90"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/dailylife/user_task_10/important_instructions/injection_task_1.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85579e91da7de78c2edb592820d245c52e38f332",
+      "size": 5974,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/85579e91da7de78c2edb592820d245c52e38f332"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/dailylife/user_task_10/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "de3ef58a2e787fdfe28df1208e73fa93edea0cd8",
+      "size": 7416,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/de3ef58a2e787fdfe28df1208e73fa93edea0cd8"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/dailylife/user_task_10/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d0cfde77862ee8dca636af8399d5137cb0907826",
+      "size": 2532,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/d0cfde77862ee8dca636af8399d5137cb0907826"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/dailylife/user_task_13/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a536bdc2f80c5e74f657c9094e8df5ba48ac6aa4",
+      "size": 4030,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/a536bdc2f80c5e74f657c9094e8df5ba48ac6aa4"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/dailylife/user_task_13/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "93e76663704c59009cbf1dbf68803f66775c3f38",
+      "size": 7453,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/93e76663704c59009cbf1dbf68803f66775c3f38"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/dailylife/user_task_13/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e6cfe02487c09866bf47e39f3a4519237ce28f80",
+      "size": 4185,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/e6cfe02487c09866bf47e39f3a4519237ce28f80"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/dailylife/user_task_6/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f31d660b759991045261be6117df69b6300a3d10",
+      "size": 4295,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/f31d660b759991045261be6117df69b6300a3d10"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/dailylife/user_task_6/important_instructions/injection_task_8.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9de3dddf520671532e511e1c2f58b973d50afab",
+      "size": 4866,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/b9de3dddf520671532e511e1c2f58b973d50afab"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/dailylife/user_task_6/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "878f6b2963cd62a581ab18129fb5c52509942f0b",
+      "size": 2547,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/878f6b2963cd62a581ab18129fb5c52509942f0b"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/dailylife/user_task_9/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1730774d68350b059f382e8667f2c927b0e407c9",
+      "size": 8317,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/1730774d68350b059f382e8667f2c927b0e407c9"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/dailylife/user_task_9/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d0821713876e933c9ccda40bcbbea4088a3df654",
+      "size": 3238,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/d0821713876e933c9ccda40bcbbea4088a3df654"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/dailylife/user_task_9/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9ccf7adb21cd625c7ee18d8c57af7ed4141fdfb",
+      "size": 2539,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/b9ccf7adb21cd625c7ee18d8c57af7ed4141fdfb"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/github/user_task_1/important_instructions/injection_task_0.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "def3c6c1327fd2faba10d5da926585f5e723a7ae",
+      "size": 8426,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/def3c6c1327fd2faba10d5da926585f5e723a7ae"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/github/user_task_1/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8768958e7f86b0910993c22964f22a98b8797924",
+      "size": 3327,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/8768958e7f86b0910993c22964f22a98b8797924"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/github/user_task_1/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d01a346906b323a27af686290637fbc1cc55555",
+      "size": 2418,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/2d01a346906b323a27af686290637fbc1cc55555"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/github/user_task_3/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "38d5640cdaec341465b02c004ad446f240e1dc7c",
+      "size": 4796,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/38d5640cdaec341465b02c004ad446f240e1dc7c"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/github/user_task_3/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e1bc6e93d6324190209f962e4f4837661e1cf374",
+      "size": 4992,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/e1bc6e93d6324190209f962e4f4837661e1cf374"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/github/user_task_3/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a00b604bd2cca2cde77eae06d1d3d17038b811d",
+      "size": 2479,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/0a00b604bd2cca2cde77eae06d1d3d17038b811d"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/github/user_task_4/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97344b01ea32795569c1f6b58536174b921b3a83",
+      "size": 4252,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/97344b01ea32795569c1f6b58536174b921b3a83"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/github/user_task_4/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f28432933dda43460bf4e8b1b9bcc966087f379",
+      "size": 4616,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/4f28432933dda43460bf4e8b1b9bcc966087f379"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/github/user_task_4/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "71e7acd255f012c0c3c255b67e45cabf305415c9",
+      "size": 2471,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/71e7acd255f012c0c3c255b67e45cabf305415c9"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/github/user_task_6/important_instructions/injection_task_1.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d09335c3586b77d49dee8b322defdc509b9accd",
+      "size": 3415,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/6d09335c3586b77d49dee8b322defdc509b9accd"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/github/user_task_6/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e6ac85152a1c5d985eb2480bee2ced9643a54f4",
+      "size": 3438,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/3e6ac85152a1c5d985eb2480bee2ced9643a54f4"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/github/user_task_6/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ce5548491acb08761bf46c0ea5413100a62d88d7",
+      "size": 2469,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/ce5548491acb08761bf46c0ea5413100a62d88d7"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/shopping/user_task_18/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e9d6f39da43bc4aa98919c398e4f71eb80407dae",
+      "size": 4179,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/e9d6f39da43bc4aa98919c398e4f71eb80407dae"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/shopping/user_task_18/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "59ebe92f1e7169b15803786152dca66437f166df",
+      "size": 5660,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/59ebe92f1e7169b15803786152dca66437f166df"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/shopping/user_task_18/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "773a0017dbc1633cb97507697d5d9ca721ab6aa4",
+      "size": 2837,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/773a0017dbc1633cb97507697d5d9ca721ab6aa4"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/shopping/user_task_19/important_instructions/injection_task_0.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e5683b6ac4acd156e74168692fae3da198a296a6",
+      "size": 2910,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/e5683b6ac4acd156e74168692fae3da198a296a6"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/shopping/user_task_19/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0dce1365a5d34a4b9f35c94421c8172b5caaab5f",
+      "size": 5310,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/0dce1365a5d34a4b9f35c94421c8172b5caaab5f"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/shopping/user_task_19/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1185fda57abe6dd768ee31e1242b3308172a698c",
+      "size": 2492,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/1185fda57abe6dd768ee31e1242b3308172a698c"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/shopping/user_task_3/important_instructions/injection_task_0.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4074fb95b2103070e9b61df207ca0384b9f2ea09",
+      "size": 3062,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/4074fb95b2103070e9b61df207ca0384b9f2ea09"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/shopping/user_task_3/important_instructions/injection_task_5.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5b013171fed21891a23c49f161d7db8b2fd50daf",
+      "size": 2895,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/5b013171fed21891a23c49f161d7db8b2fd50daf"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/shopping/user_task_3/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "902fb0e3b08b7a22868395c0dd26e85bd82d4bab",
+      "size": 20729,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/902fb0e3b08b7a22868395c0dd26e85bd82d4bab"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/shopping/user_task_6/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6574ca738920c6df4d424eb37faa4e43759af931",
+      "size": 3570,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/6574ca738920c6df4d424eb37faa4e43759af931"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/shopping/user_task_6/important_instructions/injection_task_6.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f70c7a319a44be0943406d88ccf278d87ea2f71",
+      "size": 10642,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/5f70c7a319a44be0943406d88ccf278d87ea2f71"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro-tool_filter/shopping/user_task_6/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "181673f32621bad43dd939b0f035cc0b278b0ce2",
+      "size": 2538,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/181673f32621bad43dd939b0f035cc0b278b0ce2"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/dailylife/user_task_10/important_instructions/injection_task_1.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc0977b46fc2323b16736969f3ec1526226c73a4",
+      "size": 6978,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/fc0977b46fc2323b16736969f3ec1526226c73a4"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/dailylife/user_task_10/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "68c37049e16eedbed672513b2a257b6817bc86e6",
+      "size": 45198,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/68c37049e16eedbed672513b2a257b6817bc86e6"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/dailylife/user_task_10/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7fca69021082c7488301e98588d1b9b95af3319c",
+      "size": 19562,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/7fca69021082c7488301e98588d1b9b95af3319c"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/dailylife/user_task_13/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "329b26df51e74191f1a507c73d433ed0f702505f",
+      "size": 30709,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/329b26df51e74191f1a507c73d433ed0f702505f"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/dailylife/user_task_13/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f99150f946301006f3de58953a04d1537f15f93",
+      "size": 29639,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/4f99150f946301006f3de58953a04d1537f15f93"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/dailylife/user_task_13/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "335fc1e5f137ae9a7b6c8c05679138451af4cd62",
+      "size": 18399,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/335fc1e5f137ae9a7b6c8c05679138451af4cd62"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/dailylife/user_task_6/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8147b19159b7bb25d0697636ca608a5dfbd2eb11",
+      "size": 25574,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/8147b19159b7bb25d0697636ca608a5dfbd2eb11"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/dailylife/user_task_6/important_instructions/injection_task_8.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "15f9fa4dd8051cd7881bb2e3c2ccf088e4c42110",
+      "size": 22854,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/15f9fa4dd8051cd7881bb2e3c2ccf088e4c42110"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/dailylife/user_task_6/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1390cc1332f2200c9c03f0fba80fc70be3ab322f",
+      "size": 18234,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/1390cc1332f2200c9c03f0fba80fc70be3ab322f"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/dailylife/user_task_9/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "75960b2e5d92535ae2b105378ebc6d65ff4f6b1b",
+      "size": 11912,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/75960b2e5d92535ae2b105378ebc6d65ff4f6b1b"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/dailylife/user_task_9/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c31e284c211bd0ec54580c2432450722dd65e458",
+      "size": 23286,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/c31e284c211bd0ec54580c2432450722dd65e458"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/dailylife/user_task_9/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "569ee7560e2a20af900cbd246d797b9282de0201",
+      "size": 10089,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/569ee7560e2a20af900cbd246d797b9282de0201"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/github/user_task_1/important_instructions/injection_task_0.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ff5294100ae0d9c67403f1bcd8eb83980c6f7729",
+      "size": 26097,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/ff5294100ae0d9c67403f1bcd8eb83980c6f7729"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/github/user_task_1/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "26766f0d8011bf3e6e23bc2d2ac59f456566de2f",
+      "size": 18932,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/26766f0d8011bf3e6e23bc2d2ac59f456566de2f"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/github/user_task_1/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f18c09192a828a540216778f8e87ecdf48b8475",
+      "size": 27979,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/9f18c09192a828a540216778f8e87ecdf48b8475"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/github/user_task_3/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7529728bc3599846c0e65537c9ca4a8039a94701",
+      "size": 25849,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/7529728bc3599846c0e65537c9ca4a8039a94701"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/github/user_task_3/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85d85cb8e5a8eafc7473c8980b75242d66970585",
+      "size": 19762,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/85d85cb8e5a8eafc7473c8980b75242d66970585"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/github/user_task_3/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f3c812938f9032d0f99caea0fbec394c2c5ee00d",
+      "size": 20383,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/f3c812938f9032d0f99caea0fbec394c2c5ee00d"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/github/user_task_4/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a8d782339bafb573e9bdcec5bbcca9865c809d84",
+      "size": 22449,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/a8d782339bafb573e9bdcec5bbcca9865c809d84"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/github/user_task_4/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8022e5f97e3c6887928033b0738d11e6cee6ad4c",
+      "size": 18665,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/8022e5f97e3c6887928033b0738d11e6cee6ad4c"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/github/user_task_4/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8837878542b604980148f80b7e2e96578ebb0c0b",
+      "size": 13870,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/8837878542b604980148f80b7e2e96578ebb0c0b"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/github/user_task_6/important_instructions/injection_task_1.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "83d4cd816f82843ec343f9306c33002ebf2e1635",
+      "size": 9587,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/83d4cd816f82843ec343f9306c33002ebf2e1635"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/github/user_task_6/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "370614958d0ebba06b5e17f8a83c3b08ef314b1b",
+      "size": 9902,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/370614958d0ebba06b5e17f8a83c3b08ef314b1b"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/github/user_task_6/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f8d1c2936ee0e73306bd4e80d3fb749f351525a",
+      "size": 7917,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/8f8d1c2936ee0e73306bd4e80d3fb749f351525a"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/shopping/user_task_18/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e7047e8a71cc7a2acc4334d1b81aa324dd5e639",
+      "size": 29618,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/8e7047e8a71cc7a2acc4334d1b81aa324dd5e639"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/shopping/user_task_18/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b43d6d47c7081ad37c16d8313cb4b920c0eb7f0c",
+      "size": 27270,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/b43d6d47c7081ad37c16d8313cb4b920c0eb7f0c"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/shopping/user_task_18/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dcb5b0e51ac21b33e07cbe4a20e97ad593710052",
+      "size": 25263,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/dcb5b0e51ac21b33e07cbe4a20e97ad593710052"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/shopping/user_task_19/important_instructions/injection_task_0.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ed8142d38c8906689796773615779f11eaa5f8f0",
+      "size": 9668,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/ed8142d38c8906689796773615779f11eaa5f8f0"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/shopping/user_task_19/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ad68f74215caca92878f76db19045db50eb711c1",
+      "size": 6550,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/ad68f74215caca92878f76db19045db50eb711c1"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/shopping/user_task_19/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3c5e38d95f2632ee0ea63d68a9ed15fb8efb17c",
+      "size": 8662,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/d3c5e38d95f2632ee0ea63d68a9ed15fb8efb17c"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/shopping/user_task_3/important_instructions/injection_task_0.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85db5b4bf819ac8363c3ea9ae59feb6463a382a5",
+      "size": 5273,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/85db5b4bf819ac8363c3ea9ae59feb6463a382a5"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/shopping/user_task_3/important_instructions/injection_task_5.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aaccfa65e2547be06e7efd0caa693db7bed4d43f",
+      "size": 5258,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/aaccfa65e2547be06e7efd0caa693db7bed4d43f"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/shopping/user_task_3/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a66aab1050730e6a98bd45725bbb0fd6cbb1e66d",
+      "size": 4786,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/a66aab1050730e6a98bd45725bbb0fd6cbb1e66d"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/shopping/user_task_6/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b63a173ce3b110a677c82758be18a07c3164e54f",
+      "size": 14391,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/b63a173ce3b110a677c82758be18a07c3164e54f"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/shopping/user_task_6/important_instructions/injection_task_6.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a6de8ccd10b0e6141887607ad9a029c3c58cac4",
+      "size": 15202,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/6a6de8ccd10b0e6141887607ad9a029c3c58cac4"
+    },
+    {
+      "path": "runs/google_gemini-2.5-pro/shopping/user_task_6/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0825eeb2abcc64c39c53d807d6f4ed9ed5b3628c",
+      "size": 14123,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/0825eeb2abcc64c39c53d807d6f4ed9ed5b3628c"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/dailylife/user_task_10/important_instructions/injection_task_1.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "31b188f727b189d5e5f34b2c189a2eed514534a7",
+      "size": 3561,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/31b188f727b189d5e5f34b2c189a2eed514534a7"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/dailylife/user_task_10/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2bf380f17f0308e176900e454f532da92fdded1b",
+      "size": 6385,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/2bf380f17f0308e176900e454f532da92fdded1b"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/dailylife/user_task_10/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae866b0ecac8d626e5313a459613379b95747463",
+      "size": 7756,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/ae866b0ecac8d626e5313a459613379b95747463"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/dailylife/user_task_13/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "763fc2e8e55d9dc3cb604abba5abd1dff5db3c9e",
+      "size": 11040,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/763fc2e8e55d9dc3cb604abba5abd1dff5db3c9e"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/dailylife/user_task_13/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "93b66072848c461e519b7810ee42b72100353301",
+      "size": 11259,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/93b66072848c461e519b7810ee42b72100353301"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/dailylife/user_task_13/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9ec2bad9c32cf14725f198e99e21ff8318192825",
+      "size": 11833,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/9ec2bad9c32cf14725f198e99e21ff8318192825"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/dailylife/user_task_6/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18a2ed0e316340eb74c4982fa4cdddbb685c48b0",
+      "size": 4743,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/18a2ed0e316340eb74c4982fa4cdddbb685c48b0"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/dailylife/user_task_6/important_instructions/injection_task_8.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d15099a0bbfafc455c225669e32a1ea87d30c67",
+      "size": 7841,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/0d15099a0bbfafc455c225669e32a1ea87d30c67"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/dailylife/user_task_6/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f6a192c477c054318ed2a7f29b429f4c6c3567c0",
+      "size": 10902,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/f6a192c477c054318ed2a7f29b429f4c6c3567c0"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/dailylife/user_task_9/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "21e968857ea8d92eb3f213a4f481fc7f16192834",
+      "size": 4309,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/21e968857ea8d92eb3f213a4f481fc7f16192834"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/dailylife/user_task_9/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b87bff444de92b33e7be75fbfbaf8cb6c26047eb",
+      "size": 6467,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/b87bff444de92b33e7be75fbfbaf8cb6c26047eb"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/dailylife/user_task_9/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e186db4fe86d4a8b88349f47b1521d79eb1d5367",
+      "size": 7280,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/e186db4fe86d4a8b88349f47b1521d79eb1d5367"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/github/user_task_1/important_instructions/injection_task_0.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "146573770706728156c93abf286764c9ceeb4eed",
+      "size": 20038,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/146573770706728156c93abf286764c9ceeb4eed"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/github/user_task_1/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09c885f16b43bbd427ef04614a02c8c9dfe6f9e2",
+      "size": 14331,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/09c885f16b43bbd427ef04614a02c8c9dfe6f9e2"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/github/user_task_1/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea9a72e9680b47c744f99336f9e743dd0570f595",
+      "size": 17328,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/ea9a72e9680b47c744f99336f9e743dd0570f595"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/github/user_task_3/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9c3eb047a2838082b206d6c8fc3fe7f945ed47e3",
+      "size": 19586,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/9c3eb047a2838082b206d6c8fc3fe7f945ed47e3"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/github/user_task_3/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f5e1e638589e061ef028ee61c67d5b90984b2b73",
+      "size": 20126,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/f5e1e638589e061ef028ee61c67d5b90984b2b73"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/github/user_task_3/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ce2bacd7c7ef7a7b723ee4723798fe04c745a3c7",
+      "size": 16146,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/ce2bacd7c7ef7a7b723ee4723798fe04c745a3c7"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/github/user_task_4/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "38a04ff9ef21bdf67fb54ccdcb98ee7a6037acb2",
+      "size": 13819,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/38a04ff9ef21bdf67fb54ccdcb98ee7a6037acb2"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/github/user_task_4/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3610802d9061dfb24481601123540575630ca50c",
+      "size": 15862,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/3610802d9061dfb24481601123540575630ca50c"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/github/user_task_4/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3985130f6bd34a0b8bee99e8facb2569aedb2a19",
+      "size": 10904,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/3985130f6bd34a0b8bee99e8facb2569aedb2a19"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/github/user_task_6/important_instructions/injection_task_1.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b55212f805552548da268ca1ddab533eea9344a5",
+      "size": 8803,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/b55212f805552548da268ca1ddab533eea9344a5"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/github/user_task_6/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c93ccb9a42fc6de28c05969c8ceea07d6f261c23",
+      "size": 9123,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/c93ccb9a42fc6de28c05969c8ceea07d6f261c23"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/github/user_task_6/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cc762f17a84fab56642bea56a241ca95b54aab66",
+      "size": 7134,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/cc762f17a84fab56642bea56a241ca95b54aab66"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/shopping/user_task_18/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fd407773eccbaf40ba707d505b1b579d58a6756b",
+      "size": 18932,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/fd407773eccbaf40ba707d505b1b579d58a6756b"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/shopping/user_task_18/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a1d827f59748a7eae98b3d1e3aab4dc51792213",
+      "size": 13467,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/0a1d827f59748a7eae98b3d1e3aab4dc51792213"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/shopping/user_task_18/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d4f59f0b27c83ac2d0bda2a8c1d35960f525b68",
+      "size": 10460,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/7d4f59f0b27c83ac2d0bda2a8c1d35960f525b68"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/shopping/user_task_19/important_instructions/injection_task_0.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "13e11e2fa9f52d9aaf9ce466e21ecabab3d17154",
+      "size": 8347,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/13e11e2fa9f52d9aaf9ce466e21ecabab3d17154"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/shopping/user_task_19/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "76f4907a7abe1e0a56fc4adbfef1527849acd2da",
+      "size": 9077,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/76f4907a7abe1e0a56fc4adbfef1527849acd2da"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/shopping/user_task_19/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf6b6921bf6e24517d0082eeb2f60d0377e62da0",
+      "size": 8612,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/cf6b6921bf6e24517d0082eeb2f60d0377e62da0"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/shopping/user_task_3/important_instructions/injection_task_0.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cebde4b9cd8976c96beeb8801fc6a7c00bf554fc",
+      "size": 9948,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/cebde4b9cd8976c96beeb8801fc6a7c00bf554fc"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/shopping/user_task_3/important_instructions/injection_task_5.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4b212cc703029bdb8c2e1ebb468e613d2eaed4b9",
+      "size": 10247,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/4b212cc703029bdb8c2e1ebb468e613d2eaed4b9"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/shopping/user_task_3/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f9f88af0686f005a0839941dc4f134f1e309cff2",
+      "size": 8484,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/f9f88af0686f005a0839941dc4f134f1e309cff2"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/shopping/user_task_6/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9b9247f09e707ac8a339b316ea31d7d6951196b2",
+      "size": 12409,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/9b9247f09e707ac8a339b316ea31d7d6951196b2"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/shopping/user_task_6/important_instructions/injection_task_6.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1c348f6472ed7eec8ecccbf9277bd0a3bc7003c5",
+      "size": 5048,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/1c348f6472ed7eec8ecccbf9277bd0a3bc7003c5"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-progent/shopping/user_task_6/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f2caf0b6f50e303b0efbd85024ecf7918a0fb6e",
+      "size": 5993,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/2f2caf0b6f50e303b0efbd85024ecf7918a0fb6e"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/dailylife/user_task_10/important_instructions/injection_task_1.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a773d76956efd87d0ca91439db613703c7d5201",
+      "size": 18318,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/6a773d76956efd87d0ca91439db613703c7d5201"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/dailylife/user_task_10/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4ba2364d0db1c8612792e28339b7d50be43ed440",
+      "size": 6370,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/4ba2364d0db1c8612792e28339b7d50be43ed440"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/dailylife/user_task_10/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ee21b486986ae9090ea6d3ae2735c99b94f0b1d5",
+      "size": 15876,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/ee21b486986ae9090ea6d3ae2735c99b94f0b1d5"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/dailylife/user_task_13/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e120b3b89324d4c8c6828354a0e619403c838c44",
+      "size": 19715,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/e120b3b89324d4c8c6828354a0e619403c838c44"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/dailylife/user_task_13/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac1656124fb68e16e52aea1877026484703ffb7d",
+      "size": 19243,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/ac1656124fb68e16e52aea1877026484703ffb7d"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/dailylife/user_task_13/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc2bcaf1634bf9ab423cb9faea94bfae520c2f64",
+      "size": 17815,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/fc2bcaf1634bf9ab423cb9faea94bfae520c2f64"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/dailylife/user_task_6/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "83f251a91095f1c055b736f543cf391f568334c3",
+      "size": 22238,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/83f251a91095f1c055b736f543cf391f568334c3"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/dailylife/user_task_6/important_instructions/injection_task_8.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "86dbde25cab8730d33f9723ff0ffaebcc9b0f259",
+      "size": 26678,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/86dbde25cab8730d33f9723ff0ffaebcc9b0f259"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/dailylife/user_task_6/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c215158480bb6c1cb326f36f25a9e79e48509ee9",
+      "size": 19337,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/c215158480bb6c1cb326f36f25a9e79e48509ee9"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/dailylife/user_task_9/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8089b013219a4275d3e5d30358c6769abdcf28fc",
+      "size": 12751,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/8089b013219a4275d3e5d30358c6769abdcf28fc"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/dailylife/user_task_9/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16d462728cc279c790ae0915433e51744cb243a2",
+      "size": 11078,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/16d462728cc279c790ae0915433e51744cb243a2"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/dailylife/user_task_9/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "771d81dce993d3f98647c0e67f7a54a70cc40820",
+      "size": 12349,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/771d81dce993d3f98647c0e67f7a54a70cc40820"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/github/user_task_1/important_instructions/injection_task_0.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "56c2378db1d286f826aec42492d93e0d2735aa2c",
+      "size": 28547,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/56c2378db1d286f826aec42492d93e0d2735aa2c"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/github/user_task_1/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe080a918d29731b5206fc40a40886971dd9247e",
+      "size": 18087,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/fe080a918d29731b5206fc40a40886971dd9247e"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/github/user_task_1/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d31223ab1b224901afe2435e1dae4ce5eb3d96a0",
+      "size": 16762,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/d31223ab1b224901afe2435e1dae4ce5eb3d96a0"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/github/user_task_3/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42a89d70a71853db75fea08dd1ffbd608fc90ffa",
+      "size": 24789,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/42a89d70a71853db75fea08dd1ffbd608fc90ffa"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/github/user_task_3/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2365c3ed8980489605d3df36ad14004e1c9d0b49",
+      "size": 25383,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/2365c3ed8980489605d3df36ad14004e1c9d0b49"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/github/user_task_3/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "713c4c1b53766984e29133f2c96963bc47f7b4cb",
+      "size": 19465,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/713c4c1b53766984e29133f2c96963bc47f7b4cb"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/github/user_task_4/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "08c9e9f3dd068e268dbbdece221e84ca8c42f740",
+      "size": 14962,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/08c9e9f3dd068e268dbbdece221e84ca8c42f740"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/github/user_task_4/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "99818344f617da03059f95032b4537e38f411c72",
+      "size": 17668,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/99818344f617da03059f95032b4537e38f411c72"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/github/user_task_4/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8bfa6e734306d38363e0778aceeab32e57cc2e68",
+      "size": 13145,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/8bfa6e734306d38363e0778aceeab32e57cc2e68"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/github/user_task_6/important_instructions/injection_task_1.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1aa9c9f856bcfa5ca843145361ef3b33630c70e5",
+      "size": 9356,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/1aa9c9f856bcfa5ca843145361ef3b33630c70e5"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/github/user_task_6/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7b1c3ab1899b45639e8cbcf5270d413f52f8f36",
+      "size": 9660,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/a7b1c3ab1899b45639e8cbcf5270d413f52f8f36"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/github/user_task_6/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09beab70fac42ecce941cd05b1791b2821e120b2",
+      "size": 7795,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/09beab70fac42ecce941cd05b1791b2821e120b2"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/shopping/user_task_18/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9df40b772655f8dc7b983f727bf73ad945cd0492",
+      "size": 26797,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/9df40b772655f8dc7b983f727bf73ad945cd0492"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/shopping/user_task_18/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e002138d6d56673b0cdc85dd1e68cae0c8925105",
+      "size": 35507,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/e002138d6d56673b0cdc85dd1e68cae0c8925105"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/shopping/user_task_18/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bab6c694a4e836339ae22d59608b53c37c92851b",
+      "size": 19741,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/bab6c694a4e836339ae22d59608b53c37c92851b"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/shopping/user_task_19/important_instructions/injection_task_0.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a5ccfdd36c1bf4149018588bfac75d814d2b78c",
+      "size": 9109,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/1a5ccfdd36c1bf4149018588bfac75d814d2b78c"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/shopping/user_task_19/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b47401d3b566d5c9b39347938655ab0a9c5ed93a",
+      "size": 9120,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/b47401d3b566d5c9b39347938655ab0a9c5ed93a"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/shopping/user_task_19/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e3edfcbb61c5ef70eb2cce21ba956b1e43af361",
+      "size": 8255,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/3e3edfcbb61c5ef70eb2cce21ba956b1e43af361"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/shopping/user_task_3/important_instructions/injection_task_0.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "031052a4df74186179549d391fdb83088e6c597a",
+      "size": 12290,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/031052a4df74186179549d391fdb83088e6c597a"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/shopping/user_task_3/important_instructions/injection_task_5.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "316f9b06fb2bdaa8f48974b984af908714d5cc48",
+      "size": 17648,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/316f9b06fb2bdaa8f48974b984af908714d5cc48"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/shopping/user_task_3/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a65e12210483b18de49dfb5d0e650288919539fa",
+      "size": 11458,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/a65e12210483b18de49dfb5d0e650288919539fa"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/shopping/user_task_6/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd54626ac8c80236424c46cf44d732a4e596884c",
+      "size": 7970,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/bd54626ac8c80236424c46cf44d732a4e596884c"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/shopping/user_task_6/important_instructions/injection_task_6.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "197e9bdf5c8f1b300e200bff6552bb967aff7947",
+      "size": 16956,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/197e9bdf5c8f1b300e200bff6552bb967aff7947"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-spotlighting_with_delimiting/shopping/user_task_6/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f10f7f6a24aa9fcffc0d9aee94de9b4370197f8d",
+      "size": 12787,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/f10f7f6a24aa9fcffc0d9aee94de9b4370197f8d"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/dailylife/user_task_10/important_instructions/injection_task_1.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f2a78ad10692d026d5ffad17919b6914d1704da",
+      "size": 9794,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/5f2a78ad10692d026d5ffad17919b6914d1704da"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/dailylife/user_task_10/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "114537cc5598e5dba145441cfeb2f17400f0216c",
+      "size": 11981,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/114537cc5598e5dba145441cfeb2f17400f0216c"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/dailylife/user_task_10/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c3202f0e6ec683db976d8ccd1d3f47be80d5fca",
+      "size": 8883,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/0c3202f0e6ec683db976d8ccd1d3f47be80d5fca"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/dailylife/user_task_13/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "07cf3b327305b688e55c08f6b168974403c9f21d",
+      "size": 11216,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/07cf3b327305b688e55c08f6b168974403c9f21d"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/dailylife/user_task_13/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c7692dc334064f5c4ca10021f7356dbd4e273270",
+      "size": 12360,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/c7692dc334064f5c4ca10021f7356dbd4e273270"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/dailylife/user_task_13/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "528907d949b069d28f1ef0676dbe1b59255c663e",
+      "size": 10965,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/528907d949b069d28f1ef0676dbe1b59255c663e"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/dailylife/user_task_6/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2e718f3e336b16863488608400bc7db276de0dfd",
+      "size": 10001,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/2e718f3e336b16863488608400bc7db276de0dfd"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/dailylife/user_task_6/important_instructions/injection_task_8.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f2d5a2ef19a0470f2f9c06efca4d9cd787b8e884",
+      "size": 12744,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/f2d5a2ef19a0470f2f9c06efca4d9cd787b8e884"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/dailylife/user_task_6/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0dba2d7bcc0b58935185ff12b121c9ceb64c4858",
+      "size": 4248,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/0dba2d7bcc0b58935185ff12b121c9ceb64c4858"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/dailylife/user_task_9/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e23cbe60756548977e3d179fb7c8dc793aa8ecdb",
+      "size": 9673,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/e23cbe60756548977e3d179fb7c8dc793aa8ecdb"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/dailylife/user_task_9/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "951e7844c6976d36ebed73b2bfd36276d8380265",
+      "size": 9772,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/951e7844c6976d36ebed73b2bfd36276d8380265"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/dailylife/user_task_9/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "327c0d034d00f87528122f78fc711e8ade9b0858",
+      "size": 8947,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/327c0d034d00f87528122f78fc711e8ade9b0858"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/github/user_task_1/important_instructions/injection_task_0.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "147f6ff693ada8406134f733def8732ff7549f2b",
+      "size": 9823,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/147f6ff693ada8406134f733def8732ff7549f2b"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/github/user_task_1/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dcc5c20418bd7bdaa5af0e6c65158de3e6eb1ca9",
+      "size": 11140,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/dcc5c20418bd7bdaa5af0e6c65158de3e6eb1ca9"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/github/user_task_1/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "79a9d4a0ab99c1283d499911dd1cfded8f8f0b9a",
+      "size": 8234,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/79a9d4a0ab99c1283d499911dd1cfded8f8f0b9a"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/github/user_task_3/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d06ec7c78da96b342b779e2d94a3d92269e4c08c",
+      "size": 19258,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/d06ec7c78da96b342b779e2d94a3d92269e4c08c"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/github/user_task_3/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "226d092583ae16da5cba432b7d244a764c311b33",
+      "size": 20002,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/226d092583ae16da5cba432b7d244a764c311b33"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/github/user_task_3/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "21e7d80c8286feed932fa1e02dbcce0a4d01298b",
+      "size": 9453,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/21e7d80c8286feed932fa1e02dbcce0a4d01298b"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/github/user_task_4/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a721cb60cdd10e61389ce65cc92bccfa19d6910e",
+      "size": 8777,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/a721cb60cdd10e61389ce65cc92bccfa19d6910e"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/github/user_task_4/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca48f0ed7b6e15950804a0cacc56b0d61135d757",
+      "size": 9021,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/ca48f0ed7b6e15950804a0cacc56b0d61135d757"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/github/user_task_4/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ed29abb5aec639f0be6be7722ddc767a44a236b",
+      "size": 6696,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/7ed29abb5aec639f0be6be7722ddc767a44a236b"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/github/user_task_6/important_instructions/injection_task_1.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "673553c66cc28c310b1a00a09a49fa61b03cb971",
+      "size": 8771,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/673553c66cc28c310b1a00a09a49fa61b03cb971"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/github/user_task_6/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9921cb235ec8919c6a7b22485cdfb00ea1907821",
+      "size": 9065,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/9921cb235ec8919c6a7b22485cdfb00ea1907821"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/github/user_task_6/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "38f7132bc344a7d036ae58bb87515086cbba20c1",
+      "size": 7316,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/38f7132bc344a7d036ae58bb87515086cbba20c1"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/shopping/user_task_18/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f63d8ead38477f2a136977585ad38deea8527b19",
+      "size": 15553,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/f63d8ead38477f2a136977585ad38deea8527b19"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/shopping/user_task_18/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2ed59d71a81128e15a55ccd9c8bda1ef2ad4f0f4",
+      "size": 13597,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/2ed59d71a81128e15a55ccd9c8bda1ef2ad4f0f4"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/shopping/user_task_18/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "871a2e571fdac6672bc87fb668023bbb76e5a9ca",
+      "size": 10659,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/871a2e571fdac6672bc87fb668023bbb76e5a9ca"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/shopping/user_task_19/important_instructions/injection_task_0.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e5f415eb4a0bc7d1c86d64f59613f0e676ef60e9",
+      "size": 6977,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/e5f415eb4a0bc7d1c86d64f59613f0e676ef60e9"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/shopping/user_task_19/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c2b4d842ec19298fa20cd2fc9d2e2ad94d922240",
+      "size": 6537,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/c2b4d842ec19298fa20cd2fc9d2e2ad94d922240"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/shopping/user_task_19/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ce8aed42e83f215c34cda1a75acbfd83ae23837d",
+      "size": 6477,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/ce8aed42e83f215c34cda1a75acbfd83ae23837d"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/shopping/user_task_3/important_instructions/injection_task_0.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fb40a21c712586cb31eec5bae2a6bf73154757fa",
+      "size": 7026,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/fb40a21c712586cb31eec5bae2a6bf73154757fa"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/shopping/user_task_3/important_instructions/injection_task_5.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5be417ef4ff7b155eaeaeee26be518334be42ea1",
+      "size": 7046,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/5be417ef4ff7b155eaeaeee26be518334be42ea1"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/shopping/user_task_3/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f096884ea51ad4ca2094cf9011c86e57ae18f8cc",
+      "size": 7973,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/f096884ea51ad4ca2094cf9011c86e57ae18f8cc"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/shopping/user_task_6/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "260281414fb0cd4d2e091c00836f66cf5819d538",
+      "size": 7329,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/260281414fb0cd4d2e091c00836f66cf5819d538"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/shopping/user_task_6/important_instructions/injection_task_6.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f1c0ed068c0ab55ee8cb253d35ba4ee4f9f63546",
+      "size": 5641,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/f1c0ed068c0ab55ee8cb253d35ba4ee4f9f63546"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06-tool_filter/shopping/user_task_6/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d8a1f40f0ce1a91f1c87c8a3962697a2337fee6e",
+      "size": 6991,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/d8a1f40f0ce1a91f1c87c8a3962697a2337fee6e"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/dailylife/user_task_10/important_instructions/injection_task_1.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec3b331bdd1179d469b208624d33598c3883e466",
+      "size": 20832,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/ec3b331bdd1179d469b208624d33598c3883e466"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/dailylife/user_task_10/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "71ba5c35d77cf9151cea0771d5c646ce3ac288b1",
+      "size": 17770,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/71ba5c35d77cf9151cea0771d5c646ce3ac288b1"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/dailylife/user_task_10/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "62bc0957fcded17c1f20585b3494b3feaf0d4e10",
+      "size": 17251,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/62bc0957fcded17c1f20585b3494b3feaf0d4e10"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/dailylife/user_task_13/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d55bbf7f58c7007cf9c7d723900c772a36adf61",
+      "size": 20140,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/3d55bbf7f58c7007cf9c7d723900c772a36adf61"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/dailylife/user_task_13/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a81694f6b7f86501ea504f3a28f52a4b448da96",
+      "size": 19985,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/6a81694f6b7f86501ea504f3a28f52a4b448da96"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/dailylife/user_task_13/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73801c7efddbb698d2ca617fcad8dda9d7a3d273",
+      "size": 17660,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/73801c7efddbb698d2ca617fcad8dda9d7a3d273"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/dailylife/user_task_6/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d189e4d2dc67a7530fa79ed6e2aec6b5992cf55",
+      "size": 23687,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/3d189e4d2dc67a7530fa79ed6e2aec6b5992cf55"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/dailylife/user_task_6/important_instructions/injection_task_8.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a60e574d395fcfe159d71e99bd2510f7cbfd85ea",
+      "size": 25680,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/a60e574d395fcfe159d71e99bd2510f7cbfd85ea"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/dailylife/user_task_6/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "445f3de8b732d5ec2bd026707838f1c5015e48b7",
+      "size": 18465,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/445f3de8b732d5ec2bd026707838f1c5015e48b7"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/dailylife/user_task_9/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "00d8d734f7d950def2f9a8a1a5f9c5cb21825dc0",
+      "size": 5490,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/00d8d734f7d950def2f9a8a1a5f9c5cb21825dc0"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/dailylife/user_task_9/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fbc08d5a71ad0a1d7fdf81a40b07162b2272ca4a",
+      "size": 9789,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/fbc08d5a71ad0a1d7fdf81a40b07162b2272ca4a"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/dailylife/user_task_9/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7eb84afd8cd08300a20486bedb1b86d7b0e20f5b",
+      "size": 8084,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/7eb84afd8cd08300a20486bedb1b86d7b0e20f5b"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/github/user_task_1/important_instructions/injection_task_0.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35fc215a58094d8c16c3f9343a55cae71e5e8df2",
+      "size": 18091,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/35fc215a58094d8c16c3f9343a55cae71e5e8df2"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/github/user_task_1/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "40ea6d49c715adea5ec7328b8edcfe44477e1d39",
+      "size": 22466,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/40ea6d49c715adea5ec7328b8edcfe44477e1d39"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/github/user_task_1/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f68d4e7ba3e5675cd13e640fa9ab27b2f74db40",
+      "size": 15296,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/8f68d4e7ba3e5675cd13e640fa9ab27b2f74db40"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/github/user_task_3/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6edeab1f46cc6a1978dd2a1111043c1c7d19b4e5",
+      "size": 24201,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/6edeab1f46cc6a1978dd2a1111043c1c7d19b4e5"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/github/user_task_3/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a043e165a4f620c32e7e202941acf6db3128e2f7",
+      "size": 24705,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/a043e165a4f620c32e7e202941acf6db3128e2f7"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/github/user_task_3/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e40c80633b0535b9646ff828d14d60bdee830fd",
+      "size": 19262,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/7e40c80633b0535b9646ff828d14d60bdee830fd"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/github/user_task_4/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5a132637c609c2fa1c94c8e0b0c53c9af9a6346f",
+      "size": 15828,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/5a132637c609c2fa1c94c8e0b0c53c9af9a6346f"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/github/user_task_4/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16de29609b4d8a0b8acaa4cd18bd7fbd0e474b7c",
+      "size": 16770,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/16de29609b4d8a0b8acaa4cd18bd7fbd0e474b7c"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/github/user_task_4/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c35935b3a01a47d00218c7619de2183baef10a14",
+      "size": 11886,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/c35935b3a01a47d00218c7619de2183baef10a14"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/github/user_task_6/important_instructions/injection_task_1.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "79bd52c2dd36dfbdb1f3a7b291bb9e14f50c3a07",
+      "size": 9136,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/79bd52c2dd36dfbdb1f3a7b291bb9e14f50c3a07"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/github/user_task_6/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3933e6770db5d03922c4c2a7a332e890a044ff42",
+      "size": 9460,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/3933e6770db5d03922c4c2a7a332e890a044ff42"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/github/user_task_6/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a05d8bce26db914531e7e59ffb7e332ab06e0ea",
+      "size": 7577,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/9a05d8bce26db914531e7e59ffb7e332ab06e0ea"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/shopping/user_task_18/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "461e5d0195d95caf7e37c6c34599a71f48f90327",
+      "size": 26846,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/461e5d0195d95caf7e37c6c34599a71f48f90327"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/shopping/user_task_18/important_instructions/injection_task_7.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d165e6ff92a87ed02a14e19ee6b83a729de61e7",
+      "size": 23887,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/7d165e6ff92a87ed02a14e19ee6b83a729de61e7"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/shopping/user_task_18/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "616951de36ea016942bcbe789105c49cf86b2c22",
+      "size": 18395,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/616951de36ea016942bcbe789105c49cf86b2c22"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/shopping/user_task_19/important_instructions/injection_task_0.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "65c82fba0b49f611459c6a91316b737f50ff7b58",
+      "size": 10263,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/65c82fba0b49f611459c6a91316b737f50ff7b58"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/shopping/user_task_19/important_instructions/injection_task_2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a0aa24eb411c5e8d4113da582ea990d37900834",
+      "size": 10237,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/6a0aa24eb411c5e8d4113da582ea990d37900834"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/shopping/user_task_19/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d1803f40e3ff2ab41d7268050aad90b940c2302b",
+      "size": 9353,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/d1803f40e3ff2ab41d7268050aad90b940c2302b"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/shopping/user_task_3/important_instructions/injection_task_0.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d3ef1ebbfb7b4714b715a2fe86e88e7839abdfb",
+      "size": 12908,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/1d3ef1ebbfb7b4714b715a2fe86e88e7839abdfb"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/shopping/user_task_3/important_instructions/injection_task_5.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ee941904a84ef3509568269b8810821852bc4bc2",
+      "size": 18589,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/ee941904a84ef3509568269b8810821852bc4bc2"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/shopping/user_task_3/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f5489b8b7a6cd358281ac194a2ed3dc1ac6d83bc",
+      "size": 11229,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/f5489b8b7a6cd358281ac194a2ed3dc1ac6d83bc"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/shopping/user_task_6/important_instructions/injection_task_4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5467aec3d5710a7b377d89147463d12771e96036",
+      "size": 14194,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/5467aec3d5710a7b377d89147463d12771e96036"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/shopping/user_task_6/important_instructions/injection_task_6.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4b3535ee1dea0c291af887fe8a562da6666794bb",
+      "size": 19190,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/4b3535ee1dea0c291af887fe8a562da6666794bb"
+    },
+    {
+      "path": "runs/gpt-4o-2024-08-06/shopping/user_task_6/none/none.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b571556065cc56698c373daabdf839f49c87349a",
+      "size": 7950,
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/blobs/b571556065cc56698c373daabdf839f49c87349a"
+    }
+  ],
+  "package_note": "Selected entries only, filtered from the truncated upstream inventory. Not a complete repository tree. The original API sha field identifies the requested revision; agentdyn_commit.json records the commit tree hash."
+}

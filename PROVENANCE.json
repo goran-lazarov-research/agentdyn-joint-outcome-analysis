@@ -1,0 +1,42 @@
+{
+  "package_checkpoint": "2026-09-16",
+  "source_repository": "https://github.com/SaFo-Lab/AgentDyn",
+  "commit": "5353cf7615b135cace8d07c8f12dac53a16b6db3",
+  "raw_file_url_pattern": "https://raw.githubusercontent.com/SaFo-Lab/AgentDyn/{commit}/{source_path}",
+  "selected_records": 288,
+  "attacked_records": 192,
+  "clean_records": 96,
+  "distinct_user_tasks": 12,
+  "fresh_model_executions": 0,
+  "published_tables": {
+    "source": "https://arxiv.org/html/2602.03117v3",
+    "tables": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "reported_configurations": 122,
+    "suite_configuration_rows": 366,
+    "primary_conditions": 120,
+    "within_model_pairs": 540,
+    "note": "Published marginals; distinct from the 288-log pilot. Full raw archive not reanalyzed."
+  },
+  "sampling_timestamp": "2026-09-15T13:45:02.814628+00:00",
+  "sampling_seed": 20260915,
+  "reference_source_paths": {
+    "base_tasks.py": "Source path not resolved from truncated inventory",
+    "task_suite.py": "Source path not resolved from truncated inventory",
+    "benchmark.py": "Source path not resolved from truncated inventory"
+  },
+  "outcome_convention": "Attacked security=True means injection objective success.",
+  "analysis_environment": {
+    "python": "3.12.14",
+    "requirements": "requirements.txt"
+  }
+}

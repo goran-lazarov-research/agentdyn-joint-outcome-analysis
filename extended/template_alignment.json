@@ -1,0 +1,41 @@
+{
+  "conference": "ITT 2026",
+  "template_binary_imported": true,
+  "template_source": "User attachment: conference-template-a4.docx",
+  "original_template_sha256": "57e2125b0a04860e103fd634c2b5fd19a7ea571fa59ac577bd97afc73ad99482",
+  "normalization": "Strict OOXML namespaces and point lengths converted to equivalent Transitional syntax",
+  "paper_size_points": [
+    595.3,
+    841.9
+  ],
+  "body_margins_points": {
+    "top": 54,
+    "bottom": 72,
+    "left": 45.35,
+    "right": 45.35
+  },
+  "columns": 2,
+  "column_gap_points": 18,
+  "body_style": "Body Text from supplied template",
+  "body_font": "Times New Roman 10 pt",
+  "title_style": "paper title from supplied template",
+  "title_font": "Times New Roman 24 pt",
+  "authors": [
+    "Goran Lazarov",
+    "Thaeer Kobbaey",
+    "Vishwesh Akre",
+    "Waleed Al-Sit",
+    "Nedaa Al Barghuthi"
+  ],
+  "emails": [
+    "glazarov@hct.ac.ae",
+    "tkobbaey@hct.ac.ae",
+    "vakre@hct.ac.ae",
+    "walsit@hct.ac.ae",
+    "nalbarghuthi@hct.ac.ae"
+  ],
+  "anonymous": false,
+  "numbered_equations": 10,
+  "fresh_model_executions": 0,
+  "output_docx_sha256": "6e1e6efc35fe8f43ec4ae19c7088f7c67b61c13ff355be3abaa97d6a1d57a6c2"
+}

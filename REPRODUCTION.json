@@ -1,0 +1,27 @@
+{
+  "archive_checksums": "PASS",
+  "offline_pilot_analysis": "PASS",
+  "offline_extended_analysis": "PASS",
+  "numerical_json_files_identical": 5,
+  "sampling_manifest_unchanged": "PASS",
+  "verified_source_logs": 288,
+  "reported_table_conditions": 122,
+  "primary_conditions": 120,
+  "native_word_equations": 10,
+  "verified_on": "2026-09-16",
+  "runtime": "Python 3.12.14; dependencies in requirements.txt",
+  "analysis_script_sha256": {
+    "analysis/analyze_pilot.py": "a37f36810fdb81e5e532966fe27077acc05b28f63695dbb0f47a7c705d3162ef",
+    "extended/analysis/analyze_extended.py": "58df50a05f8fe47ead6c460d938eca65795976fb40af70d27fbd5b34e93df569"
+  },
+  "result_sha256": {
+    "analysis/results/pilot_outcomes.json": "739672119fde737973a05768ad29ccb1e22f7e1b238e927204f5f737d1152751",
+    "analysis/results/pilot_summary.json": "a2513abf4d8bcca85dd2f1370b66410e6548601ea5583520ff95dfc90e321f2d",
+    "analysis/results/published_table3.json": "4bfa53f197d453f0e6ff2f62db843af9e18f45387584228d71a296e5c7eb52e2",
+    "extended/results/published_marginals.json": "b13124d9e1387f82155911a267285eece0f2a2e39ac75cfdb81165c21e5c8d30",
+    "extended/results/extended_results.json": "0fef8a47002ea13075faaa8647ae53304f942745bb87b4c0fe37096d59d6fda3"
+  },
+  "final_document_validation": "extended/document_validation.json",
+  "final_template": "User-provided IEEE A4 conference template",
+  "final_pages": 6
+}

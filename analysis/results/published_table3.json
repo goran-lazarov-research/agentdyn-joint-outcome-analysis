@@ -1,0 +1,334 @@
+{
+  "source": "https://arxiv.org/html/2602.03117v3#S3.T3",
+  "method": "Direct extraction of numeric Table 3; not our experiments.",
+  "records": [
+    {
+      "category": "Vanilla",
+      "defense": "None",
+      "model": "GPT-4o",
+      "clean_utility_pct": 53.33,
+      "attacked_utility_pct": 55.52,
+      "asr_pct": 37.8
+    },
+    {
+      "category": "Vanilla",
+      "defense": "None",
+      "model": "Gemini-2.5 Pro",
+      "clean_utility_pct": 51.67,
+      "attacked_utility_pct": 56.95,
+      "asr_pct": 20.61
+    },
+    {
+      "category": "Vanilla",
+      "defense": "None",
+      "model": "Claude-Sonnet-3.5",
+      "clean_utility_pct": 60.0,
+      "attacked_utility_pct": 55.43,
+      "asr_pct": 11.89
+    },
+    {
+      "category": "Vanilla",
+      "defense": "None",
+      "model": "Llama 3.3 70B",
+      "clean_utility_pct": 10.0,
+      "attacked_utility_pct": 6.15,
+      "asr_pct": 11.91
+    },
+    {
+      "category": "Prompting",
+      "defense": "Prompt Sandwiching",
+      "model": "GPT-4o",
+      "clean_utility_pct": 63.33,
+      "attacked_utility_pct": 56.13,
+      "asr_pct": 31.17
+    },
+    {
+      "category": "Prompting",
+      "defense": "Prompt Sandwiching",
+      "model": "Gemini-2.5 Pro",
+      "clean_utility_pct": 51.67,
+      "attacked_utility_pct": 49.08,
+      "asr_pct": 23.94
+    },
+    {
+      "category": "Prompting",
+      "defense": "Prompt Sandwiching",
+      "model": "Claude-Sonnet-3.5",
+      "clean_utility_pct": 56.67,
+      "attacked_utility_pct": 55.67,
+      "asr_pct": 11.26
+    },
+    {
+      "category": "Prompting",
+      "defense": "Prompt Sandwiching",
+      "model": "Llama 3.3 70B",
+      "clean_utility_pct": 5.0,
+      "attacked_utility_pct": 7.35,
+      "asr_pct": 9.96
+    },
+    {
+      "category": "Prompting",
+      "defense": "Spotlighting",
+      "model": "GPT-4o",
+      "clean_utility_pct": 55.0,
+      "attacked_utility_pct": 52.24,
+      "asr_pct": 27.61
+    },
+    {
+      "category": "Prompting",
+      "defense": "Spotlighting",
+      "model": "Gemini-2.5 Pro",
+      "clean_utility_pct": 58.33,
+      "attacked_utility_pct": 52.61,
+      "asr_pct": 16.87
+    },
+    {
+      "category": "Prompting",
+      "defense": "Spotlighting",
+      "model": "Claude-Sonnet-3.5",
+      "clean_utility_pct": 58.33,
+      "attacked_utility_pct": 57.09,
+      "asr_pct": 3.8
+    },
+    {
+      "category": "Prompting",
+      "defense": "Spotlighting",
+      "model": "Llama 3.3 70B",
+      "clean_utility_pct": 10.0,
+      "attacked_utility_pct": 6.78,
+      "asr_pct": 14.85
+    },
+    {
+      "category": "Filtering",
+      "defense": "ProtectAI",
+      "model": "GPT-4o",
+      "clean_utility_pct": 0.0,
+      "attacked_utility_pct": 0.56,
+      "asr_pct": 0.85
+    },
+    {
+      "category": "Filtering",
+      "defense": "ProtectAI",
+      "model": "Gemini-2.5 Pro",
+      "clean_utility_pct": 1.67,
+      "attacked_utility_pct": 0.74,
+      "asr_pct": 0.69
+    },
+    {
+      "category": "Filtering",
+      "defense": "ProtectAI",
+      "model": "Claude-Sonnet-3.5",
+      "clean_utility_pct": 1.67,
+      "attacked_utility_pct": 1.11,
+      "asr_pct": 0.0
+    },
+    {
+      "category": "Filtering",
+      "defense": "ProtectAI",
+      "model": "Llama 3.3 70B",
+      "clean_utility_pct": 1.67,
+      "attacked_utility_pct": 1.11,
+      "asr_pct": 0.56
+    },
+    {
+      "category": "Filtering",
+      "defense": "PIGuard",
+      "model": "GPT-4o",
+      "clean_utility_pct": 10.0,
+      "attacked_utility_pct": 1.46,
+      "asr_pct": 1.67
+    },
+    {
+      "category": "Filtering",
+      "defense": "PIGuard",
+      "model": "Gemini-2.5 Pro",
+      "clean_utility_pct": 11.67,
+      "attacked_utility_pct": 2.17,
+      "asr_pct": 1.83
+    },
+    {
+      "category": "Filtering",
+      "defense": "PIGuard",
+      "model": "Claude-Sonnet-3.5",
+      "clean_utility_pct": 11.67,
+      "attacked_utility_pct": 2.93,
+      "asr_pct": 1.33
+    },
+    {
+      "category": "Filtering",
+      "defense": "PIGuard",
+      "model": "Llama 3.3 70B",
+      "clean_utility_pct": 3.33,
+      "attacked_utility_pct": 0.0,
+      "asr_pct": 0.67
+    },
+    {
+      "category": "Filtering",
+      "defense": "PromptGuard2",
+      "model": "GPT-4o",
+      "clean_utility_pct": 60.0,
+      "attacked_utility_pct": 20.8,
+      "asr_pct": 27.15
+    },
+    {
+      "category": "Filtering",
+      "defense": "PromptGuard2",
+      "model": "Gemini-2.5 Pro",
+      "clean_utility_pct": 58.33,
+      "attacked_utility_pct": 17.18,
+      "asr_pct": 14.5
+    },
+    {
+      "category": "Filtering",
+      "defense": "PromptGuard2",
+      "model": "Claude-Sonnet-3.5",
+      "clean_utility_pct": 56.67,
+      "attacked_utility_pct": 27.69,
+      "asr_pct": 8.2
+    },
+    {
+      "category": "Filtering",
+      "defense": "PromptGuard2",
+      "model": "Llama 3.3 70B",
+      "clean_utility_pct": 8.33,
+      "attacked_utility_pct": 6.44,
+      "asr_pct": 11.07
+    },
+    {
+      "category": "Alignment",
+      "defense": "Meta SecAlign",
+      "model": "Meta SecAlign 70B",
+      "clean_utility_pct": 55.0,
+      "attacked_utility_pct": 53.35,
+      "asr_pct": 8.98
+    },
+    {
+      "category": "System",
+      "defense": "Tool Filter",
+      "model": "GPT-4o",
+      "clean_utility_pct": 8.33,
+      "attacked_utility_pct": 4.91,
+      "asr_pct": 4.22
+    },
+    {
+      "category": "System",
+      "defense": "Tool Filter",
+      "model": "Gemini-2.5 Pro",
+      "clean_utility_pct": 1.67,
+      "attacked_utility_pct": 0.93,
+      "asr_pct": 0.0
+    },
+    {
+      "category": "System",
+      "defense": "Tool Filter",
+      "model": "Claude-Sonnet-3.5",
+      "clean_utility_pct": 1.67,
+      "attacked_utility_pct": 0.5,
+      "asr_pct": 0.0
+    },
+    {
+      "category": "System",
+      "defense": "Tool Filter",
+      "model": "Llama 3.3 70B",
+      "clean_utility_pct": 5.0,
+      "attacked_utility_pct": 4.65,
+      "asr_pct": 2.52
+    },
+    {
+      "category": "System",
+      "defense": "CaMeL",
+      "model": "GPT-4o",
+      "clean_utility_pct": 0.0,
+      "attacked_utility_pct": 0.0,
+      "asr_pct": 0.0
+    },
+    {
+      "category": "System",
+      "defense": "CaMeL",
+      "model": "Gemini-2.5 Pro",
+      "clean_utility_pct": 0.0,
+      "attacked_utility_pct": 0.0,
+      "asr_pct": 0.0
+    },
+    {
+      "category": "System",
+      "defense": "CaMeL",
+      "model": "Claude-Sonnet-3.5",
+      "clean_utility_pct": 0.0,
+      "attacked_utility_pct": 0.0,
+      "asr_pct": 0.0
+    },
+    {
+      "category": "System",
+      "defense": "CaMeL",
+      "model": "Llama 3.3 70B",
+      "clean_utility_pct": 0.0,
+      "attacked_utility_pct": 0.0,
+      "asr_pct": 0.0
+    },
+    {
+      "category": "System",
+      "defense": "Progent",
+      "model": "GPT-4o",
+      "clean_utility_pct": 6.67,
+      "attacked_utility_pct": 5.83,
+      "asr_pct": 1.69
+    },
+    {
+      "category": "System",
+      "defense": "Progent",
+      "model": "Gemini-2.5 Pro",
+      "clean_utility_pct": 25.0,
+      "attacked_utility_pct": 16.06,
+      "asr_pct": 1.59
+    },
+    {
+      "category": "System",
+      "defense": "Progent",
+      "model": "Claude-Sonnet-3.5",
+      "clean_utility_pct": 13.33,
+      "attacked_utility_pct": 10.63,
+      "asr_pct": 0.0
+    },
+    {
+      "category": "System",
+      "defense": "Progent",
+      "model": "Llama 3.3 70B",
+      "clean_utility_pct": 3.33,
+      "attacked_utility_pct": 2.28,
+      "asr_pct": 0.52
+    },
+    {
+      "category": "System",
+      "defense": "DRIFT",
+      "model": "GPT-4o",
+      "clean_utility_pct": 30.0,
+      "attacked_utility_pct": 27.09,
+      "asr_pct": 0.83
+    },
+    {
+      "category": "System",
+      "defense": "DRIFT",
+      "model": "Gemini-2.5 Pro",
+      "clean_utility_pct": 36.67,
+      "attacked_utility_pct": 33.04,
+      "asr_pct": 1.09
+    },
+    {
+      "category": "System",
+      "defense": "DRIFT",
+      "model": "Claude-Sonnet-3.5",
+      "clean_utility_pct": 33.33,
+      "attacked_utility_pct": 34.0,
+      "asr_pct": 3.09
+    },
+    {
+      "category": "System",
+      "defense": "DRIFT",
+      "model": "Llama 3.3 70B",
+      "clean_utility_pct": 11.67,
+      "attacked_utility_pct": 8.96,
+      "asr_pct": 5.89
+    }
+  ]
+}

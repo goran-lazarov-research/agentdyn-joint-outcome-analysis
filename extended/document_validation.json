@@ -1,0 +1,43 @@
+{
+  "checked_on": "2026-09-16",
+  "manuscript": "ITT2026_Final_Manuscript_EN.docx",
+  "template": "conference-template-a4.docx",
+  "template_import": "PASS",
+  "page_count": 6,
+  "all_pages_visually_reviewed": true,
+  "format": "A4, IEEE conference template, two-column body",
+  "authors": [
+    "Goran Lazarov",
+    "Thaeer Kobbaey",
+    "Vishwesh Akre",
+    "Waleed Al-Sit",
+    "Nedaa Al Barghuthi"
+  ],
+  "author_names_and_emails": "PASS",
+  "numbered_native_word_equations": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "scientific_table_captions": [
+    "I",
+    "II",
+    "III",
+    "IV"
+  ],
+  "references": 12,
+  "scientific_figures": 1,
+  "clean_counts_match_pilot": "PASS",
+  "numerical_outputs_unchanged": 5,
+  "template_placeholders_absent": "PASS",
+  "tracked_changes_and_comments_absent": "PASS",
+  "docx_sha256": "6e1e6efc35fe8f43ec4ae19c7088f7c67b61c13ff355be3abaa97d6a1d57a6c2",
+  "qa_renderer": "LibreOffice via documents/render_docx.py; PNG review of all six pages"
+}

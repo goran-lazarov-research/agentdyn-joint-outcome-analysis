@@ -1,0 +1,101 @@
+{
+  "sha": "5353cf7615b135cace8d07c8f12dac53a16b6db3",
+  "node_id": "C_kwDORDxTAdoAKDUzNTNjZjc2MTViMTM1Y2FjZThkMDdjOGYxMmRhYzUzYTE2YjZkYjM",
+  "commit": {
+    "author": {
+      "name": "Hao Li",
+      "email": "18th.leolee@gmail.com",
+      "date": "2026-05-19T21:56:30Z"
+    },
+    "committer": {
+      "name": "GitHub",
+      "email": "noreply@github.com",
+      "date": "2026-05-19T21:56:30Z"
+    },
+    "message": "update README.md\n\nUpdated the title and author list in the README to reflect the correct paper name and contributors.",
+    "tree": {
+      "sha": "08c04b47c307bba017a19f641111ffa4946c193a",
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/trees/08c04b47c307bba017a19f641111ffa4946c193a"
+    },
+    "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/git/commits/5353cf7615b135cace8d07c8f12dac53a16b6db3",
+    "comment_count": 0,
+    "verification": {
+      "verified": true,
+      "reason": "valid",
+      "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJqDNyOCRC1aQ7uu5UhlAAAZQYQAB4KFefFNIIlC+bQP69sCOrA\npT75pbfJPDKAewe1D7/AjDrtzYmM4bq/Ox0bzsurGoAY5Zk86luYUVnYOJfqvbke\n4EWIJZMLjpZcGy4WzQYzZwKr+0UNyDXU4V3rYGaa3FhCPqcHzaTn9h2of3iOczmv\nOEPNSQ7fikeYx/nMLVZSR7maXwb95UkT/XTZt+mGi5eRNE7kPCbMkvpuqREkJKEN\nGjbcpQofAtCSZhQFDZzAnXj/t+1+7dKlgadPFnQi8pl7ps5vRYF+xaBqIkVt7Zqd\noSAD5EgIfN2x679w2ArzfomWljcpBEPsOwZvU9YrqOMtSzgyEQ3oDUet+dhZMRD/\nD5uvpgh3EbOPjGsvuQ3R2hllST8TTW+ICUQ1M4TMZ9qpvJFr+FAA0Jws/FBpzHz7\n1mQ+XasOguL+YAVysklm+Kk7shjSq8NDBEU/LA2FPpbbleejU71PZoQv1voTz6vc\neUqzGu20EVboCGOO1txUK/DZPSFLJVAa32shP6fvSKoDkRFYSo1dnHiuufK2zc2y\nCHNpdyfX4uqWfspPmmeyk8/9Q+BxxZMxOycoG/MxOPBhzOeeaByIJSoyiJJ/R1rF\nlPmiwkGT5YhqDB7X51B80o0MbioEQFQ0ORYaUdrxJr+JJWsw2XchLF6ArZTzDaQf\niNx4K88nomV+nXTEkpFf\n=p1Vl\n-----END PGP SIGNATURE-----\n",
+      "payload": "tree 08c04b47c307bba017a19f641111ffa4946c193a\nparent 2c99edcbd99f5495cf680005c3205790a95dc467\nauthor Hao Li <18th.leolee@gmail.com> 1779227790 -0700\ncommitter GitHub <noreply@github.com> 1779227790 -0700\n\nupdate README.md\n\nUpdated the title and author list in the README to reflect the correct paper name and contributors.",
+      "verified_at": "2026-05-19T21:56:31Z"
+    }
+  },
+  "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/commits/5353cf7615b135cace8d07c8f12dac53a16b6db3",
+  "html_url": "https://github.com/SaFo-Lab/AgentDyn/commit/5353cf7615b135cace8d07c8f12dac53a16b6db3",
+  "comments_url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/commits/5353cf7615b135cace8d07c8f12dac53a16b6db3/comments",
+  "author": {
+    "login": "leolee99",
+    "id": 41324200,
+    "node_id": "MDQ6VXNlcjQxMzI0MjAw",
+    "avatar_url": "https://avatars.githubusercontent.com/u/41324200?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/leolee99",
+    "html_url": "https://github.com/leolee99",
+    "followers_url": "https://api.github.com/users/leolee99/followers",
+    "following_url": "https://api.github.com/users/leolee99/following{/other_user}",
+    "gists_url": "https://api.github.com/users/leolee99/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/leolee99/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/leolee99/subscriptions",
+    "organizations_url": "https://api.github.com/users/leolee99/orgs",
+    "repos_url": "https://api.github.com/users/leolee99/repos",
+    "events_url": "https://api.github.com/users/leolee99/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/leolee99/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "committer": {
+    "login": "web-flow",
+    "id": 19864447,
+    "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+    "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/web-flow",
+    "html_url": "https://github.com/web-flow",
+    "followers_url": "https://api.github.com/users/web-flow/followers",
+    "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+    "organizations_url": "https://api.github.com/users/web-flow/orgs",
+    "repos_url": "https://api.github.com/users/web-flow/repos",
+    "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/web-flow/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "parents": [
+    {
+      "sha": "2c99edcbd99f5495cf680005c3205790a95dc467",
+      "url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/commits/2c99edcbd99f5495cf680005c3205790a95dc467",
+      "html_url": "https://github.com/SaFo-Lab/AgentDyn/commit/2c99edcbd99f5495cf680005c3205790a95dc467"
+    }
+  ],
+  "stats": {
+    "total": 12,
+    "additions": 6,
+    "deletions": 6
+  },
+  "files": [
+    {
+      "sha": "89a8c1c9897e449b6518cc8930bb4445af31a94d",
+      "filename": "README.md",
+      "status": "modified",
+      "additions": 6,
+      "deletions": 6,
+      "changes": 12,
+      "blob_url": "https://github.com/SaFo-Lab/AgentDyn/blob/5353cf7615b135cace8d07c8f12dac53a16b6db3/README.md",
+      "raw_url": "https://github.com/SaFo-Lab/AgentDyn/raw/5353cf7615b135cace8d07c8f12dac53a16b6db3/README.md",
+      "contents_url": "https://api.github.com/repos/SaFo-Lab/AgentDyn/contents/README.md?ref=5353cf7615b135cace8d07c8f12dac53a16b6db3",
+      "patch": "@@ -1,8 +1,8 @@\n-# AgentDyn: A Dynamic Open-Ended Benchmark for Evaluating Prompt Injection Attacks of Real-World Agent Security System\n+# AgentDyn: Are Your Agent Security Defenses Deployable in Real-World Dynamic Environments?\n \n-[Hao Li](https://leolee99.github.io/), [Ruoyao Wen](https://github.com/ruoyaow/), [Shanghao Shi](https://shishishi123.github.io/), [Ning Zhang](https://cybersecurity.seas.wustl.edu/index.html), [Chaowei Xiao](https://xiaocw11.github.io/).\n+[Hao Li](https://leolee99.github.io/), [Ruoyao Wen](https://github.com/ruoyaow/), [Shanghao Shi](https://shishishi123.github.io/), [Ning Zhang](https://cybersecurity.seas.wustl.edu/index.html), [Yevgeniy Vorobeychik](https://vorobeychik.com/), [Chaowei Xiao](https://xiaocw11.github.io/).\n \n-The official implementation of the paper \"[AgentDyn: A Dynamic Open-Ended Benchmark for Evaluating Prompt Injection Attacks of Real-World Agent Security System](https://arxiv.org/pdf/2602.03117)\".\n+The official implementation of the paper \"[AgentDyn: Are Your Agent Security Defenses Deployable in Real-World Dynamic Environments?](https://arxiv.org/pdf/2602.03117)\".\n \n AgentDyn is a dynamic, open-ended agent security benchmark featuring 60 challenging open-ended user tasks and 560 injection test cases across the Shopping, GitHub, and Daily Life scenarios. It is built on top of the [AgentDojo](https://github.com/ethz-spylab/agentdojo) framework. A huge thanks to the AgentDojo team for their admirable contribution to the community!\n \n@@ -59,10 +59,10 @@ If you find this work useful in your research or applications, we appreciate tha\n \n ```\n @articles{AgentDyn,\n-  title={AgentDyn: A Dynamic Open-Ended Benchmark for Evaluating Prompt Injection Attacks of Real-World Agent Security System},\n-  author={Hao Li and Ruoyao Wen and Shanghao Shi and Ning Zhang and Chaowei Xiao},\n+  title={AgentDyn: Are Your Agent Security Defenses Deployable in Real-World Dynamic Environments?},\n+  author={Hao Li and Ruoyao Wen and Shanghao Shi and Ning Zhang and Yevgeniy Vorobeychik and Chaowei Xiao},\n   journal = {arXiv},\n   eprint = {2602.03117},\n   year={2026}\n }\n-```\n\\ No newline at end of file\n+```"
+    }
+  ]
+}

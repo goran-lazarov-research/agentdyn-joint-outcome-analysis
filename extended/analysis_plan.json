@@ -1,0 +1,35 @@
+{
+  "design": "Exploratory secondary analysis of published AgentDyn marginal tables and an independent archived-log pilot",
+  "recorded_at_utc": "2026-09-16T05:08:55.370656+00:00",
+  "sources": [
+    "https://arxiv.org/html/2602.03117v3#A7.T9",
+    "https://github.com/SaFo-Lab/AgentDyn/tree/5353cf7615b135cace8d07c8f12dac53a16b6db3"
+  ],
+  "published_tables": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "primary_population": "All configurations with clean utility, attacked utility and ASR for all three suites in Tables 9 through 17",
+  "primary_comparison": "Complete rectangular panel of the same 12 model labels and 10 configurations; separately report the two aligned-model rows",
+  "suite_weights": [
+    0.3333333333333333,
+    0.3333333333333333,
+    0.3333333333333333
+  ],
+  "rounding_tolerance_percentage_points": 0.005,
+  "primary_quantity": "Joint task completion and failure of the specified attack objective",
+  "identification": "Frechet bounds from paired marginal rates, aggregate versus suite-stratified; assumes matched evaluated populations and weights",
+  "pairwise_comparison": "Same-model configuration pairs; strict separation of feasible intervals",
+  "decision_sensitivity": "Illustrative score J minus lambda times A, lambda from 0 to 5; not a calibrated deployment risk estimate",
+  "pilot_validation": "Use all existing 288 pilot logs, preserving the initial sample; no new LLM calls",
+  "reporting": "Distinguish identification ranges from exploratory bootstrap intervals and report source table inconsistencies instead of silently correcting them",
+  "download_limit": "Larger raw-log download attempted but proxy connection timed out; inventory counts are not analyzed outcome records",
+  "preregistration": false
+}

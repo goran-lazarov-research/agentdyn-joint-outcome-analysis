@@ -1,0 +1,7322 @@
+[
+  {
+    "metric": "clean",
+    "defense": "None",
+    "model": "GPT-4o mini",
+    "table": 9,
+    "reported_overall": 46.67,
+    "suites": {
+      "Shopping": 35.0,
+      "Github": 65.0,
+      "Dailylife": 40.0
+    },
+    "source_cells": [
+      "None",
+      "GPT-4o mini",
+      "46.67",
+      "35.00",
+      "65.00",
+      "40.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "None",
+    "model": "GPT-4o mini",
+    "table": 12,
+    "reported_overall": 35.69,
+    "suites": {
+      "Shopping": 35.0,
+      "Github": 45.56,
+      "Dailylife": 26.5
+    },
+    "source_cells": [
+      "None",
+      "GPT-4o mini",
+      "35.69",
+      "35.00",
+      "45.56",
+      "26.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "None",
+    "model": "GPT-4o mini",
+    "table": 15,
+    "reported_overall": 50.0,
+    "suites": {
+      "Shopping": 28.89,
+      "Github": 41.11,
+      "Dailylife": 80.0
+    },
+    "source_cells": [
+      "None",
+      "GPT-4o mini",
+      "50.00",
+      "28.89",
+      "41.11",
+      "80.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "None",
+    "model": "GPT-4o",
+    "table": 9,
+    "reported_overall": 53.33,
+    "suites": {
+      "Shopping": 50.0,
+      "Github": 55.0,
+      "Dailylife": 55.0
+    },
+    "source_cells": [
+      "None",
+      "GPT-4o",
+      "53.33",
+      "50.00",
+      "55.00",
+      "55.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "None",
+    "model": "GPT-4o",
+    "table": 12,
+    "reported_overall": 55.52,
+    "suites": {
+      "Shopping": 48.89,
+      "Github": 66.67,
+      "Dailylife": 51.0
+    },
+    "source_cells": [
+      "None",
+      "GPT-4o",
+      "55.52",
+      "48.89",
+      "66.67",
+      "51.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "None",
+    "model": "GPT-4o",
+    "table": 15,
+    "reported_overall": 37.8,
+    "suites": {
+      "Shopping": 25.0,
+      "Github": 18.89,
+      "Dailylife": 69.5
+    },
+    "source_cells": [
+      "None",
+      "GPT-4o",
+      "37.80",
+      "25.00",
+      "18.89",
+      "69.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "None",
+    "model": "GPT-5.1",
+    "table": 9,
+    "reported_overall": 61.67,
+    "suites": {
+      "Shopping": 45.0,
+      "Github": 75.0,
+      "Dailylife": 65.0
+    },
+    "source_cells": [
+      "None",
+      "GPT-5.1",
+      "61.67",
+      "45.00",
+      "75.00",
+      "65.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "None",
+    "model": "GPT-5.1",
+    "table": 12,
+    "reported_overall": 50.04,
+    "suites": {
+      "Shopping": 34.44,
+      "Github": 66.67,
+      "Dailylife": 49.0
+    },
+    "source_cells": [
+      "None",
+      "GPT-5.1",
+      "50.04",
+      "34.44",
+      "66.67",
+      "49.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "None",
+    "model": "GPT-5.1",
+    "table": 15,
+    "reported_overall": 4.96,
+    "suites": {
+      "Shopping": 1.67,
+      "Github": 2.22,
+      "Dailylife": 11.0
+    },
+    "source_cells": [
+      "None",
+      "GPT-5.1",
+      "4.96",
+      "1.67",
+      "2.22",
+      "11.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "None",
+    "model": "GPT-5-mini",
+    "table": 9,
+    "reported_overall": 65.0,
+    "suites": {
+      "Shopping": 45.0,
+      "Github": 70.0,
+      "Dailylife": 80.0
+    },
+    "source_cells": [
+      "None",
+      "GPT-5-mini",
+      "65.00",
+      "45.00",
+      "70.00",
+      "80.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "None",
+    "model": "GPT-5-mini",
+    "table": 12,
+    "reported_overall": 64.76,
+    "suites": {
+      "Shopping": 48.89,
+      "Github": 73.89,
+      "Dailylife": 71.5
+    },
+    "source_cells": [
+      "None",
+      "GPT-5-mini",
+      "64.76",
+      "48.89",
+      "73.89",
+      "71.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "None",
+    "model": "GPT-5-mini",
+    "table": 15,
+    "reported_overall": 0.37,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 1.11,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "None",
+      "GPT-5-mini",
+      "0.37",
+      "0.00",
+      "1.11",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "None",
+    "model": "Gemini-2.5 Pro",
+    "table": 9,
+    "reported_overall": 51.67,
+    "suites": {
+      "Shopping": 35.0,
+      "Github": 70.0,
+      "Dailylife": 50.0
+    },
+    "source_cells": [
+      "None",
+      "Gemini-2.5 Pro",
+      "51.67",
+      "35.00",
+      "70.00",
+      "50.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "None",
+    "model": "Gemini-2.5 Pro",
+    "table": 12,
+    "reported_overall": 56.95,
+    "suites": {
+      "Shopping": 41.67,
+      "Github": 71.67,
+      "Dailylife": 57.5
+    },
+    "source_cells": [
+      "None",
+      "Gemini-2.5 Pro",
+      "56.95",
+      "41.67",
+      "71.67",
+      "57.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "None",
+    "model": "Gemini-2.5 Pro",
+    "table": 15,
+    "reported_overall": 20.61,
+    "suites": {
+      "Shopping": 15.0,
+      "Github": 13.33,
+      "Dailylife": 33.5
+    },
+    "source_cells": [
+      "None",
+      "Gemini-2.5 Pro",
+      "20.61",
+      "15.00",
+      "13.33",
+      "33.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "None",
+    "model": "Gemini-2.5 Flash",
+    "table": 9,
+    "reported_overall": 30.0,
+    "suites": {
+      "Shopping": 10.0,
+      "Github": 25.0,
+      "Dailylife": 55.0
+    },
+    "source_cells": [
+      "None",
+      "Gemini-2.5 Flash",
+      "30.00",
+      "10.00",
+      "25.00",
+      "55.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "None",
+    "model": "Gemini-2.5 Flash",
+    "table": 12,
+    "reported_overall": 24.29,
+    "suites": {
+      "Shopping": 4.44,
+      "Github": 29.44,
+      "Dailylife": 39.0
+    },
+    "source_cells": [
+      "None",
+      "Gemini-2.5 Flash",
+      "24.29",
+      "4.44",
+      "29.44",
+      "39.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "None",
+    "model": "Gemini-2.5 Flash",
+    "table": 15,
+    "reported_overall": 37.61,
+    "suites": {
+      "Shopping": 14.44,
+      "Github": 23.89,
+      "Dailylife": 74.5
+    },
+    "source_cells": [
+      "None",
+      "Gemini-2.5 Flash",
+      "37.61",
+      "14.44",
+      "23.89",
+      "74.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "None",
+    "model": "Claude-Sonnet-3.5",
+    "table": 9,
+    "reported_overall": 60.0,
+    "suites": {
+      "Shopping": 45.0,
+      "Github": 70.0,
+      "Dailylife": 65.0
+    },
+    "source_cells": [
+      "None",
+      "Claude-Sonnet-3.5",
+      "60.00",
+      "45.00",
+      "70.00",
+      "65.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "None",
+    "model": "Claude-Sonnet-3.5",
+    "table": 12,
+    "reported_overall": 55.43,
+    "suites": {
+      "Shopping": 46.11,
+      "Github": 66.67,
+      "Dailylife": 53.5
+    },
+    "source_cells": [
+      "None",
+      "Claude-Sonnet-3.5",
+      "55.43",
+      "46.11",
+      "66.67",
+      "53.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "None",
+    "model": "Claude-Sonnet-3.5",
+    "table": 15,
+    "reported_overall": 11.89,
+    "suites": {
+      "Shopping": 2.78,
+      "Github": 13.89,
+      "Dailylife": 19.0
+    },
+    "source_cells": [
+      "None",
+      "Claude-Sonnet-3.5",
+      "11.89",
+      "2.78",
+      "13.89",
+      "19.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "None",
+    "model": "Claude-Sonnet-4.5",
+    "table": 9,
+    "reported_overall": 71.67,
+    "suites": {
+      "Shopping": 55.0,
+      "Github": 70.0,
+      "Dailylife": 90.0
+    },
+    "source_cells": [
+      "None",
+      "Claude-Sonnet-4.5",
+      "71.67",
+      "55.00",
+      "70.00",
+      "90.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "None",
+    "model": "Claude-Sonnet-4.5",
+    "table": 12,
+    "reported_overall": 70.74,
+    "suites": {
+      "Shopping": 53.89,
+      "Github": 73.33,
+      "Dailylife": 85.0
+    },
+    "source_cells": [
+      "None",
+      "Claude-Sonnet-4.5",
+      "70.74",
+      "53.89",
+      "73.33",
+      "85.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "None",
+    "model": "Claude-Sonnet-4.5",
+    "table": 15,
+    "reported_overall": 0.87,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 1.11,
+      "Dailylife": 1.5
+    },
+    "source_cells": [
+      "None",
+      "Claude-Sonnet-4.5",
+      "0.87",
+      "0.00",
+      "1.11",
+      "1.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "None",
+    "model": "Qwen3 235B-A22B",
+    "table": 9,
+    "reported_overall": 23.33,
+    "suites": {
+      "Shopping": 5.0,
+      "Github": 20.0,
+      "Dailylife": 45.0
+    },
+    "source_cells": [
+      "None",
+      "Qwen3 235B-A22B",
+      "23.33",
+      "5.00",
+      "20.00",
+      "45.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "None",
+    "model": "Qwen3 235B-A22B",
+    "table": 12,
+    "reported_overall": 10.74,
+    "suites": {
+      "Shopping": 0.56,
+      "Github": 11.67,
+      "Dailylife": 20.0
+    },
+    "source_cells": [
+      "None",
+      "Qwen3 235B-A22B",
+      "10.74",
+      "0.56",
+      "11.67",
+      "20.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "None",
+    "model": "Qwen3 235B-A22B",
+    "table": 15,
+    "reported_overall": 22.67,
+    "suites": {
+      "Shopping": 5.0,
+      "Github": 20.0,
+      "Dailylife": 43.0
+    },
+    "source_cells": [
+      "None",
+      "Qwen3 235B-A22B",
+      "22.67",
+      "5.00",
+      "20.00",
+      "43.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "None",
+    "model": "Llama 3.3 70B",
+    "table": 9,
+    "reported_overall": 10.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 10.0,
+      "Dailylife": 20.0
+    },
+    "source_cells": [
+      "None",
+      "Llama 3.3 70B",
+      "10.00",
+      "0.00",
+      "10.00",
+      "20.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "None",
+    "model": "Llama 3.3 70B",
+    "table": 12,
+    "reported_overall": 6.15,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 4.44,
+      "Dailylife": 14.0
+    },
+    "source_cells": [
+      "None",
+      "Llama 3.3 70B",
+      "6.15",
+      "0.00",
+      "4.44",
+      "14.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "None",
+    "model": "Llama 3.3 70B",
+    "table": 15,
+    "reported_overall": 11.91,
+    "suites": {
+      "Shopping": 2.22,
+      "Github": 5.0,
+      "Dailylife": 28.5
+    },
+    "source_cells": [
+      "None",
+      "Llama 3.3 70B",
+      "11.91",
+      "2.22",
+      "5.00",
+      "28.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "None",
+    "model": "Qwen3-Coder",
+    "table": 9,
+    "reported_overall": 18.33,
+    "suites": {
+      "Shopping": 5.0,
+      "Github": 25.0,
+      "Dailylife": 25.0
+    },
+    "source_cells": [
+      "None",
+      "Qwen3-Coder",
+      "18.33",
+      "5.00",
+      "25.00",
+      "25.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "None",
+    "model": "Qwen3-Coder",
+    "table": 12,
+    "reported_overall": 15.76,
+    "suites": {
+      "Shopping": 3.33,
+      "Github": 24.44,
+      "Dailylife": 19.5
+    },
+    "source_cells": [
+      "None",
+      "Qwen3-Coder",
+      "15.76",
+      "3.33",
+      "24.44",
+      "19.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "None",
+    "model": "Qwen3-Coder",
+    "table": 15,
+    "reported_overall": 14.61,
+    "suites": {
+      "Shopping": 10.0,
+      "Github": 13.33,
+      "Dailylife": 20.5
+    },
+    "source_cells": [
+      "None",
+      "Qwen3-Coder",
+      "14.61",
+      "10.00",
+      "13.33",
+      "20.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "None",
+    "model": "Kimi-K2.5",
+    "table": 9,
+    "reported_overall": 71.67,
+    "suites": {
+      "Shopping": 55.0,
+      "Github": 70.0,
+      "Dailylife": 90.0
+    },
+    "source_cells": [
+      "None",
+      "Kimi-K2.5",
+      "71.67",
+      "55.00",
+      "70.00",
+      "90.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "None",
+    "model": "Kimi-K2.5",
+    "table": 12,
+    "reported_overall": 54.17,
+    "suites": {
+      "Shopping": 42.22,
+      "Github": 62.78,
+      "Dailylife": 57.5
+    },
+    "source_cells": [
+      "None",
+      "Kimi-K2.5",
+      "54.17",
+      "42.22",
+      "62.78",
+      "57.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "None",
+    "model": "Kimi-K2.5",
+    "table": 15,
+    "reported_overall": 11.65,
+    "suites": {
+      "Shopping": 7.22,
+      "Github": 17.22,
+      "Dailylife": 10.5
+    },
+    "source_cells": [
+      "None",
+      "Kimi-K2.5",
+      "11.65",
+      "7.22",
+      "17.22",
+      "10.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Prompt Sandwiching",
+    "model": "GPT-4o mini",
+    "table": 9,
+    "reported_overall": 43.33,
+    "suites": {
+      "Shopping": 35.0,
+      "Github": 50.0,
+      "Dailylife": 45.0
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "GPT-4o mini",
+      "43.33",
+      "35.00",
+      "50.00",
+      "45.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Prompt Sandwiching",
+    "model": "GPT-4o mini",
+    "table": 12,
+    "reported_overall": 37.78,
+    "suites": {
+      "Shopping": 34.44,
+      "Github": 48.89,
+      "Dailylife": 30.0
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "GPT-4o mini",
+      "37.78",
+      "34.44",
+      "48.89",
+      "30.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Prompt Sandwiching",
+    "model": "GPT-4o mini",
+    "table": 15,
+    "reported_overall": 33.8,
+    "suites": {
+      "Shopping": 15.56,
+      "Github": 18.33,
+      "Dailylife": 67.5
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "GPT-4o mini",
+      "33.80",
+      "15.56",
+      "18.33",
+      "67.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Prompt Sandwiching",
+    "model": "GPT-4o",
+    "table": 9,
+    "reported_overall": 63.33,
+    "suites": {
+      "Shopping": 50.0,
+      "Github": 75.0,
+      "Dailylife": 65.0
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "GPT-4o",
+      "63.33",
+      "50.00",
+      "75.00",
+      "65.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Prompt Sandwiching",
+    "model": "GPT-4o",
+    "table": 12,
+    "reported_overall": 56.13,
+    "suites": {
+      "Shopping": 46.67,
+      "Github": 67.22,
+      "Dailylife": 54.5
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "GPT-4o",
+      "56.13",
+      "46.67",
+      "67.22",
+      "54.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Prompt Sandwiching",
+    "model": "GPT-4o",
+    "table": 15,
+    "reported_overall": 31.17,
+    "suites": {
+      "Shopping": 19.44,
+      "Github": 15.56,
+      "Dailylife": 58.5
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "GPT-4o",
+      "31.17",
+      "19.44",
+      "15.56",
+      "58.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Prompt Sandwiching",
+    "model": "GPT-5.1",
+    "table": 9,
+    "reported_overall": 58.33,
+    "suites": {
+      "Shopping": 45.0,
+      "Github": 65.0,
+      "Dailylife": 65.0
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "GPT-5.1",
+      "58.33",
+      "45.00",
+      "65.00",
+      "65.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Prompt Sandwiching",
+    "model": "GPT-5.1",
+    "table": 12,
+    "reported_overall": 53.78,
+    "suites": {
+      "Shopping": 40.0,
+      "Github": 63.33,
+      "Dailylife": 58.0
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "GPT-5.1",
+      "53.78",
+      "40.00",
+      "63.33",
+      "58.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Prompt Sandwiching",
+    "model": "GPT-5.1",
+    "table": 15,
+    "reported_overall": 1.2,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 1.11,
+      "Dailylife": 2.5
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "GPT-5.1",
+      "1.20",
+      "0.00",
+      "1.11",
+      "2.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Prompt Sandwiching",
+    "model": "GPT-5-mini",
+    "table": 9,
+    "reported_overall": 73.33,
+    "suites": {
+      "Shopping": 60.0,
+      "Github": 75.0,
+      "Dailylife": 85.0
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "GPT-5-mini",
+      "73.33",
+      "60.00",
+      "75.00",
+      "85.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Prompt Sandwiching",
+    "model": "GPT-5-mini",
+    "table": 12,
+    "reported_overall": 65.22,
+    "suites": {
+      "Shopping": 48.33,
+      "Github": 73.33,
+      "Dailylife": 74.0
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "GPT-5-mini",
+      "65.22",
+      "48.33",
+      "73.33",
+      "74.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Prompt Sandwiching",
+    "model": "GPT-5-mini",
+    "table": 15,
+    "reported_overall": 0.37,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 1.11,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "GPT-5-mini",
+      "0.37",
+      "0.00",
+      "1.11",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Prompt Sandwiching",
+    "model": "Gemini-2.5 Pro",
+    "table": 9,
+    "reported_overall": 51.67,
+    "suites": {
+      "Shopping": 35.0,
+      "Github": 55.0,
+      "Dailylife": 65.0
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "Gemini-2.5 Pro",
+      "51.67",
+      "35.00",
+      "55.00",
+      "65.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Prompt Sandwiching",
+    "model": "Gemini-2.5 Pro",
+    "table": 12,
+    "reported_overall": 49.08,
+    "suites": {
+      "Shopping": 35.56,
+      "Github": 61.67,
+      "Dailylife": 50.0
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "Gemini-2.5 Pro",
+      "49.08",
+      "35.56",
+      "61.67",
+      "50.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Prompt Sandwiching",
+    "model": "Gemini-2.5 Pro",
+    "table": 15,
+    "reported_overall": 23.94,
+    "suites": {
+      "Shopping": 20.0,
+      "Github": 18.33,
+      "Dailylife": 33.5
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "Gemini-2.5 Pro",
+      "23.94",
+      "20.00",
+      "18.33",
+      "33.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Prompt Sandwiching",
+    "model": "Gemini-2.5 Flash",
+    "table": 9,
+    "reported_overall": 16.67,
+    "suites": {
+      "Shopping": 10.0,
+      "Github": 20.0,
+      "Dailylife": 20.0
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "Gemini-2.5 Flash",
+      "16.67",
+      "10.00",
+      "20.00",
+      "20.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Prompt Sandwiching",
+    "model": "Gemini-2.5 Flash",
+    "table": 12,
+    "reported_overall": 14.33,
+    "suites": {
+      "Shopping": 7.22,
+      "Github": 17.78,
+      "Dailylife": 18.0
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "Gemini-2.5 Flash",
+      "14.33",
+      "7.22",
+      "17.78",
+      "18.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Prompt Sandwiching",
+    "model": "Gemini-2.5 Flash",
+    "table": 15,
+    "reported_overall": 18.22,
+    "suites": {
+      "Shopping": 6.11,
+      "Github": 15.56,
+      "Dailylife": 33.0
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "Gemini-2.5 Flash",
+      "18.22",
+      "6.11",
+      "15.56",
+      "33.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Prompt Sandwiching",
+    "model": "Claude-Sonnet-3.5",
+    "table": 9,
+    "reported_overall": 56.67,
+    "suites": {
+      "Shopping": 40.0,
+      "Github": 65.0,
+      "Dailylife": 65.0
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "Claude-Sonnet-3.5",
+      "56.67",
+      "40.00",
+      "65.00",
+      "65.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Prompt Sandwiching",
+    "model": "Claude-Sonnet-3.5",
+    "table": 12,
+    "reported_overall": 55.67,
+    "suites": {
+      "Shopping": 43.33,
+      "Github": 66.67,
+      "Dailylife": 57.0
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "Claude-Sonnet-3.5",
+      "55.67",
+      "43.33",
+      "66.67",
+      "57.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Prompt Sandwiching",
+    "model": "Claude-Sonnet-3.5",
+    "table": 15,
+    "reported_overall": 11.26,
+    "suites": {
+      "Shopping": 5.0,
+      "Github": 12.78,
+      "Dailylife": 16.0
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "Claude-Sonnet-3.5",
+      "11.26",
+      "5.00",
+      "12.78",
+      "16.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Prompt Sandwiching",
+    "model": "Claude-Sonnet-4.5",
+    "table": 9,
+    "reported_overall": 70.0,
+    "suites": {
+      "Shopping": 55.0,
+      "Github": 70.0,
+      "Dailylife": 85.0
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "Claude-Sonnet-4.5",
+      "70.00",
+      "55.00",
+      "70.00",
+      "85.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Prompt Sandwiching",
+    "model": "Claude-Sonnet-4.5",
+    "table": 12,
+    "reported_overall": 74.07,
+    "suites": {
+      "Shopping": 58.33,
+      "Github": 78.89,
+      "Dailylife": 85.0
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "Claude-Sonnet-4.5",
+      "74.07",
+      "58.33",
+      "78.89",
+      "85.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Prompt Sandwiching",
+    "model": "Claude-Sonnet-4.5",
+    "table": 15,
+    "reported_overall": 0.37,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 1.11
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "Claude-Sonnet-4.5",
+      "0.37",
+      "0.00",
+      "0.00",
+      "1.11"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Prompt Sandwiching",
+    "model": "Qwen3 235B-A22B",
+    "table": 9,
+    "reported_overall": 16.67,
+    "suites": {
+      "Shopping": 5.0,
+      "Github": 15.0,
+      "Dailylife": 30.0
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "Qwen3 235B-A22B",
+      "16.67",
+      "5.00",
+      "15.00",
+      "30.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Prompt Sandwiching",
+    "model": "Qwen3 235B-A22B",
+    "table": 12,
+    "reported_overall": 14.82,
+    "suites": {
+      "Shopping": 3.89,
+      "Github": 15.56,
+      "Dailylife": 25.0
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "Qwen3 235B-A22B",
+      "14.82",
+      "3.89",
+      "15.56",
+      "25.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Prompt Sandwiching",
+    "model": "Qwen3 235B-A22B",
+    "table": 15,
+    "reported_overall": 25.7,
+    "suites": {
+      "Shopping": 11.11,
+      "Github": 20.0,
+      "Dailylife": 46.0
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "Qwen3 235B-A22B",
+      "25.70",
+      "11.11",
+      "20.00",
+      "46.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Prompt Sandwiching",
+    "model": "Llama 3.3 70B",
+    "table": 9,
+    "reported_overall": 5.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 5.0,
+      "Dailylife": 10.0
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "Llama 3.3 70B",
+      "5.00",
+      "0.00",
+      "5.00",
+      "10.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Prompt Sandwiching",
+    "model": "Llama 3.3 70B",
+    "table": 12,
+    "reported_overall": 7.35,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 5.56,
+      "Dailylife": 16.5
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "Llama 3.3 70B",
+      "7.35",
+      "0.00",
+      "5.56",
+      "16.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Prompt Sandwiching",
+    "model": "Llama 3.3 70B",
+    "table": 15,
+    "reported_overall": 9.96,
+    "suites": {
+      "Shopping": 1.67,
+      "Github": 2.22,
+      "Dailylife": 26.0
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "Llama 3.3 70B",
+      "9.96",
+      "1.67",
+      "2.22",
+      "26.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Prompt Sandwiching",
+    "model": "Qwen3-Coder",
+    "table": 9,
+    "reported_overall": 23.33,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 30.0,
+      "Dailylife": 40.0
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "Qwen3-Coder",
+      "23.33",
+      "0.00",
+      "30.00",
+      "40.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Prompt Sandwiching",
+    "model": "Qwen3-Coder",
+    "table": 12,
+    "reported_overall": 16.63,
+    "suites": {
+      "Shopping": 2.22,
+      "Github": 26.67,
+      "Dailylife": 21.0
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "Qwen3-Coder",
+      "16.63",
+      "2.22",
+      "26.67",
+      "21.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Prompt Sandwiching",
+    "model": "Qwen3-Coder",
+    "table": 15,
+    "reported_overall": 17.7,
+    "suites": {
+      "Shopping": 11.11,
+      "Github": 15.0,
+      "Dailylife": 27.0
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "Qwen3-Coder",
+      "17.70",
+      "11.11",
+      "15.00",
+      "27.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Prompt Sandwiching",
+    "model": "Kimi-K2.5",
+    "table": 9,
+    "reported_overall": 56.67,
+    "suites": {
+      "Shopping": 25.0,
+      "Github": 70.0,
+      "Dailylife": 75.0
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "Kimi-K2.5",
+      "56.67",
+      "25.00",
+      "70.00",
+      "75.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Prompt Sandwiching",
+    "model": "Kimi-K2.5",
+    "table": 12,
+    "reported_overall": 54.13,
+    "suites": {
+      "Shopping": 43.89,
+      "Github": 65.0,
+      "Dailylife": 53.5
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "Kimi-K2.5",
+      "54.13",
+      "43.89",
+      "65.00",
+      "53.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Prompt Sandwiching",
+    "model": "Kimi-K2.5",
+    "table": 15,
+    "reported_overall": 5.43,
+    "suites": {
+      "Shopping": 3.89,
+      "Github": 8.89,
+      "Dailylife": 3.5
+    },
+    "source_cells": [
+      "Prompt Sandwiching",
+      "Kimi-K2.5",
+      "5.43",
+      "3.89",
+      "8.89",
+      "3.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Spotlighting",
+    "model": "GPT-4o mini",
+    "table": 9,
+    "reported_overall": 38.33,
+    "suites": {
+      "Shopping": 25.0,
+      "Github": 50.0,
+      "Dailylife": 40.0
+    },
+    "source_cells": [
+      "Spotlighting",
+      "GPT-4o mini",
+      "38.33",
+      "25.00",
+      "50.00",
+      "40.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Spotlighting",
+    "model": "GPT-4o mini",
+    "table": 12,
+    "reported_overall": 35.78,
+    "suites": {
+      "Shopping": 28.89,
+      "Github": 49.44,
+      "Dailylife": 29.0
+    },
+    "source_cells": [
+      "Spotlighting",
+      "GPT-4o mini",
+      "35.78",
+      "28.89",
+      "49.44",
+      "29.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Spotlighting",
+    "model": "GPT-4o mini",
+    "table": 15,
+    "reported_overall": 47.33,
+    "suites": {
+      "Shopping": 27.78,
+      "Github": 42.22,
+      "Dailylife": 72.0
+    },
+    "source_cells": [
+      "Spotlighting",
+      "GPT-4o mini",
+      "47.33",
+      "27.78",
+      "42.22",
+      "72.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Spotlighting",
+    "model": "GPT-4o",
+    "table": 9,
+    "reported_overall": 55.0,
+    "suites": {
+      "Shopping": 40.0,
+      "Github": 65.0,
+      "Dailylife": 60.0
+    },
+    "source_cells": [
+      "Spotlighting",
+      "GPT-4o",
+      "55.00",
+      "40.00",
+      "65.00",
+      "60.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Spotlighting",
+    "model": "GPT-4o",
+    "table": 12,
+    "reported_overall": 52.24,
+    "suites": {
+      "Shopping": 43.89,
+      "Github": 63.33,
+      "Dailylife": 49.5
+    },
+    "source_cells": [
+      "Spotlighting",
+      "GPT-4o",
+      "52.24",
+      "43.89",
+      "63.33",
+      "49.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Spotlighting",
+    "model": "GPT-4o",
+    "table": 15,
+    "reported_overall": 27.61,
+    "suites": {
+      "Shopping": 24.44,
+      "Github": 18.89,
+      "Dailylife": 39.5
+    },
+    "source_cells": [
+      "Spotlighting",
+      "GPT-4o",
+      "27.61",
+      "24.44",
+      "18.89",
+      "39.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Spotlighting",
+    "model": "GPT-5.1",
+    "table": 9,
+    "reported_overall": 56.67,
+    "suites": {
+      "Shopping": 45.0,
+      "Github": 70.0,
+      "Dailylife": 55.0
+    },
+    "source_cells": [
+      "Spotlighting",
+      "GPT-5.1",
+      "56.67",
+      "45.00",
+      "70.00",
+      "55.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Spotlighting",
+    "model": "GPT-5.1",
+    "table": 12,
+    "reported_overall": 50.06,
+    "suites": {
+      "Shopping": 31.11,
+      "Github": 65.56,
+      "Dailylife": 53.5
+    },
+    "source_cells": [
+      "Spotlighting",
+      "GPT-5.1",
+      "50.06",
+      "31.11",
+      "65.56",
+      "53.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Spotlighting",
+    "model": "GPT-5.1",
+    "table": 15,
+    "reported_overall": 3.43,
+    "suites": {
+      "Shopping": 1.11,
+      "Github": 1.67,
+      "Dailylife": 7.5
+    },
+    "source_cells": [
+      "Spotlighting",
+      "GPT-5.1",
+      "3.43",
+      "1.11",
+      "1.67",
+      "7.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Spotlighting",
+    "model": "GPT-5-mini",
+    "table": 9,
+    "reported_overall": 68.33,
+    "suites": {
+      "Shopping": 60.0,
+      "Github": 65.0,
+      "Dailylife": 80.0
+    },
+    "source_cells": [
+      "Spotlighting",
+      "GPT-5-mini",
+      "68.33",
+      "60.00",
+      "65.00",
+      "80.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Spotlighting",
+    "model": "GPT-5-mini",
+    "table": 12,
+    "reported_overall": 61.13,
+    "suites": {
+      "Shopping": 45.56,
+      "Github": 68.33,
+      "Dailylife": 69.5
+    },
+    "source_cells": [
+      "Spotlighting",
+      "GPT-5-mini",
+      "61.13",
+      "45.56",
+      "68.33",
+      "69.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Spotlighting",
+    "model": "GPT-5-mini",
+    "table": 15,
+    "reported_overall": 0.56,
+    "suites": {
+      "Shopping": 0.56,
+      "Github": 1.11,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "Spotlighting",
+      "GPT-5-mini",
+      "0.56",
+      "0.56",
+      "1.11",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Spotlighting",
+    "model": "Gemini-2.5 Pro",
+    "table": 9,
+    "reported_overall": 58.33,
+    "suites": {
+      "Shopping": 35.0,
+      "Github": 75.0,
+      "Dailylife": 65.0
+    },
+    "source_cells": [
+      "Spotlighting",
+      "Gemini-2.5 Pro",
+      "58.33",
+      "35.00",
+      "75.00",
+      "65.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Spotlighting",
+    "model": "Gemini-2.5 Pro",
+    "table": 12,
+    "reported_overall": 52.61,
+    "suites": {
+      "Shopping": 37.78,
+      "Github": 65.56,
+      "Dailylife": 54.5
+    },
+    "source_cells": [
+      "Spotlighting",
+      "Gemini-2.5 Pro",
+      "52.61",
+      "37.78",
+      "65.56",
+      "54.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Spotlighting",
+    "model": "Gemini-2.5 Pro",
+    "table": 15,
+    "reported_overall": 16.87,
+    "suites": {
+      "Shopping": 11.67,
+      "Github": 14.44,
+      "Dailylife": 24.5
+    },
+    "source_cells": [
+      "Spotlighting",
+      "Gemini-2.5 Pro",
+      "16.87",
+      "11.67",
+      "14.44",
+      "24.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Spotlighting",
+    "model": "Gemini-2.5 Flash",
+    "table": 9,
+    "reported_overall": 13.33,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 15.0,
+      "Dailylife": 25.0
+    },
+    "source_cells": [
+      "Spotlighting",
+      "Gemini-2.5 Flash",
+      "13.33",
+      "0.00",
+      "15.00",
+      "25.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Spotlighting",
+    "model": "Gemini-2.5 Flash",
+    "table": 12,
+    "reported_overall": 12.5,
+    "suites": {
+      "Shopping": 1.11,
+      "Github": 13.89,
+      "Dailylife": 22.5
+    },
+    "source_cells": [
+      "Spotlighting",
+      "Gemini-2.5 Flash",
+      "12.50",
+      "1.11",
+      "13.89",
+      "22.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Spotlighting",
+    "model": "Gemini-2.5 Flash",
+    "table": 15,
+    "reported_overall": 17.74,
+    "suites": {
+      "Shopping": 7.22,
+      "Github": 10.0,
+      "Dailylife": 36.0
+    },
+    "source_cells": [
+      "Spotlighting",
+      "Gemini-2.5 Flash",
+      "17.74",
+      "7.22",
+      "10.00",
+      "36.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Spotlighting",
+    "model": "Claude-Sonnet-3.5",
+    "table": 9,
+    "reported_overall": 58.33,
+    "suites": {
+      "Shopping": 40.0,
+      "Github": 70.0,
+      "Dailylife": 65.0
+    },
+    "source_cells": [
+      "Spotlighting",
+      "Claude-Sonnet-3.5",
+      "58.33",
+      "40.00",
+      "70.00",
+      "65.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Spotlighting",
+    "model": "Claude-Sonnet-3.5",
+    "table": 12,
+    "reported_overall": 58.33,
+    "suites": {
+      "Shopping": 44.44,
+      "Github": 68.33,
+      "Dailylife": 58.5
+    },
+    "source_cells": [
+      "Spotlighting",
+      "Claude-Sonnet-3.5",
+      "58.33",
+      "44.44",
+      "68.33",
+      "58.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Spotlighting",
+    "model": "Claude-Sonnet-3.5",
+    "table": 15,
+    "reported_overall": 3.8,
+    "suites": {
+      "Shopping": 0.56,
+      "Github": 8.33,
+      "Dailylife": 2.5
+    },
+    "source_cells": [
+      "Spotlighting",
+      "Claude-Sonnet-3.5",
+      "3.80",
+      "0.56",
+      "8.33",
+      "2.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Spotlighting",
+    "model": "Claude-Sonnet-4.5",
+    "table": 9,
+    "reported_overall": 68.33,
+    "suites": {
+      "Shopping": 55.0,
+      "Github": 65.0,
+      "Dailylife": 85.0
+    },
+    "source_cells": [
+      "Spotlighting",
+      "Claude-Sonnet-4.5",
+      "68.33",
+      "55.00",
+      "65.00",
+      "85.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Spotlighting",
+    "model": "Claude-Sonnet-4.5",
+    "table": 12,
+    "reported_overall": 68.33,
+    "suites": {
+      "Shopping": 53.89,
+      "Github": 72.78,
+      "Dailylife": 80.0
+    },
+    "source_cells": [
+      "Spotlighting",
+      "Claude-Sonnet-4.5",
+      "68.33",
+      "53.89",
+      "72.78",
+      "80.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Spotlighting",
+    "model": "Claude-Sonnet-4.5",
+    "table": 15,
+    "reported_overall": 0.37,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 1.11
+    },
+    "source_cells": [
+      "Spotlighting",
+      "Claude-Sonnet-4.5",
+      "0.37",
+      "0.00",
+      "0.00",
+      "1.11"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Spotlighting",
+    "model": "Qwen3 235B-A22B",
+    "table": 9,
+    "reported_overall": 20.0,
+    "suites": {
+      "Shopping": 5.0,
+      "Github": 15.0,
+      "Dailylife": 40.0
+    },
+    "source_cells": [
+      "Spotlighting",
+      "Qwen3 235B-A22B",
+      "20.00",
+      "5.00",
+      "15.00",
+      "40.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Spotlighting",
+    "model": "Qwen3 235B-A22B",
+    "table": 12,
+    "reported_overall": 13.02,
+    "suites": {
+      "Shopping": 2.78,
+      "Github": 12.78,
+      "Dailylife": 23.5
+    },
+    "source_cells": [
+      "Spotlighting",
+      "Qwen3 235B-A22B",
+      "13.02",
+      "2.78",
+      "12.78",
+      "23.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Spotlighting",
+    "model": "Qwen3 235B-A22B",
+    "table": 15,
+    "reported_overall": 27.72,
+    "suites": {
+      "Shopping": 12.78,
+      "Github": 23.89,
+      "Dailylife": 46.5
+    },
+    "source_cells": [
+      "Spotlighting",
+      "Qwen3 235B-A22B",
+      "27.72",
+      "12.78",
+      "23.89",
+      "46.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Spotlighting",
+    "model": "Llama 3.3 70B",
+    "table": 9,
+    "reported_overall": 10.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 5.0,
+      "Dailylife": 25.0
+    },
+    "source_cells": [
+      "Spotlighting",
+      "Llama 3.3 70B",
+      "10.00",
+      "0.00",
+      "5.00",
+      "25.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Spotlighting",
+    "model": "Llama 3.3 70B",
+    "table": 12,
+    "reported_overall": 6.78,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 3.33,
+      "Dailylife": 17.0
+    },
+    "source_cells": [
+      "Spotlighting",
+      "Llama 3.3 70B",
+      "6.78",
+      "0.00",
+      "3.33",
+      "17.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Spotlighting",
+    "model": "Llama 3.3 70B",
+    "table": 15,
+    "reported_overall": 14.85,
+    "suites": {
+      "Shopping": 2.78,
+      "Github": 7.78,
+      "Dailylife": 34.0
+    },
+    "source_cells": [
+      "Spotlighting",
+      "Llama 3.3 70B",
+      "14.85",
+      "2.78",
+      "7.78",
+      "34.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Spotlighting",
+    "model": "Qwen3-Coder",
+    "table": 9,
+    "reported_overall": 16.67,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 25.0,
+      "Dailylife": 25.0
+    },
+    "source_cells": [
+      "Spotlighting",
+      "Qwen3-Coder",
+      "16.67",
+      "0.00",
+      "25.00",
+      "25.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Spotlighting",
+    "model": "Qwen3-Coder",
+    "table": 12,
+    "reported_overall": 16.15,
+    "suites": {
+      "Shopping": 3.89,
+      "Github": 30.56,
+      "Dailylife": 14.0
+    },
+    "source_cells": [
+      "Spotlighting",
+      "Qwen3-Coder",
+      "16.15",
+      "3.89",
+      "30.56",
+      "14.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Spotlighting",
+    "model": "Qwen3-Coder",
+    "table": 15,
+    "reported_overall": 13.28,
+    "suites": {
+      "Shopping": 4.44,
+      "Github": 13.89,
+      "Dailylife": 21.5
+    },
+    "source_cells": [
+      "Spotlighting",
+      "Qwen3-Coder",
+      "13.28",
+      "4.44",
+      "13.89",
+      "21.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Spotlighting",
+    "model": "Kimi-K2.5",
+    "table": 9,
+    "reported_overall": 36.67,
+    "suites": {
+      "Shopping": 15.0,
+      "Github": 50.0,
+      "Dailylife": 45.0
+    },
+    "source_cells": [
+      "Spotlighting",
+      "Kimi-K2.5",
+      "36.67",
+      "15.00",
+      "50.00",
+      "45.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Spotlighting",
+    "model": "Kimi-K2.5",
+    "table": 12,
+    "reported_overall": 53.5,
+    "suites": {
+      "Shopping": 38.89,
+      "Github": 66.11,
+      "Dailylife": 55.5
+    },
+    "source_cells": [
+      "Spotlighting",
+      "Kimi-K2.5",
+      "53.50",
+      "38.89",
+      "66.11",
+      "55.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Spotlighting",
+    "model": "Kimi-K2.5",
+    "table": 15,
+    "reported_overall": 5.68,
+    "suites": {
+      "Shopping": 2.22,
+      "Github": 8.33,
+      "Dailylife": 6.5
+    },
+    "source_cells": [
+      "Spotlighting",
+      "Kimi-K2.5",
+      "5.68",
+      "2.22",
+      "8.33",
+      "6.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "ProtectAI",
+    "model": "GPT-4o mini",
+    "table": 10,
+    "reported_overall": 1.67,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 5.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "GPT-4o mini",
+      "1.67",
+      "0.00",
+      "5.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "ProtectAI",
+    "model": "GPT-4o mini",
+    "table": 13,
+    "reported_overall": 0.93,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 2.78,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "GPT-4o mini",
+      "0.93",
+      "0.00",
+      "2.78",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "ProtectAI",
+    "model": "GPT-4o mini",
+    "table": 16,
+    "reported_overall": 1.37,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 1.11,
+      "Dailylife": 3.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "GPT-4o mini",
+      "1.37",
+      "0.00",
+      "1.11",
+      "3.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "ProtectAI",
+    "model": "GPT-4o",
+    "table": 10,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "GPT-4o",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "ProtectAI",
+    "model": "GPT-4o",
+    "table": 13,
+    "reported_overall": 0.56,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 1.67,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "GPT-4o",
+      "0.56",
+      "0.00",
+      "1.67",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "ProtectAI",
+    "model": "GPT-4o",
+    "table": 16,
+    "reported_overall": 0.85,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.56,
+      "Dailylife": 2.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "GPT-4o",
+      "0.85",
+      "0.00",
+      "0.56",
+      "2.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "ProtectAI",
+    "model": "GPT-5.1",
+    "table": 10,
+    "reported_overall": 1.67,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 5.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "GPT-5.1",
+      "1.67",
+      "0.00",
+      "5.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "ProtectAI",
+    "model": "GPT-5.1",
+    "table": 13,
+    "reported_overall": 0.56,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 1.67,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "GPT-5.1",
+      "0.56",
+      "0.00",
+      "1.67",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "ProtectAI",
+    "model": "GPT-5.1",
+    "table": 16,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "GPT-5.1",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "ProtectAI",
+    "model": "GPT-5-mini",
+    "table": 10,
+    "reported_overall": 1.67,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 5.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "GPT-5-mini",
+      "1.67",
+      "0.00",
+      "5.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "ProtectAI",
+    "model": "GPT-5-mini",
+    "table": 13,
+    "reported_overall": 0.93,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 2.78,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "GPT-5-mini",
+      "0.93",
+      "0.00",
+      "2.78",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "ProtectAI",
+    "model": "GPT-5-mini",
+    "table": 16,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "GPT-5-mini",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "ProtectAI",
+    "model": "Gemini-2.5 Pro",
+    "table": 10,
+    "reported_overall": 1.67,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 5.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "Gemini-2.5 Pro",
+      "1.67",
+      "0.00",
+      "5.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "ProtectAI",
+    "model": "Gemini-2.5 Pro",
+    "table": 13,
+    "reported_overall": 0.74,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 2.22,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "Gemini-2.5 Pro",
+      "0.74",
+      "0.00",
+      "2.22",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "ProtectAI",
+    "model": "Gemini-2.5 Pro",
+    "table": 16,
+    "reported_overall": 0.69,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.56,
+      "Dailylife": 1.5
+    },
+    "source_cells": [
+      "ProtectAI",
+      "Gemini-2.5 Pro",
+      "0.69",
+      "0.00",
+      "0.56",
+      "1.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "ProtectAI",
+    "model": "Gemini-2.5 Flash",
+    "table": 10,
+    "reported_overall": 1.67,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 5.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "Gemini-2.5 Flash",
+      "1.67",
+      "0.00",
+      "5.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "ProtectAI",
+    "model": "Gemini-2.5 Flash",
+    "table": 13,
+    "reported_overall": 0.19,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.56,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "Gemini-2.5 Flash",
+      "0.19",
+      "0.00",
+      "0.56",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "ProtectAI",
+    "model": "Gemini-2.5 Flash",
+    "table": 16,
+    "reported_overall": 1.04,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 1.11,
+      "Dailylife": 2.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "Gemini-2.5 Flash",
+      "1.04",
+      "0.00",
+      "1.11",
+      "2.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "ProtectAI",
+    "model": "Claude-Sonnet-3.5",
+    "table": 10,
+    "reported_overall": 1.67,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 5.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "Claude-Sonnet-3.5",
+      "1.67",
+      "0.00",
+      "5.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "ProtectAI",
+    "model": "Claude-Sonnet-3.5",
+    "table": 13,
+    "reported_overall": 1.11,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 3.33,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "Claude-Sonnet-3.5",
+      "1.11",
+      "0.00",
+      "3.33",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "ProtectAI",
+    "model": "Claude-Sonnet-3.5",
+    "table": 16,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "Claude-Sonnet-3.5",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "ProtectAI",
+    "model": "Claude-Sonnet-4.5",
+    "table": 10,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "Claude-Sonnet-4.5",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "ProtectAI",
+    "model": "Claude-Sonnet-4.5",
+    "table": 13,
+    "reported_overall": 1.11,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 3.33,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "Claude-Sonnet-4.5",
+      "1.11",
+      "0.00",
+      "3.33",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "ProtectAI",
+    "model": "Claude-Sonnet-4.5",
+    "table": 16,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "Claude-Sonnet-4.5",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "ProtectAI",
+    "model": "Qwen3 235B-A22B",
+    "table": 10,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "Qwen3 235B-A22B",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "ProtectAI",
+    "model": "Qwen3 235B-A22B",
+    "table": 13,
+    "reported_overall": 0.74,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 2.22,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "Qwen3 235B-A22B",
+      "0.74",
+      "0.00",
+      "2.22",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "ProtectAI",
+    "model": "Qwen3 235B-A22B",
+    "table": 16,
+    "reported_overall": 1.07,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 2.22,
+      "Dailylife": 1.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "Qwen3 235B-A22B",
+      "1.07",
+      "0.00",
+      "2.22",
+      "1.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "ProtectAI",
+    "model": "Llama 3.3 70B",
+    "table": 10,
+    "reported_overall": 1.67,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 5.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "Llama 3.3 70B",
+      "1.67",
+      "0.00",
+      "5.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "ProtectAI",
+    "model": "Llama 3.3 70B",
+    "table": 13,
+    "reported_overall": 1.11,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 3.33,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "Llama 3.3 70B",
+      "1.11",
+      "0.00",
+      "3.33",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "ProtectAI",
+    "model": "Llama 3.3 70B",
+    "table": 16,
+    "reported_overall": 0.56,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 1.67,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "Llama 3.3 70B",
+      "0.56",
+      "0.00",
+      "1.67",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "ProtectAI",
+    "model": "Qwen3-Coder",
+    "table": 10,
+    "reported_overall": 1.67,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 5.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "Qwen3-Coder",
+      "1.67",
+      "0.00",
+      "5.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "ProtectAI",
+    "model": "Qwen3-Coder",
+    "table": 13,
+    "reported_overall": 0.74,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 2.22,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "Qwen3-Coder",
+      "0.74",
+      "0.00",
+      "2.22",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "ProtectAI",
+    "model": "Qwen3-Coder",
+    "table": 16,
+    "reported_overall": 0.89,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 1.67,
+      "Dailylife": 1.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "Qwen3-Coder",
+      "0.89",
+      "0.00",
+      "1.67",
+      "1.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "ProtectAI",
+    "model": "Kimi-K2.5",
+    "table": 10,
+    "reported_overall": 1.67,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 5.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "Kimi-K2.5",
+      "1.67",
+      "0.00",
+      "5.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "ProtectAI",
+    "model": "Kimi-K2.5",
+    "table": 13,
+    "reported_overall": 0.37,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 1.11,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "Kimi-K2.5",
+      "0.37",
+      "0.00",
+      "1.11",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "ProtectAI",
+    "model": "Kimi-K2.5",
+    "table": 16,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "ProtectAI",
+      "Kimi-K2.5",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "PIGuard",
+    "model": "GPT-4o mini",
+    "table": 10,
+    "reported_overall": 16.67,
+    "suites": {
+      "Shopping": 20.0,
+      "Github": 20.0,
+      "Dailylife": 10.0
+    },
+    "source_cells": [
+      "PIGuard",
+      "GPT-4o mini",
+      "16.67",
+      "20.00",
+      "20.00",
+      "10.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "PIGuard",
+    "model": "GPT-4o mini",
+    "table": 13,
+    "reported_overall": 3.26,
+    "suites": {
+      "Shopping": 3.89,
+      "Github": 3.89,
+      "Dailylife": 2.0
+    },
+    "source_cells": [
+      "PIGuard",
+      "GPT-4o mini",
+      "3.26",
+      "3.89",
+      "3.89",
+      "2.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "PIGuard",
+    "model": "GPT-4o mini",
+    "table": 16,
+    "reported_overall": 1.33,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 4.0
+    },
+    "source_cells": [
+      "PIGuard",
+      "GPT-4o mini",
+      "1.33",
+      "0.00",
+      "0.00",
+      "4.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "PIGuard",
+    "model": "GPT-4o",
+    "table": 10,
+    "reported_overall": 10.0,
+    "suites": {
+      "Shopping": 5.0,
+      "Github": 10.0,
+      "Dailylife": 15.0
+    },
+    "source_cells": [
+      "PIGuard",
+      "GPT-4o",
+      "10.00",
+      "5.00",
+      "10.00",
+      "15.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "PIGuard",
+    "model": "GPT-4o",
+    "table": 13,
+    "reported_overall": 1.46,
+    "suites": {
+      "Shopping": 2.78,
+      "Github": 1.11,
+      "Dailylife": 0.5
+    },
+    "source_cells": [
+      "PIGuard",
+      "GPT-4o",
+      "1.46",
+      "2.78",
+      "1.11",
+      "0.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "PIGuard",
+    "model": "GPT-4o",
+    "table": 16,
+    "reported_overall": 1.67,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 5.0
+    },
+    "source_cells": [
+      "PIGuard",
+      "GPT-4o",
+      "1.67",
+      "0.00",
+      "0.00",
+      "5.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "PIGuard",
+    "model": "GPT-5.1",
+    "table": 10,
+    "reported_overall": 11.67,
+    "suites": {
+      "Shopping": 5.0,
+      "Github": 5.0,
+      "Dailylife": 25.0
+    },
+    "source_cells": [
+      "PIGuard",
+      "GPT-5.1",
+      "11.67",
+      "5.00",
+      "5.00",
+      "25.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "PIGuard",
+    "model": "GPT-5.1",
+    "table": 13,
+    "reported_overall": 2.72,
+    "suites": {
+      "Shopping": 2.22,
+      "Github": 4.44,
+      "Dailylife": 1.5
+    },
+    "source_cells": [
+      "PIGuard",
+      "GPT-5.1",
+      "2.72",
+      "2.22",
+      "4.44",
+      "1.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "PIGuard",
+    "model": "GPT-5.1",
+    "table": 16,
+    "reported_overall": 1.17,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 3.5
+    },
+    "source_cells": [
+      "PIGuard",
+      "GPT-5.1",
+      "1.17",
+      "0.00",
+      "0.00",
+      "3.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "PIGuard",
+    "model": "GPT-5-mini",
+    "table": 10,
+    "reported_overall": 18.33,
+    "suites": {
+      "Shopping": 25.0,
+      "Github": 10.0,
+      "Dailylife": 20.0
+    },
+    "source_cells": [
+      "PIGuard",
+      "GPT-5-mini",
+      "18.33",
+      "25.00",
+      "10.00",
+      "20.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "PIGuard",
+    "model": "GPT-5-mini",
+    "table": 13,
+    "reported_overall": 7.35,
+    "suites": {
+      "Shopping": 7.78,
+      "Github": 12.78,
+      "Dailylife": 1.5
+    },
+    "source_cells": [
+      "PIGuard",
+      "GPT-5-mini",
+      "7.35",
+      "7.78",
+      "12.78",
+      "1.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "PIGuard",
+    "model": "GPT-5-mini",
+    "table": 16,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "PIGuard",
+      "GPT-5-mini",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "PIGuard",
+    "model": "Gemini-2.5 Pro",
+    "table": 10,
+    "reported_overall": 11.67,
+    "suites": {
+      "Shopping": 5.0,
+      "Github": 15.0,
+      "Dailylife": 15.0
+    },
+    "source_cells": [
+      "PIGuard",
+      "Gemini-2.5 Pro",
+      "11.67",
+      "5.00",
+      "15.00",
+      "15.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "PIGuard",
+    "model": "Gemini-2.5 Pro",
+    "table": 13,
+    "reported_overall": 2.17,
+    "suites": {
+      "Shopping": 2.22,
+      "Github": 2.78,
+      "Dailylife": 1.5
+    },
+    "source_cells": [
+      "PIGuard",
+      "Gemini-2.5 Pro",
+      "2.17",
+      "2.22",
+      "2.78",
+      "1.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "PIGuard",
+    "model": "Gemini-2.5 Pro",
+    "table": 16,
+    "reported_overall": 1.83,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 5.5
+    },
+    "source_cells": [
+      "PIGuard",
+      "Gemini-2.5 Pro",
+      "1.83",
+      "0.00",
+      "0.00",
+      "5.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "PIGuard",
+    "model": "Gemini-2.5 Flash",
+    "table": 10,
+    "reported_overall": 8.33,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 5.0,
+      "Dailylife": 20.0
+    },
+    "source_cells": [
+      "PIGuard",
+      "Gemini-2.5 Flash",
+      "8.33",
+      "0.00",
+      "5.00",
+      "20.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "PIGuard",
+    "model": "Gemini-2.5 Flash",
+    "table": 13,
+    "reported_overall": 1.83,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 5.0,
+      "Dailylife": 0.5
+    },
+    "source_cells": [
+      "PIGuard",
+      "Gemini-2.5 Flash",
+      "1.83",
+      "0.00",
+      "5.00",
+      "0.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "PIGuard",
+    "model": "Gemini-2.5 Flash",
+    "table": 16,
+    "reported_overall": 2.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 6.0
+    },
+    "source_cells": [
+      "PIGuard",
+      "Gemini-2.5 Flash",
+      "2.00",
+      "0.00",
+      "0.00",
+      "6.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "PIGuard",
+    "model": "Claude-Sonnet-3.5",
+    "table": 10,
+    "reported_overall": 11.67,
+    "suites": {
+      "Shopping": 5.0,
+      "Github": 10.0,
+      "Dailylife": 20.0
+    },
+    "source_cells": [
+      "PIGuard",
+      "Claude-Sonnet-3.5",
+      "11.67",
+      "5.00",
+      "10.00",
+      "20.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "PIGuard",
+    "model": "Claude-Sonnet-3.5",
+    "table": 13,
+    "reported_overall": 2.93,
+    "suites": {
+      "Shopping": 0.56,
+      "Github": 7.22,
+      "Dailylife": 1.0
+    },
+    "source_cells": [
+      "PIGuard",
+      "Claude-Sonnet-3.5",
+      "2.93",
+      "0.56",
+      "7.22",
+      "1.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "PIGuard",
+    "model": "Claude-Sonnet-3.5",
+    "table": 16,
+    "reported_overall": 1.33,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 4.0
+    },
+    "source_cells": [
+      "PIGuard",
+      "Claude-Sonnet-3.5",
+      "1.33",
+      "0.00",
+      "0.00",
+      "4.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "PIGuard",
+    "model": "Claude-Sonnet-4.5",
+    "table": 10,
+    "reported_overall": 13.33,
+    "suites": {
+      "Shopping": 5.0,
+      "Github": 10.0,
+      "Dailylife": 25.0
+    },
+    "source_cells": [
+      "PIGuard",
+      "Claude-Sonnet-4.5",
+      "13.33",
+      "5.00",
+      "10.00",
+      "25.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "PIGuard",
+    "model": "Claude-Sonnet-4.5",
+    "table": 13,
+    "reported_overall": 2.17,
+    "suites": {
+      "Shopping": 5.0,
+      "Github": 0.0,
+      "Dailylife": 1.5
+    },
+    "source_cells": [
+      "PIGuard",
+      "Claude-Sonnet-4.5",
+      "2.17",
+      "5.00",
+      "0.00",
+      "1.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "PIGuard",
+    "model": "Claude-Sonnet-4.5",
+    "table": 16,
+    "reported_overall": 0.67,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 2.0
+    },
+    "source_cells": [
+      "PIGuard",
+      "Claude-Sonnet-4.5",
+      "0.67",
+      "0.00",
+      "0.00",
+      "2.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "PIGuard",
+    "model": "Qwen3 235B-A22B",
+    "table": 10,
+    "reported_overall": 1.67,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 5.0
+    },
+    "source_cells": [
+      "PIGuard",
+      "Qwen3 235B-A22B",
+      "1.67",
+      "0.00",
+      "0.00",
+      "5.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "PIGuard",
+    "model": "Qwen3 235B-A22B",
+    "table": 13,
+    "reported_overall": 0.7,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 1.1,
+      "Dailylife": 1.0
+    },
+    "source_cells": [
+      "PIGuard",
+      "Qwen3 235B-A22B",
+      "0.70",
+      "0.00",
+      "1.10",
+      "1.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "PIGuard",
+    "model": "Qwen3 235B-A22B",
+    "table": 16,
+    "reported_overall": 1.83,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 5.5
+    },
+    "source_cells": [
+      "PIGuard",
+      "Qwen3 235B-A22B",
+      "1.83",
+      "0.00",
+      "0.00",
+      "5.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "PIGuard",
+    "model": "Llama 3.3 70B",
+    "table": 10,
+    "reported_overall": 3.33,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 10.0
+    },
+    "source_cells": [
+      "PIGuard",
+      "Llama 3.3 70B",
+      "3.33",
+      "0.00",
+      "0.00",
+      "10.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "PIGuard",
+    "model": "Llama 3.3 70B",
+    "table": 13,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "PIGuard",
+      "Llama 3.3 70B",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "PIGuard",
+    "model": "Llama 3.3 70B",
+    "table": 16,
+    "reported_overall": 0.67,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 2.0
+    },
+    "source_cells": [
+      "PIGuard",
+      "Llama 3.3 70B",
+      "0.67",
+      "0.00",
+      "0.00",
+      "2.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "PIGuard",
+    "model": "Qwen3-Coder",
+    "table": 10,
+    "reported_overall": 6.67,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 5.0,
+      "Dailylife": 15.0
+    },
+    "source_cells": [
+      "PIGuard",
+      "Qwen3-Coder",
+      "6.67",
+      "0.00",
+      "5.00",
+      "15.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "PIGuard",
+    "model": "Qwen3-Coder",
+    "table": 13,
+    "reported_overall": 0.52,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.56,
+      "Dailylife": 1.0
+    },
+    "source_cells": [
+      "PIGuard",
+      "Qwen3-Coder",
+      "0.52",
+      "0.00",
+      "0.56",
+      "1.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "PIGuard",
+    "model": "Qwen3-Coder",
+    "table": 16,
+    "reported_overall": 1.67,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 5.0
+    },
+    "source_cells": [
+      "PIGuard",
+      "Qwen3-Coder",
+      "1.67",
+      "0.00",
+      "0.00",
+      "5.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "PIGuard",
+    "model": "Kimi-K2.5",
+    "table": 10,
+    "reported_overall": 8.33,
+    "suites": {
+      "Shopping": 5.0,
+      "Github": 10.0,
+      "Dailylife": 10.0
+    },
+    "source_cells": [
+      "PIGuard",
+      "Kimi-K2.5",
+      "8.33",
+      "5.00",
+      "10.00",
+      "10.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "PIGuard",
+    "model": "Kimi-K2.5",
+    "table": 13,
+    "reported_overall": 4.57,
+    "suites": {
+      "Shopping": 8.89,
+      "Github": 3.33,
+      "Dailylife": 1.5
+    },
+    "source_cells": [
+      "PIGuard",
+      "Kimi-K2.5",
+      "4.57",
+      "8.89",
+      "3.33",
+      "1.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "PIGuard",
+    "model": "Kimi-K2.5",
+    "table": 16,
+    "reported_overall": 0.83,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 2.5
+    },
+    "source_cells": [
+      "PIGuard",
+      "Kimi-K2.5",
+      "0.83",
+      "0.00",
+      "0.00",
+      "2.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "PromptGuard2",
+    "model": "GPT-4o mini",
+    "table": 10,
+    "reported_overall": 30.0,
+    "suites": {
+      "Shopping": 30.0,
+      "Github": 20.0,
+      "Dailylife": 40.0
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "GPT-4o mini",
+      "30.00",
+      "30.00",
+      "20.00",
+      "40.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "PromptGuard2",
+    "model": "GPT-4o mini",
+    "table": 13,
+    "reported_overall": 13.7,
+    "suites": {
+      "Shopping": 12.22,
+      "Github": 3.89,
+      "Dailylife": 25.0
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "GPT-4o mini",
+      "13.70",
+      "12.22",
+      "3.89",
+      "25.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "PromptGuard2",
+    "model": "GPT-4o mini",
+    "table": 16,
+    "reported_overall": 28.54,
+    "suites": {
+      "Shopping": 6.11,
+      "Github": 0.0,
+      "Dailylife": 79.5
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "GPT-4o mini",
+      "28.54",
+      "6.11",
+      "0.00",
+      "79.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "PromptGuard2",
+    "model": "GPT-4o",
+    "table": 10,
+    "reported_overall": 60.0,
+    "suites": {
+      "Shopping": 50.0,
+      "Github": 70.0,
+      "Dailylife": 60.0
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "GPT-4o",
+      "60.00",
+      "50.00",
+      "70.00",
+      "60.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "PromptGuard2",
+    "model": "GPT-4o",
+    "table": 13,
+    "reported_overall": 20.8,
+    "suites": {
+      "Shopping": 6.11,
+      "Github": 17.78,
+      "Dailylife": 38.5
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "GPT-4o",
+      "20.80",
+      "6.11",
+      "17.78",
+      "38.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "PromptGuard2",
+    "model": "GPT-4o",
+    "table": 16,
+    "reported_overall": 27.15,
+    "suites": {
+      "Shopping": 9.44,
+      "Github": 10.0,
+      "Dailylife": 62.0
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "GPT-4o",
+      "27.15",
+      "9.44",
+      "10.00",
+      "62.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "PromptGuard2",
+    "model": "GPT-5.1",
+    "table": 10,
+    "reported_overall": 55.0,
+    "suites": {
+      "Shopping": 30.0,
+      "Github": 70.0,
+      "Dailylife": 65.0
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "GPT-5.1",
+      "55.00",
+      "30.00",
+      "70.00",
+      "65.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "PromptGuard2",
+    "model": "GPT-5.1",
+    "table": 13,
+    "reported_overall": 22.26,
+    "suites": {
+      "Shopping": 7.22,
+      "Github": 15.56,
+      "Dailylife": 44.0
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "GPT-5.1",
+      "22.26",
+      "7.22",
+      "15.56",
+      "44.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "PromptGuard2",
+    "model": "GPT-5.1",
+    "table": 16,
+    "reported_overall": 3.71,
+    "suites": {
+      "Shopping": 0.56,
+      "Github": 0.56,
+      "Dailylife": 10.0
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "GPT-5.1",
+      "3.71",
+      "0.56",
+      "0.56",
+      "10.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "PromptGuard2",
+    "model": "GPT-5-mini",
+    "table": 10,
+    "reported_overall": 65.0,
+    "suites": {
+      "Shopping": 40.0,
+      "Github": 75.0,
+      "Dailylife": 80.0
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "GPT-5-mini",
+      "65.00",
+      "40.00",
+      "75.00",
+      "80.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "PromptGuard2",
+    "model": "GPT-5-mini",
+    "table": 13,
+    "reported_overall": 33.92,
+    "suites": {
+      "Shopping": 19.44,
+      "Github": 18.33,
+      "Dailylife": 64.0
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "GPT-5-mini",
+      "33.92",
+      "19.44",
+      "18.33",
+      "64.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "PromptGuard2",
+    "model": "GPT-5-mini",
+    "table": 16,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "GPT-5-mini",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "PromptGuard2",
+    "model": "Gemini-2.5 Pro",
+    "table": 10,
+    "reported_overall": 58.33,
+    "suites": {
+      "Shopping": 45.0,
+      "Github": 75.0,
+      "Dailylife": 55.0
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "Gemini-2.5 Pro",
+      "58.33",
+      "45.00",
+      "75.00",
+      "55.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "PromptGuard2",
+    "model": "Gemini-2.5 Pro",
+    "table": 13,
+    "reported_overall": 17.18,
+    "suites": {
+      "Shopping": 4.44,
+      "Github": 6.11,
+      "Dailylife": 41.0
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "Gemini-2.5 Pro",
+      "17.18",
+      "4.44",
+      "6.11",
+      "41.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "PromptGuard2",
+    "model": "Gemini-2.5 Pro",
+    "table": 16,
+    "reported_overall": 14.5,
+    "suites": {
+      "Shopping": 2.22,
+      "Github": 7.78,
+      "Dailylife": 33.5
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "Gemini-2.5 Pro",
+      "14.50",
+      "2.22",
+      "7.78",
+      "33.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "PromptGuard2",
+    "model": "Gemini-2.5 Flash",
+    "table": 10,
+    "reported_overall": 26.67,
+    "suites": {
+      "Shopping": 10.0,
+      "Github": 25.0,
+      "Dailylife": 45.0
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "Gemini-2.5 Flash",
+      "26.67",
+      "10.00",
+      "25.00",
+      "45.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "PromptGuard2",
+    "model": "Gemini-2.5 Flash",
+    "table": 13,
+    "reported_overall": 11.19,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 5.56,
+      "Dailylife": 28.0
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "Gemini-2.5 Flash",
+      "11.19",
+      "0.00",
+      "5.56",
+      "28.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "PromptGuard2",
+    "model": "Gemini-2.5 Flash",
+    "table": 16,
+    "reported_overall": 23.87,
+    "suites": {
+      "Shopping": 2.78,
+      "Github": 8.33,
+      "Dailylife": 60.5
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "Gemini-2.5 Flash",
+      "23.87",
+      "2.78",
+      "8.33",
+      "60.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "PromptGuard2",
+    "model": "Claude-Sonnet-3.5",
+    "table": 10,
+    "reported_overall": 56.67,
+    "suites": {
+      "Shopping": 45.0,
+      "Github": 70.0,
+      "Dailylife": 55.0
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "Claude-Sonnet-3.5",
+      "56.67",
+      "45.00",
+      "70.00",
+      "55.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "PromptGuard2",
+    "model": "Claude-Sonnet-3.5",
+    "table": 13,
+    "reported_overall": 27.69,
+    "suites": {
+      "Shopping": 30.0,
+      "Github": 10.56,
+      "Dailylife": 42.5
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "Claude-Sonnet-3.5",
+      "27.69",
+      "30.00",
+      "10.56",
+      "42.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "PromptGuard2",
+    "model": "Claude-Sonnet-3.5",
+    "table": 16,
+    "reported_overall": 8.2,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 6.11,
+      "Dailylife": 18.5
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "Claude-Sonnet-3.5",
+      "8.20",
+      "0.00",
+      "6.11",
+      "18.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "PromptGuard2",
+    "model": "Claude-Sonnet-4.5",
+    "table": 10,
+    "reported_overall": 70.0,
+    "suites": {
+      "Shopping": 50.0,
+      "Github": 70.0,
+      "Dailylife": 90.0
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "Claude-Sonnet-4.5",
+      "70.00",
+      "50.00",
+      "70.00",
+      "90.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "PromptGuard2",
+    "model": "Claude-Sonnet-4.5",
+    "table": 13,
+    "reported_overall": 41.37,
+    "suites": {
+      "Shopping": 39.44,
+      "Github": 6.67,
+      "Dailylife": 78.0
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "Claude-Sonnet-4.5",
+      "41.37",
+      "39.44",
+      "6.67",
+      "78.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "PromptGuard2",
+    "model": "Claude-Sonnet-4.5",
+    "table": 16,
+    "reported_overall": 0.67,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 2.0
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "Claude-Sonnet-4.5",
+      "0.67",
+      "0.00",
+      "0.00",
+      "2.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "PromptGuard2",
+    "model": "Qwen3 235B-A22B",
+    "table": 10,
+    "reported_overall": 15.0,
+    "suites": {
+      "Shopping": 5.0,
+      "Github": 10.0,
+      "Dailylife": 30.0
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "Qwen3 235B-A22B",
+      "15.00",
+      "5.00",
+      "10.00",
+      "30.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "PromptGuard2",
+    "model": "Qwen3 235B-A22B",
+    "table": 13,
+    "reported_overall": 10.5,
+    "suites": {
+      "Shopping": 2.78,
+      "Github": 7.22,
+      "Dailylife": 21.5
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "Qwen3 235B-A22B",
+      "10.50",
+      "2.78",
+      "7.22",
+      "21.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "PromptGuard2",
+    "model": "Qwen3 235B-A22B",
+    "table": 16,
+    "reported_overall": 22.0,
+    "suites": {
+      "Shopping": 8.89,
+      "Github": 16.11,
+      "Dailylife": 41.0
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "Qwen3 235B-A22B",
+      "22.00",
+      "8.89",
+      "16.11",
+      "41.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "PromptGuard2",
+    "model": "Llama 3.3 70B",
+    "table": 10,
+    "reported_overall": 8.33,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 5.0,
+      "Dailylife": 20.0
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "Llama 3.3 70B",
+      "8.33",
+      "0.00",
+      "5.00",
+      "20.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "PromptGuard2",
+    "model": "Llama 3.3 70B",
+    "table": 13,
+    "reported_overall": 6.44,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 3.33,
+      "Dailylife": 16.0
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "Llama 3.3 70B",
+      "6.44",
+      "0.00",
+      "3.33",
+      "16.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "PromptGuard2",
+    "model": "Llama 3.3 70B",
+    "table": 16,
+    "reported_overall": 11.07,
+    "suites": {
+      "Shopping": 2.78,
+      "Github": 4.44,
+      "Dailylife": 26.0
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "Llama 3.3 70B",
+      "11.07",
+      "2.78",
+      "4.44",
+      "26.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "PromptGuard2",
+    "model": "Qwen3-Coder",
+    "table": 10,
+    "reported_overall": 23.33,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 30.0,
+      "Dailylife": 40.0
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "Qwen3-Coder",
+      "23.33",
+      "0.00",
+      "30.00",
+      "40.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "PromptGuard2",
+    "model": "Qwen3-Coder",
+    "table": 13,
+    "reported_overall": 8.13,
+    "suites": {
+      "Shopping": 0.56,
+      "Github": 8.33,
+      "Dailylife": 15.5
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "Qwen3-Coder",
+      "8.13",
+      "0.56",
+      "8.33",
+      "15.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "PromptGuard2",
+    "model": "Qwen3-Coder",
+    "table": 16,
+    "reported_overall": 12.17,
+    "suites": {
+      "Shopping": 2.22,
+      "Github": 12.78,
+      "Dailylife": 21.5
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "Qwen3-Coder",
+      "12.17",
+      "2.22",
+      "12.78",
+      "21.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "PromptGuard2",
+    "model": "Kimi-K2.5",
+    "table": 10,
+    "reported_overall": 48.33,
+    "suites": {
+      "Shopping": 20.0,
+      "Github": 70.0,
+      "Dailylife": 55.0
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "Kimi-K2.5",
+      "48.33",
+      "20.00",
+      "70.00",
+      "55.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "PromptGuard2",
+    "model": "Kimi-K2.5",
+    "table": 13,
+    "reported_overall": 30.15,
+    "suites": {
+      "Shopping": 26.67,
+      "Github": 12.78,
+      "Dailylife": 51.0
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "Kimi-K2.5",
+      "30.15",
+      "26.67",
+      "12.78",
+      "51.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "PromptGuard2",
+    "model": "Kimi-K2.5",
+    "table": 16,
+    "reported_overall": 5.24,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 7.22,
+      "Dailylife": 8.5
+    },
+    "source_cells": [
+      "PromptGuard2",
+      "Kimi-K2.5",
+      "5.24",
+      "0.00",
+      "7.22",
+      "8.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Meta-SecAlign",
+    "model": "Meta-SecAlign 8B",
+    "table": 10,
+    "reported_overall": 5.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 15.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "Meta-SecAlign",
+      "Meta-SecAlign 8B",
+      "5.00",
+      "0.00",
+      "15.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Meta-SecAlign",
+    "model": "Meta-SecAlign 8B",
+    "table": 13,
+    "reported_overall": 7.22,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 11.67,
+      "Dailylife": 10.0
+    },
+    "source_cells": [
+      "Meta-SecAlign",
+      "Meta-SecAlign 8B",
+      "7.22",
+      "0.00",
+      "11.67",
+      "10.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Meta-SecAlign",
+    "model": "Meta-SecAlign 8B",
+    "table": 16,
+    "reported_overall": 5.26,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 2.78,
+      "Dailylife": 13.0
+    },
+    "source_cells": [
+      "Meta-SecAlign",
+      "Meta-SecAlign 8B",
+      "5.26",
+      "0.00",
+      "2.78",
+      "13.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Meta-SecAlign",
+    "model": "Meta-SecAlign 70B",
+    "table": 10,
+    "reported_overall": 55.0,
+    "suites": {
+      "Shopping": 40.0,
+      "Github": 55.0,
+      "Dailylife": 70.0
+    },
+    "source_cells": [
+      "Meta-SecAlign",
+      "Meta-SecAlign 70B",
+      "55.00",
+      "40.00",
+      "55.00",
+      "70.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Meta-SecAlign",
+    "model": "Meta-SecAlign 70B",
+    "table": 13,
+    "reported_overall": 53.35,
+    "suites": {
+      "Shopping": 41.67,
+      "Github": 48.89,
+      "Dailylife": 69.5
+    },
+    "source_cells": [
+      "Meta-SecAlign",
+      "Meta-SecAlign 70B",
+      "53.35",
+      "41.67",
+      "48.89",
+      "69.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Meta-SecAlign",
+    "model": "Meta-SecAlign 70B",
+    "table": 16,
+    "reported_overall": 8.98,
+    "suites": {
+      "Shopping": 10.0,
+      "Github": 4.44,
+      "Dailylife": 12.5
+    },
+    "source_cells": [
+      "Meta-SecAlign",
+      "Meta-SecAlign 70B",
+      "8.98",
+      "10.00",
+      "4.44",
+      "12.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Tool Filter",
+    "model": "GPT-4o mini",
+    "table": 11,
+    "reported_overall": 6.67,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 10.0,
+      "Dailylife": 10.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "GPT-4o mini",
+      "6.67",
+      "0.00",
+      "10.00",
+      "10.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Tool Filter",
+    "model": "GPT-4o mini",
+    "table": 14,
+    "reported_overall": 4.8,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 8.89,
+      "Dailylife": 5.5
+    },
+    "source_cells": [
+      "Tool Filter",
+      "GPT-4o mini",
+      "4.80",
+      "0.00",
+      "8.89",
+      "5.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Tool Filter",
+    "model": "GPT-4o mini",
+    "table": 17,
+    "reported_overall": 6.15,
+    "suites": {
+      "Shopping": 0.56,
+      "Github": 3.89,
+      "Dailylife": 14.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "GPT-4o mini",
+      "6.15",
+      "0.56",
+      "3.89",
+      "14.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Tool Filter",
+    "model": "GPT-4o",
+    "table": 11,
+    "reported_overall": 8.33,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 15.0,
+      "Dailylife": 10.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "GPT-4o",
+      "8.33",
+      "0.00",
+      "15.00",
+      "10.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Tool Filter",
+    "model": "GPT-4o",
+    "table": 14,
+    "reported_overall": 4.91,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 7.22,
+      "Dailylife": 7.5
+    },
+    "source_cells": [
+      "Tool Filter",
+      "GPT-4o",
+      "4.91",
+      "0.00",
+      "7.22",
+      "7.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Tool Filter",
+    "model": "GPT-4o",
+    "table": 17,
+    "reported_overall": 4.22,
+    "suites": {
+      "Shopping": 0.56,
+      "Github": 1.11,
+      "Dailylife": 11.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "GPT-4o",
+      "4.22",
+      "0.56",
+      "1.11",
+      "11.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Tool Filter",
+    "model": "GPT-5.1",
+    "table": 11,
+    "reported_overall": 1.67,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 5.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "GPT-5.1",
+      "1.67",
+      "0.00",
+      "0.00",
+      "5.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Tool Filter",
+    "model": "GPT-5.1",
+    "table": 14,
+    "reported_overall": 3.67,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 10.0,
+      "Dailylife": 1.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "GPT-5.1",
+      "3.67",
+      "0.00",
+      "10.00",
+      "1.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Tool Filter",
+    "model": "GPT-5.1",
+    "table": 17,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "GPT-5.1",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Tool Filter",
+    "model": "GPT-5-mini",
+    "table": 11,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "GPT-5-mini",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Tool Filter",
+    "model": "GPT-5-mini",
+    "table": 14,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "GPT-5-mini",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Tool Filter",
+    "model": "GPT-5-mini",
+    "table": 17,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "GPT-5-mini",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Tool Filter",
+    "model": "Gemini-2.5 Pro",
+    "table": 11,
+    "reported_overall": 1.67,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 5.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "Gemini-2.5 Pro",
+      "1.67",
+      "0.00",
+      "5.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Tool Filter",
+    "model": "Gemini-2.5 Pro",
+    "table": 14,
+    "reported_overall": 0.93,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 2.78,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "Gemini-2.5 Pro",
+      "0.93",
+      "0.00",
+      "2.78",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Tool Filter",
+    "model": "Gemini-2.5 Pro",
+    "table": 17,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "Gemini-2.5 Pro",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Tool Filter",
+    "model": "Gemini-2.5 Flash",
+    "table": 11,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "Gemini-2.5 Flash",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Tool Filter",
+    "model": "Gemini-2.5 Flash",
+    "table": 14,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "Gemini-2.5 Flash",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Tool Filter",
+    "model": "Gemini-2.5 Flash",
+    "table": 17,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "Gemini-2.5 Flash",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Tool Filter",
+    "model": "Claude-Sonnet-3.5",
+    "table": 11,
+    "reported_overall": 1.67,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 5.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "Claude-Sonnet-3.5",
+      "1.67",
+      "0.00",
+      "0.00",
+      "5.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Tool Filter",
+    "model": "Claude-Sonnet-3.5",
+    "table": 14,
+    "reported_overall": 0.5,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 1.5
+    },
+    "source_cells": [
+      "Tool Filter",
+      "Claude-Sonnet-3.5",
+      "0.50",
+      "0.00",
+      "0.00",
+      "1.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Tool Filter",
+    "model": "Claude-Sonnet-3.5",
+    "table": 17,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "Claude-Sonnet-3.5",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Tool Filter",
+    "model": "Claude-Sonnet-4.5",
+    "table": 11,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "Claude-Sonnet-4.5",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Tool Filter",
+    "model": "Claude-Sonnet-4.5",
+    "table": 14,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "Claude-Sonnet-4.5",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Tool Filter",
+    "model": "Claude-Sonnet-4.5",
+    "table": 17,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "Claude-Sonnet-4.5",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Tool Filter",
+    "model": "Qwen3 235B-A22B",
+    "table": 11,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "Qwen3 235B-A22B",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Tool Filter",
+    "model": "Qwen3 235B-A22B",
+    "table": 14,
+    "reported_overall": 0.33,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 1.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "Qwen3 235B-A22B",
+      "0.33",
+      "0.00",
+      "0.00",
+      "1.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Tool Filter",
+    "model": "Qwen3 235B-A22B",
+    "table": 17,
+    "reported_overall": 0.33,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 1.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "Qwen3 235B-A22B",
+      "0.33",
+      "0.00",
+      "0.00",
+      "1.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Tool Filter",
+    "model": "Llama 3.3 70B",
+    "table": 11,
+    "reported_overall": 5.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 15.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "Llama 3.3 70B",
+      "5.00",
+      "0.00",
+      "0.00",
+      "15.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Tool Filter",
+    "model": "Llama 3.3 70B",
+    "table": 14,
+    "reported_overall": 4.65,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 4.44,
+      "Dailylife": 9.5
+    },
+    "source_cells": [
+      "Tool Filter",
+      "Llama 3.3 70B",
+      "4.65",
+      "0.00",
+      "4.44",
+      "9.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Tool Filter",
+    "model": "Llama 3.3 70B",
+    "table": 17,
+    "reported_overall": 2.52,
+    "suites": {
+      "Shopping": 0.56,
+      "Github": 0.0,
+      "Dailylife": 7.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "Llama 3.3 70B",
+      "2.52",
+      "0.56",
+      "0.00",
+      "7.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Tool Filter",
+    "model": "Qwen3-Coder",
+    "table": 11,
+    "reported_overall": 5.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 5.0,
+      "Dailylife": 10.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "Qwen3-Coder",
+      "5.00",
+      "0.00",
+      "5.00",
+      "10.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Tool Filter",
+    "model": "Qwen3-Coder",
+    "table": 14,
+    "reported_overall": 4.13,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 8.89,
+      "Dailylife": 3.5
+    },
+    "source_cells": [
+      "Tool Filter",
+      "Qwen3-Coder",
+      "4.13",
+      "0.00",
+      "8.89",
+      "3.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Tool Filter",
+    "model": "Qwen3-Coder",
+    "table": 17,
+    "reported_overall": 3.13,
+    "suites": {
+      "Shopping": 2.22,
+      "Github": 1.67,
+      "Dailylife": 5.5
+    },
+    "source_cells": [
+      "Tool Filter",
+      "Qwen3-Coder",
+      "3.13",
+      "2.22",
+      "1.67",
+      "5.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Tool Filter",
+    "model": "Kimi-K2.5",
+    "table": 11,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "Kimi-K2.5",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Tool Filter",
+    "model": "Kimi-K2.5",
+    "table": 14,
+    "reported_overall": 2.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 5.0,
+      "Dailylife": 1.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "Kimi-K2.5",
+      "2.00",
+      "0.00",
+      "5.00",
+      "1.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Tool Filter",
+    "model": "Kimi-K2.5",
+    "table": 17,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "Tool Filter",
+      "Kimi-K2.5",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "CaMeL",
+    "model": "GPT-4o mini",
+    "table": 11,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "GPT-4o mini",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "CaMeL",
+    "model": "GPT-4o mini",
+    "table": 14,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "GPT-4o mini",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "CaMeL",
+    "model": "GPT-4o mini",
+    "table": 17,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "GPT-4o mini",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "CaMeL",
+    "model": "GPT-4o",
+    "table": 11,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "GPT-4o",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "CaMeL",
+    "model": "GPT-4o",
+    "table": 14,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "GPT-4o",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "CaMeL",
+    "model": "GPT-4o",
+    "table": 17,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "GPT-4o",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "CaMeL",
+    "model": "GPT-5.1",
+    "table": 11,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "GPT-5.1",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "CaMeL",
+    "model": "GPT-5.1",
+    "table": 14,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "GPT-5.1",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "CaMeL",
+    "model": "GPT-5.1",
+    "table": 17,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "GPT-5.1",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "CaMeL",
+    "model": "GPT-5-mini",
+    "table": 11,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "GPT-5-mini",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "CaMeL",
+    "model": "GPT-5-mini",
+    "table": 14,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "GPT-5-mini",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "CaMeL",
+    "model": "GPT-5-mini",
+    "table": 17,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "GPT-5-mini",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "CaMeL",
+    "model": "Gemini-2.5 Pro",
+    "table": 11,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "Gemini-2.5 Pro",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "CaMeL",
+    "model": "Gemini-2.5 Pro",
+    "table": 14,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "Gemini-2.5 Pro",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "CaMeL",
+    "model": "Gemini-2.5 Pro",
+    "table": 17,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "Gemini-2.5 Pro",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "CaMeL",
+    "model": "Gemini-2.5 Flash",
+    "table": 11,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "Gemini-2.5 Flash",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "CaMeL",
+    "model": "Gemini-2.5 Flash",
+    "table": 14,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "Gemini-2.5 Flash",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "CaMeL",
+    "model": "Gemini-2.5 Flash",
+    "table": 17,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "Gemini-2.5 Flash",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "CaMeL",
+    "model": "Claude-Sonnet-3.5",
+    "table": 11,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "Claude-Sonnet-3.5",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "CaMeL",
+    "model": "Claude-Sonnet-3.5",
+    "table": 14,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "Claude-Sonnet-3.5",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "CaMeL",
+    "model": "Claude-Sonnet-3.5",
+    "table": 17,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "Claude-Sonnet-3.5",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "CaMeL",
+    "model": "Claude-Sonnet-4.5",
+    "table": 11,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "Claude-Sonnet-4.5",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "CaMeL",
+    "model": "Claude-Sonnet-4.5",
+    "table": 14,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "Claude-Sonnet-4.5",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "CaMeL",
+    "model": "Claude-Sonnet-4.5",
+    "table": 17,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "Claude-Sonnet-4.5",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "CaMeL",
+    "model": "Qwen3 235B-A22B",
+    "table": 11,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "Qwen3 235B-A22B",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "CaMeL",
+    "model": "Qwen3 235B-A22B",
+    "table": 14,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "Qwen3 235B-A22B",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "CaMeL",
+    "model": "Qwen3 235B-A22B",
+    "table": 17,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "Qwen3 235B-A22B",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "CaMeL",
+    "model": "Llama 3.3 70B",
+    "table": 11,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "Llama 3.3 70B",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "CaMeL",
+    "model": "Llama 3.3 70B",
+    "table": 14,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "Llama 3.3 70B",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "CaMeL",
+    "model": "Llama 3.3 70B",
+    "table": 17,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "Llama 3.3 70B",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "CaMeL",
+    "model": "Qwen3-Coder",
+    "table": 11,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "Qwen3-Coder",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "CaMeL",
+    "model": "Qwen3-Coder",
+    "table": 14,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "Qwen3-Coder",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "CaMeL",
+    "model": "Qwen3-Coder",
+    "table": 17,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "Qwen3-Coder",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "CaMeL",
+    "model": "Kimi-K2.5",
+    "table": 11,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "Kimi-K2.5",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "CaMeL",
+    "model": "Kimi-K2.5",
+    "table": 14,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "Kimi-K2.5",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "CaMeL",
+    "model": "Kimi-K2.5",
+    "table": 17,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "CaMeL",
+      "Kimi-K2.5",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Progent",
+    "model": "GPT-4o mini",
+    "table": 11,
+    "reported_overall": 6.67,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 15.0,
+      "Dailylife": 5.0
+    },
+    "source_cells": [
+      "Progent",
+      "GPT-4o mini",
+      "6.67",
+      "0.00",
+      "15.00",
+      "5.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Progent",
+    "model": "GPT-4o mini",
+    "table": 14,
+    "reported_overall": 3.83,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 10.0,
+      "Dailylife": 1.5
+    },
+    "source_cells": [
+      "Progent",
+      "GPT-4o mini",
+      "3.83",
+      "0.00",
+      "10.00",
+      "1.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Progent",
+    "model": "GPT-4o mini",
+    "table": 17,
+    "reported_overall": 10.33,
+    "suites": {
+      "Shopping": 3.33,
+      "Github": 6.67,
+      "Dailylife": 21.0
+    },
+    "source_cells": [
+      "Progent",
+      "GPT-4o mini",
+      "10.33",
+      "3.33",
+      "6.67",
+      "21.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Progent",
+    "model": "GPT-4o",
+    "table": 11,
+    "reported_overall": 6.67,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 15.0,
+      "Dailylife": 5.0
+    },
+    "source_cells": [
+      "Progent",
+      "GPT-4o",
+      "6.67",
+      "0.00",
+      "15.00",
+      "5.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Progent",
+    "model": "GPT-4o",
+    "table": 14,
+    "reported_overall": 5.83,
+    "suites": {
+      "Shopping": 0.56,
+      "Github": 14.44,
+      "Dailylife": 2.5
+    },
+    "source_cells": [
+      "Progent",
+      "GPT-4o",
+      "5.83",
+      "0.56",
+      "14.44",
+      "2.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Progent",
+    "model": "GPT-4o",
+    "table": 17,
+    "reported_overall": 1.69,
+    "suites": {
+      "Shopping": 0.56,
+      "Github": 0.0,
+      "Dailylife": 4.5
+    },
+    "source_cells": [
+      "Progent",
+      "GPT-4o",
+      "1.69",
+      "0.56",
+      "0.00",
+      "4.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Progent",
+    "model": "GPT-5.1",
+    "table": 11,
+    "reported_overall": 15.0,
+    "suites": {
+      "Shopping": 5.0,
+      "Github": 25.0,
+      "Dailylife": 15.0
+    },
+    "source_cells": [
+      "Progent",
+      "GPT-5.1",
+      "15.00",
+      "5.00",
+      "25.00",
+      "15.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Progent",
+    "model": "GPT-5.1",
+    "table": 14,
+    "reported_overall": 14.98,
+    "suites": {
+      "Shopping": 5.56,
+      "Github": 28.89,
+      "Dailylife": 10.5
+    },
+    "source_cells": [
+      "Progent",
+      "GPT-5.1",
+      "14.98",
+      "5.56",
+      "28.89",
+      "10.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Progent",
+    "model": "GPT-5.1",
+    "table": 17,
+    "reported_overall": 1.22,
+    "suites": {
+      "Shopping": 0.56,
+      "Github": 1.11,
+      "Dailylife": 2.0
+    },
+    "source_cells": [
+      "Progent",
+      "GPT-5.1",
+      "1.22",
+      "0.56",
+      "1.11",
+      "2.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Progent",
+    "model": "GPT-5-mini",
+    "table": 11,
+    "reported_overall": 23.33,
+    "suites": {
+      "Shopping": 5.0,
+      "Github": 35.0,
+      "Dailylife": 30.0
+    },
+    "source_cells": [
+      "Progent",
+      "GPT-5-mini",
+      "23.33",
+      "5.00",
+      "35.00",
+      "30.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Progent",
+    "model": "GPT-5-mini",
+    "table": 14,
+    "reported_overall": 17.63,
+    "suites": {
+      "Shopping": 11.67,
+      "Github": 27.22,
+      "Dailylife": 14.0
+    },
+    "source_cells": [
+      "Progent",
+      "GPT-5-mini",
+      "17.63",
+      "11.67",
+      "27.22",
+      "14.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Progent",
+    "model": "GPT-5-mini",
+    "table": 17,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "Progent",
+      "GPT-5-mini",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Progent",
+    "model": "Gemini-2.5 Pro",
+    "table": 11,
+    "reported_overall": 25.0,
+    "suites": {
+      "Shopping": 20.0,
+      "Github": 30.0,
+      "Dailylife": 25.0
+    },
+    "source_cells": [
+      "Progent",
+      "Gemini-2.5 Pro",
+      "25.00",
+      "20.00",
+      "30.00",
+      "25.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Progent",
+    "model": "Gemini-2.5 Pro",
+    "table": 14,
+    "reported_overall": 16.06,
+    "suites": {
+      "Shopping": 10.56,
+      "Github": 26.11,
+      "Dailylife": 11.5
+    },
+    "source_cells": [
+      "Progent",
+      "Gemini-2.5 Pro",
+      "16.06",
+      "10.56",
+      "26.11",
+      "11.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Progent",
+    "model": "Gemini-2.5 Pro",
+    "table": 17,
+    "reported_overall": 1.59,
+    "suites": {
+      "Shopping": 1.11,
+      "Github": 1.67,
+      "Dailylife": 2.0
+    },
+    "source_cells": [
+      "Progent",
+      "Gemini-2.5 Pro",
+      "1.59",
+      "1.11",
+      "1.67",
+      "2.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Progent",
+    "model": "Gemini-2.5 Flash",
+    "table": 11,
+    "reported_overall": 1.67,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 5.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "Progent",
+      "Gemini-2.5 Flash",
+      "1.67",
+      "0.00",
+      "5.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Progent",
+    "model": "Gemini-2.5 Flash",
+    "table": 14,
+    "reported_overall": 2.04,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 6.11,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "Progent",
+      "Gemini-2.5 Flash",
+      "2.04",
+      "0.00",
+      "6.11",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Progent",
+    "model": "Gemini-2.5 Flash",
+    "table": 17,
+    "reported_overall": 2.24,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 2.22,
+      "Dailylife": 4.5
+    },
+    "source_cells": [
+      "Progent",
+      "Gemini-2.5 Flash",
+      "2.24",
+      "0.00",
+      "2.22",
+      "4.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Progent",
+    "model": "Claude-Sonnet-3.5",
+    "table": 11,
+    "reported_overall": 13.33,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 25.0,
+      "Dailylife": 15.0
+    },
+    "source_cells": [
+      "Progent",
+      "Claude-Sonnet-3.5",
+      "13.33",
+      "0.00",
+      "25.00",
+      "15.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Progent",
+    "model": "Claude-Sonnet-3.5",
+    "table": 14,
+    "reported_overall": 10.63,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 23.89,
+      "Dailylife": 8.0
+    },
+    "source_cells": [
+      "Progent",
+      "Claude-Sonnet-3.5",
+      "10.63",
+      "0.00",
+      "23.89",
+      "8.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Progent",
+    "model": "Claude-Sonnet-3.5",
+    "table": 17,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "Progent",
+      "Claude-Sonnet-3.5",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Progent",
+    "model": "Claude-Sonnet-4.5",
+    "table": 11,
+    "reported_overall": 16.67,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 25.0,
+      "Dailylife": 25.0
+    },
+    "source_cells": [
+      "Progent",
+      "Claude-Sonnet-4.5",
+      "16.67",
+      "0.00",
+      "25.00",
+      "25.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Progent",
+    "model": "Claude-Sonnet-4.5",
+    "table": 14,
+    "reported_overall": 14.46,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 23.89,
+      "Dailylife": 19.5
+    },
+    "source_cells": [
+      "Progent",
+      "Claude-Sonnet-4.5",
+      "14.46",
+      "0.00",
+      "23.89",
+      "19.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Progent",
+    "model": "Claude-Sonnet-4.5",
+    "table": 17,
+    "reported_overall": 0.19,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.56,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "Progent",
+      "Claude-Sonnet-4.5",
+      "0.19",
+      "0.00",
+      "0.56",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Progent",
+    "model": "Qwen3 235B-A22B",
+    "table": 11,
+    "reported_overall": 8.33,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 5.0,
+      "Dailylife": 20.0
+    },
+    "source_cells": [
+      "Progent",
+      "Qwen3 235B-A22B",
+      "8.33",
+      "0.00",
+      "5.00",
+      "20.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Progent",
+    "model": "Qwen3 235B-A22B",
+    "table": 14,
+    "reported_overall": 2.19,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.56,
+      "Dailylife": 6.0
+    },
+    "source_cells": [
+      "Progent",
+      "Qwen3 235B-A22B",
+      "2.19",
+      "0.00",
+      "0.56",
+      "6.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Progent",
+    "model": "Qwen3 235B-A22B",
+    "table": 17,
+    "reported_overall": 13.59,
+    "suites": {
+      "Shopping": 4.44,
+      "Github": 8.33,
+      "Dailylife": 28.0
+    },
+    "source_cells": [
+      "Progent",
+      "Qwen3 235B-A22B",
+      "13.59",
+      "4.44",
+      "8.33",
+      "28.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Progent",
+    "model": "Llama 3.3 70B",
+    "table": 11,
+    "reported_overall": 3.33,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 5.0,
+      "Dailylife": 5.0
+    },
+    "source_cells": [
+      "Progent",
+      "Llama 3.3 70B",
+      "3.33",
+      "0.00",
+      "5.00",
+      "5.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Progent",
+    "model": "Llama 3.3 70B",
+    "table": 14,
+    "reported_overall": 2.28,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 3.33,
+      "Dailylife": 3.5
+    },
+    "source_cells": [
+      "Progent",
+      "Llama 3.3 70B",
+      "2.28",
+      "0.00",
+      "3.33",
+      "3.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Progent",
+    "model": "Llama 3.3 70B",
+    "table": 17,
+    "reported_overall": 0.52,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.56,
+      "Dailylife": 1.0
+    },
+    "source_cells": [
+      "Progent",
+      "Llama 3.3 70B",
+      "0.52",
+      "0.00",
+      "0.56",
+      "1.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Progent",
+    "model": "Qwen3-Coder",
+    "table": 11,
+    "reported_overall": 11.67,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 30.0,
+      "Dailylife": 5.0
+    },
+    "source_cells": [
+      "Progent",
+      "Qwen3-Coder",
+      "11.67",
+      "0.00",
+      "30.00",
+      "5.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Progent",
+    "model": "Qwen3-Coder",
+    "table": 14,
+    "reported_overall": 8.33,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 20.0,
+      "Dailylife": 5.0
+    },
+    "source_cells": [
+      "Progent",
+      "Qwen3-Coder",
+      "8.33",
+      "0.00",
+      "20.00",
+      "5.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Progent",
+    "model": "Qwen3-Coder",
+    "table": 17,
+    "reported_overall": 11.22,
+    "suites": {
+      "Shopping": 5.0,
+      "Github": 6.67,
+      "Dailylife": 22.0
+    },
+    "source_cells": [
+      "Progent",
+      "Qwen3-Coder",
+      "11.22",
+      "5.00",
+      "6.67",
+      "22.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "Progent",
+    "model": "Kimi-K2.5",
+    "table": 11,
+    "reported_overall": 28.33,
+    "suites": {
+      "Shopping": 5.0,
+      "Github": 40.0,
+      "Dailylife": 40.0
+    },
+    "source_cells": [
+      "Progent",
+      "Kimi-K2.5",
+      "28.33",
+      "5.00",
+      "40.00",
+      "40.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "Progent",
+    "model": "Kimi-K2.5",
+    "table": 14,
+    "reported_overall": 26.35,
+    "suites": {
+      "Shopping": 2.78,
+      "Github": 38.33,
+      "Dailylife": 37.93
+    },
+    "source_cells": [
+      "Progent",
+      "Kimi-K2.5",
+      "26.35",
+      "2.78",
+      "38.33",
+      "37.93"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "Progent",
+    "model": "Kimi-K2.5",
+    "table": 17,
+    "reported_overall": 0.19,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.56,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "Progent",
+      "Kimi-K2.5",
+      "0.19",
+      "0.00",
+      "0.56",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "DRIFT",
+    "model": "GPT-4o mini",
+    "table": 11,
+    "reported_overall": 18.33,
+    "suites": {
+      "Shopping": 10.0,
+      "Github": 35.0,
+      "Dailylife": 10.0
+    },
+    "source_cells": [
+      "DRIFT",
+      "GPT-4o mini",
+      "18.33",
+      "10.00",
+      "35.00",
+      "10.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "DRIFT",
+    "model": "GPT-4o mini",
+    "table": 14,
+    "reported_overall": 19.31,
+    "suites": {
+      "Shopping": 12.22,
+      "Github": 32.22,
+      "Dailylife": 13.5
+    },
+    "source_cells": [
+      "DRIFT",
+      "GPT-4o mini",
+      "19.31",
+      "12.22",
+      "32.22",
+      "13.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "DRIFT",
+    "model": "GPT-4o mini",
+    "table": 17,
+    "reported_overall": 3.39,
+    "suites": {
+      "Shopping": 1.11,
+      "Github": 0.56,
+      "Dailylife": 8.5
+    },
+    "source_cells": [
+      "DRIFT",
+      "GPT-4o mini",
+      "3.39",
+      "1.11",
+      "0.56",
+      "8.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "DRIFT",
+    "model": "GPT-4o",
+    "table": 11,
+    "reported_overall": 30.0,
+    "suites": {
+      "Shopping": 15.0,
+      "Github": 40.0,
+      "Dailylife": 35.0
+    },
+    "source_cells": [
+      "DRIFT",
+      "GPT-4o",
+      "30.00",
+      "15.00",
+      "40.00",
+      "35.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "DRIFT",
+    "model": "GPT-4o",
+    "table": 14,
+    "reported_overall": 27.09,
+    "suites": {
+      "Shopping": 19.44,
+      "Github": 33.33,
+      "Dailylife": 28.5
+    },
+    "source_cells": [
+      "DRIFT",
+      "GPT-4o",
+      "27.09",
+      "19.44",
+      "33.33",
+      "28.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "DRIFT",
+    "model": "GPT-4o",
+    "table": 17,
+    "reported_overall": 0.83,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 2.5
+    },
+    "source_cells": [
+      "DRIFT",
+      "GPT-4o",
+      "0.83",
+      "0.00",
+      "0.00",
+      "2.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "DRIFT",
+    "model": "GPT-5.1",
+    "table": 11,
+    "reported_overall": 1.67,
+    "suites": {
+      "Shopping": 5.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "DRIFT",
+      "GPT-5.1",
+      "1.67",
+      "5.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "DRIFT",
+    "model": "GPT-5.1",
+    "table": 14,
+    "reported_overall": 6.12,
+    "suites": {
+      "Shopping": 1.11,
+      "Github": 12.24,
+      "Dailylife": 5.0
+    },
+    "source_cells": [
+      "DRIFT",
+      "GPT-5.1",
+      "6.12",
+      "1.11",
+      "12.24",
+      "5.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "DRIFT",
+    "model": "GPT-5.1",
+    "table": 17,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "DRIFT",
+      "GPT-5.1",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "DRIFT",
+    "model": "GPT-5-mini",
+    "table": 11,
+    "reported_overall": 10.0,
+    "suites": {
+      "Shopping": 10.0,
+      "Github": 10.0,
+      "Dailylife": 10.0
+    },
+    "source_cells": [
+      "DRIFT",
+      "GPT-5-mini",
+      "10.00",
+      "10.00",
+      "10.00",
+      "10.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "DRIFT",
+    "model": "GPT-5-mini",
+    "table": 14,
+    "reported_overall": 17.17,
+    "suites": {
+      "Shopping": 18.89,
+      "Github": 21.11,
+      "Dailylife": 11.5
+    },
+    "source_cells": [
+      "DRIFT",
+      "GPT-5-mini",
+      "17.17",
+      "18.89",
+      "21.11",
+      "11.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "DRIFT",
+    "model": "GPT-5-mini",
+    "table": 17,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "DRIFT",
+      "GPT-5-mini",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "DRIFT",
+    "model": "Gemini-2.5 Pro",
+    "table": 11,
+    "reported_overall": 36.67,
+    "suites": {
+      "Shopping": 30.0,
+      "Github": 45.0,
+      "Dailylife": 35.0
+    },
+    "source_cells": [
+      "DRIFT",
+      "Gemini-2.5 Pro",
+      "36.67",
+      "30.00",
+      "45.00",
+      "35.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "DRIFT",
+    "model": "Gemini-2.5 Pro",
+    "table": 14,
+    "reported_overall": 33.04,
+    "suites": {
+      "Shopping": 24.44,
+      "Github": 36.67,
+      "Dailylife": 38.0
+    },
+    "source_cells": [
+      "DRIFT",
+      "Gemini-2.5 Pro",
+      "33.04",
+      "24.44",
+      "36.67",
+      "38.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "DRIFT",
+    "model": "Gemini-2.5 Pro",
+    "table": 17,
+    "reported_overall": 1.09,
+    "suites": {
+      "Shopping": 1.11,
+      "Github": 1.67,
+      "Dailylife": 0.5
+    },
+    "source_cells": [
+      "DRIFT",
+      "Gemini-2.5 Pro",
+      "1.09",
+      "1.11",
+      "1.67",
+      "0.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "DRIFT",
+    "model": "Gemini-2.5 Flash",
+    "table": 11,
+    "reported_overall": 18.33,
+    "suites": {
+      "Shopping": 10.0,
+      "Github": 25.0,
+      "Dailylife": 20.0
+    },
+    "source_cells": [
+      "DRIFT",
+      "Gemini-2.5 Flash",
+      "18.33",
+      "10.00",
+      "25.00",
+      "20.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "DRIFT",
+    "model": "Gemini-2.5 Flash",
+    "table": 14,
+    "reported_overall": 12.41,
+    "suites": {
+      "Shopping": 10.0,
+      "Github": 17.22,
+      "Dailylife": 10.0
+    },
+    "source_cells": [
+      "DRIFT",
+      "Gemini-2.5 Flash",
+      "12.41",
+      "10.00",
+      "17.22",
+      "10.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "DRIFT",
+    "model": "Gemini-2.5 Flash",
+    "table": 17,
+    "reported_overall": 2.82,
+    "suites": {
+      "Shopping": 3.89,
+      "Github": 0.56,
+      "Dailylife": 4.0
+    },
+    "source_cells": [
+      "DRIFT",
+      "Gemini-2.5 Flash",
+      "2.82",
+      "3.89",
+      "0.56",
+      "4.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "DRIFT",
+    "model": "Claude-Sonnet-3.5",
+    "table": 11,
+    "reported_overall": 33.33,
+    "suites": {
+      "Shopping": 15.0,
+      "Github": 35.0,
+      "Dailylife": 50.0
+    },
+    "source_cells": [
+      "DRIFT",
+      "Claude-Sonnet-3.5",
+      "33.33",
+      "15.00",
+      "35.00",
+      "50.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "DRIFT",
+    "model": "Claude-Sonnet-3.5",
+    "table": 14,
+    "reported_overall": 34.0,
+    "suites": {
+      "Shopping": 21.67,
+      "Github": 38.33,
+      "Dailylife": 42.0
+    },
+    "source_cells": [
+      "DRIFT",
+      "Claude-Sonnet-3.5",
+      "34.00",
+      "21.67",
+      "38.33",
+      "42.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "DRIFT",
+    "model": "Claude-Sonnet-3.5",
+    "table": 17,
+    "reported_overall": 3.09,
+    "suites": {
+      "Shopping": 1.67,
+      "Github": 1.11,
+      "Dailylife": 6.5
+    },
+    "source_cells": [
+      "DRIFT",
+      "Claude-Sonnet-3.5",
+      "3.09",
+      "1.67",
+      "1.11",
+      "6.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "DRIFT",
+    "model": "Claude-Sonnet-4.5",
+    "table": 11,
+    "reported_overall": 28.33,
+    "suites": {
+      "Shopping": 5.0,
+      "Github": 40.0,
+      "Dailylife": 40.0
+    },
+    "source_cells": [
+      "DRIFT",
+      "Claude-Sonnet-4.5",
+      "28.33",
+      "5.00",
+      "40.00",
+      "40.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "DRIFT",
+    "model": "Claude-Sonnet-4.5",
+    "table": 14,
+    "reported_overall": 27.19,
+    "suites": {
+      "Shopping": 2.78,
+      "Github": 42.78,
+      "Dailylife": 36.0
+    },
+    "source_cells": [
+      "DRIFT",
+      "Claude-Sonnet-4.5",
+      "27.19",
+      "2.78",
+      "42.78",
+      "36.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "DRIFT",
+    "model": "Claude-Sonnet-4.5",
+    "table": 17,
+    "reported_overall": 0.19,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.56,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "DRIFT",
+      "Claude-Sonnet-4.5",
+      "0.19",
+      "0.00",
+      "0.56",
+      "0.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "DRIFT",
+    "model": "Qwen3 235B-A22B",
+    "table": 11,
+    "reported_overall": 36.67,
+    "suites": {
+      "Shopping": 25.0,
+      "Github": 50.0,
+      "Dailylife": 35.0
+    },
+    "source_cells": [
+      "DRIFT",
+      "Qwen3 235B-A22B",
+      "36.67",
+      "25.00",
+      "50.00",
+      "35.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "DRIFT",
+    "model": "Qwen3 235B-A22B",
+    "table": 14,
+    "reported_overall": 33.19,
+    "suites": {
+      "Shopping": 27.78,
+      "Github": 42.78,
+      "Dailylife": 29.0
+    },
+    "source_cells": [
+      "DRIFT",
+      "Qwen3 235B-A22B",
+      "33.19",
+      "27.78",
+      "42.78",
+      "29.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "DRIFT",
+    "model": "Qwen3 235B-A22B",
+    "table": 17,
+    "reported_overall": 9.07,
+    "suites": {
+      "Shopping": 7.78,
+      "Github": 4.44,
+      "Dailylife": 15.0
+    },
+    "source_cells": [
+      "DRIFT",
+      "Qwen3 235B-A22B",
+      "9.07",
+      "7.78",
+      "4.44",
+      "15.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "DRIFT",
+    "model": "Llama 3.3 70B",
+    "table": 11,
+    "reported_overall": 11.67,
+    "suites": {
+      "Shopping": 10.0,
+      "Github": 20.0,
+      "Dailylife": 5.0
+    },
+    "source_cells": [
+      "DRIFT",
+      "Llama 3.3 70B",
+      "11.67",
+      "10.00",
+      "20.00",
+      "5.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "DRIFT",
+    "model": "Llama 3.3 70B",
+    "table": 14,
+    "reported_overall": 8.96,
+    "suites": {
+      "Shopping": 5.56,
+      "Github": 18.33,
+      "Dailylife": 3.0
+    },
+    "source_cells": [
+      "DRIFT",
+      "Llama 3.3 70B",
+      "8.96",
+      "5.56",
+      "18.33",
+      "3.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "DRIFT",
+    "model": "Llama 3.3 70B",
+    "table": 17,
+    "reported_overall": 5.89,
+    "suites": {
+      "Shopping": 5.0,
+      "Github": 1.67,
+      "Dailylife": 11.0
+    },
+    "source_cells": [
+      "DRIFT",
+      "Llama 3.3 70B",
+      "5.89",
+      "5.00",
+      "1.67",
+      "11.00"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "DRIFT",
+    "model": "Qwen3-Coder",
+    "table": 11,
+    "reported_overall": 20.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 40.0,
+      "Dailylife": 20.0
+    },
+    "source_cells": [
+      "DRIFT",
+      "Qwen3-Coder",
+      "20.00",
+      "0.00",
+      "40.00",
+      "20.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "DRIFT",
+    "model": "Qwen3-Coder",
+    "table": 14,
+    "reported_overall": 19.98,
+    "suites": {
+      "Shopping": 2.22,
+      "Github": 37.22,
+      "Dailylife": 20.5
+    },
+    "source_cells": [
+      "DRIFT",
+      "Qwen3-Coder",
+      "19.98",
+      "2.22",
+      "37.22",
+      "20.50"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "DRIFT",
+    "model": "Qwen3-Coder",
+    "table": 17,
+    "reported_overall": 0.69,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.56,
+      "Dailylife": 1.5
+    },
+    "source_cells": [
+      "DRIFT",
+      "Qwen3-Coder",
+      "0.69",
+      "0.00",
+      "0.56",
+      "1.50"
+    ]
+  },
+  {
+    "metric": "clean",
+    "defense": "DRIFT",
+    "model": "Kimi-K2.5",
+    "table": 11,
+    "reported_overall": 20.0,
+    "suites": {
+      "Shopping": 5.0,
+      "Github": 35.0,
+      "Dailylife": 20.0
+    },
+    "source_cells": [
+      "DRIFT",
+      "Kimi-K2.5",
+      "20.00",
+      "5.00",
+      "35.00",
+      "20.00"
+    ]
+  },
+  {
+    "metric": "utility",
+    "defense": "DRIFT",
+    "model": "Kimi-K2.5",
+    "table": 14,
+    "reported_overall": 22.44,
+    "suites": {
+      "Shopping": 18.33,
+      "Github": 25.33,
+      "Dailylife": 24.0
+    },
+    "source_cells": [
+      "DRIFT",
+      "Kimi-K2.5",
+      "22.44",
+      "18.33",
+      "25.33",
+      "24.00"
+    ]
+  },
+  {
+    "metric": "asr",
+    "defense": "DRIFT",
+    "model": "Kimi-K2.5",
+    "table": 17,
+    "reported_overall": 0.0,
+    "suites": {
+      "Shopping": 0.0,
+      "Github": 0.0,
+      "Dailylife": 0.0
+    },
+    "source_cells": [
+      "DRIFT",
+      "Kimi-K2.5",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ]
+  }
+]
